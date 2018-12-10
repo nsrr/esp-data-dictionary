@@ -1,0 +1,12 @@
+{
+  "id": "ethnicity",
+  "display_name": "Ethnicity",
+  "description": "",
+  "type": "choices",
+  "domain": "ethnicity_1h_2nh",
+  "labels": [
+    "hispanic",
+    "latino"
+  ],
+  "commonly_used": true
+}

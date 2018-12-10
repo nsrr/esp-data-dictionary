@@ -1,0 +1,8 @@
+{
+  "id": "intervalmonth",
+  "display_name": "Interval Month",
+  "description": "",
+  "type": "choices",
+  "domain": "intervalmonth",
+  "commonly_used": true
+}

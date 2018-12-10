@@ -1,0 +1,8 @@
+{
+  "id": "subjectrole",
+  "display_name": "Subject Role",
+  "description": "",
+  "type": "choices",
+  "domain": "subjectrole",
+  "commonly_used": true
+}

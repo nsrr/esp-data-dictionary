@@ -1,0 +1,8 @@
+{
+  "id": "bisq_visit_age",
+  "display_name": "Age at BISQ administration",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "commonly_used": true
+}

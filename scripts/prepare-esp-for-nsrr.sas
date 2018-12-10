@@ -31,15 +31,53 @@
   libname espi "&esppath\_ids";
 
   *set data dictionary version;
-  %let version = 0.1.0;
+  %let version = 0.1.0.pre;
 
   *set nsrr csv release path;
-  %let releasepath = &esppath\_releases;
+  %let releasepath = \\rfawin\bwh-sleepepi-nsrr-sandbox\nimh-esp\nsrr-prep\_releases;
 
 *******************************************************************************;
 * create core dataset ;
 *******************************************************************************;
+  proc import datafile="&esppath\_source\Copy of 11-M-0144_Comprehensive_Behavioral_v7 data for NSRR 11-8-18.xlsx"
+    out=espnsrr_in
+    dbms=xlsx
+    replace;
+  run;
 
+  data espnsrr;
+    length nsrrid visitnumber intervalmonth subjectrole 8.;
+    set espnsrr_in;
+
+    nsrrid = input(substr(subject_number,1,3),8.);
+    visitnumber = input(substr(subject_number,5,1),8.);
+    intervalmonth = input(substr(Interval,1,2),8.);
+    if subject_role = "Typical" then subjectrole = 2;
+    else if subject_role = "Language Delay" then subjectrole = 3;
+
+    keep nsrrid visitnumber intervalmonth subjectrole race ethnicity edu_mother
+      sex BISQ_VISIT_AGE BISQ_SLEEP_ARRANGMENT BISQ_SLEEP_POSITION;
+  run;
+
+  data espnsrr_visit1;
+    set espnsrr;
+
+    if visitnumber = 1;
+  run;
+
+  proc sort data=espnsrr_visit1;
+    by nsrrid;
+  run;
+
+  data espnsrr_visit2;
+    set espnsrr;
+
+    if visitnumber = 2;
+  run;
+
+  proc sort data=espnsrr_visit2;
+    by nsrrid;
+  run;
 
 *******************************************************************************;
 * make all variable names lowercase ;
@@ -59,32 +97,31 @@
     run;
   %mend lowcase;
 
-  %lowcase(espbaseline_nsrr);
-  %lowcase(espmonth1_nsrr);
-  %lowcase(espmonth3_nsrr);
+  %lowcase(espnsrr_visit1);
+  %lowcase(espnsrr_visit2);
 
 *******************************************************************************;
 * create permanent sas datasets ;
 *******************************************************************************;
-  data espd.espbaseline espa.espbaseline_&sasfiledate;
-    set espbaseline_nsrr;
+  data espd.espvisit1 espa.espvisit1_&sasfiledate;
+    set espnsrr_visit1;
   run;
 
-  data espd.espmonth1 espa.espmonth1_&sasfiledate;;
-    set espmonth1_nsrr;
+  data espd.espvisit1 espa.espvisit1_&sasfiledate;;
+    set espnsrr_visit2;
   run;
 
 *******************************************************************************;
 * export nsrr csv datasets ;
 *******************************************************************************;
-  proc export data=espbaseline_nsrr
-    outfile="&releasepath\&version\esp-baseline-dataset-&version..csv"
+  proc export data=espnsrr_visit1
+    outfile="&releasepath\&version\esp-visit1-dataset-&version..csv"
     dbms=csv
     replace;
   run;
 
-  proc export data=espmonth1_nsrr
-    outfile="&releasepath\&version\esp-month1-dataset-&version..csv"
+  proc export data=espnsrr_visit2
+    outfile="&releasepath\&version\esp-visit2-dataset-&version..csv"
     dbms=csv
     replace;
   run;

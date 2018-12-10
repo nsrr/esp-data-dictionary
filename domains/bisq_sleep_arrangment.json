@@ -1,0 +1,22 @@
+[
+  {
+    "value": "1",
+    "display_name": "Infant crib in a separate room",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Infant crib in parents' room",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "In parents' bed",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Other",
+    "description": ""
+  }
+]
