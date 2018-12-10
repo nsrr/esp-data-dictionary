@@ -56,7 +56,9 @@
     else if subject_role = "Language Delay" then subjectrole = 3;
 
     keep nsrrid visitnumber intervalmonth subjectrole race ethnicity edu_mother
-      sex BISQ_VISIT_AGE BISQ_SLEEP_ARRANGMENT BISQ_SLEEP_POSITION;
+      sex 
+      BISQ_VISIT_AGE BISQ_SLEEP_ARRANGMENT BISQ_SLEEP_POSITION
+      CBCL_SLEEP_PROB_T_SCORE;
   run;
 
   data espnsrr_visit1;

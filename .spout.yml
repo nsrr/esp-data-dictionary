@@ -5,6 +5,8 @@ charts:
   title: Sex
 - chart: race
   title: Race
+- chart: subjectrole
+  title: Role
 webservers:
   - name: production
     url: https://sleepdata.org

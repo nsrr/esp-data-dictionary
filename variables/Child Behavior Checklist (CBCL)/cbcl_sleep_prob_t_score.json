@@ -1,0 +1,8 @@
+{
+  "id": "cbcl_sleep_prob_t_score",
+  "display_name": "Sleep Problems T Score",
+  "description": "",
+  "type": "numeric",
+  "units": "",
+  "commonly_used": true
+}
