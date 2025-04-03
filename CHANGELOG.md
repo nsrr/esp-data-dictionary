@@ -1,3 +1,3 @@
-## 0.1.0 (December 10, 2018)
+## 0.1.0
 
-- Created the esp-data-dictionary repository using Spout v0.14.1
+- Created the esp-data-dictionary repository using Spout

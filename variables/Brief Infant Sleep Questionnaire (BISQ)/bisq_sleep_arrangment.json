@@ -1,8 +1,0 @@
-{
-  "id": "bisq_sleep_arrangment",
-  "display_name": "Child's sleeping arrangement",
-  "description": "1. Sleeping arrangement",
-  "type": "choices",
-  "domain": "bisq_sleep_arrangment",
-  "commonly_used": true
-}

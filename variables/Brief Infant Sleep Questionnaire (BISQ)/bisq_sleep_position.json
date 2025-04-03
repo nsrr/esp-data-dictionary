@@ -1,8 +1,0 @@
-{
-  "id": "bisq_sleep_position",
-  "display_name": "Child's typical sleep position",
-  "description": "2. In what position does your child sleep most of the time?",
-  "type": "choices",
-  "domain": "bisq_sleep_position",
-  "commonly_used": true
-}

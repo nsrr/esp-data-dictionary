@@ -1,7 +1,7 @@
 ESP Data Dictionary
 ======================
 
-[![Build Status](https://travis-ci.org/sleepepi/esp-data-dictionary.svg?branch=master)](https://travis-ci.org/sleepepi/esp-data-dictionary)
+[![Build Status](https://app.travis-ci.com/nsrr/esp-data-dictionary.svg)](https://app.travis-ci.com/nsrr/esp-data-dictionary)
 
 ### Exports
 

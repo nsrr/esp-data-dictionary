@@ -1,8 +1,0 @@
-{
-  "id": "visitnumber",
-  "display_name": "Visit Number",
-  "description": "",
-  "type": "choices",
-  "domain": "visitnumber",
-  "commonly_used": true
-}

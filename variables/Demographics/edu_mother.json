@@ -1,8 +1,0 @@
-{
-  "id": "edu_mother",
-  "display_name": "Mother's education level",
-  "description": "",
-  "type": "choices",
-  "domain": "edu_mother",
-  "commonly_used": true
-}
