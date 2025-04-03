@@ -1,0 +1,10 @@
+{
+  "id": "vineland_instruction_require_1_action",
+  "display_name": "10. Follows instructions requiring only one action (for example, \"Sit down\"; \"Come here\").",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

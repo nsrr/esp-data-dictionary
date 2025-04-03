@@ -1,0 +1,10 @@
+{
+  "id": "wake_good_appetitie",
+  "display_name": "41. Child has a good appetite in the morning",
+  "description": "",
+  "type": "choices",
+  "domain": "bedtime_ready_3",
+  "other": {
+    "descriptions": null
+  }
+}

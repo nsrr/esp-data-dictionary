@@ -1,0 +1,9 @@
+{
+  "id": "cbcl_anxious_depressed_t_score",
+  "display_name": "Anxious/Depressed T Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

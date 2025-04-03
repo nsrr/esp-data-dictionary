@@ -1,0 +1,10 @@
+{
+  "id": "vineland_write_short_report_3_sentence",
+  "display_name": "24. Writes short reports or summaries (for example, a summary of something read) at least three sentences long; must use own words rather than simply borrowing or copying from other sources.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

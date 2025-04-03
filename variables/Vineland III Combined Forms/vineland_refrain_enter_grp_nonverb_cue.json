@@ -1,0 +1,10 @@
+{
+  "id": "vineland_refrain_enter_grp_nonverb_cue",
+  "display_name": "29. Refrains from entering a group when nonverbal cues indicate that he/she is not welcome.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

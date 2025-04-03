@@ -1,0 +1,10 @@
+{
+  "id": "vineland_questions_beginning_with_why",
+  "display_name": "32. Asks questions beginning with why (for example, \"Why do I have to go?\"; \"Why did you put my stuff away?\"; just asking \"Why?\" (one word) doesn't count.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

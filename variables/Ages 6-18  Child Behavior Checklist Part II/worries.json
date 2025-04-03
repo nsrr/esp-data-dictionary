@@ -1,0 +1,10 @@
+{
+  "id": "worries",
+  "display_name": "112. Worries.",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "other": {
+    "descriptions": null
+  }
+}

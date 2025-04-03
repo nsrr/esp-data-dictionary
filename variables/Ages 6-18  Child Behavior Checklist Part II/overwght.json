@@ -1,0 +1,10 @@
+{
+  "id": "overwght",
+  "display_name": "55. Overweight.",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "other": {
+    "descriptions": null
+  }
+}

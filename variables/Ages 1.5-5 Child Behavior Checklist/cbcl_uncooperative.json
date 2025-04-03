@@ -1,0 +1,10 @@
+{
+  "id": "cbcl_uncooperative",
+  "display_name": "88. Uncooperative",
+  "description": "",
+  "type": "choices",
+  "domain": "cbcl_aches_or_pains_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "bayley_motor_gm_scaled_score",
+  "display_name": "Gross Motor Scaled Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

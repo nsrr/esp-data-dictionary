@@ -1,0 +1,10 @@
+{
+  "id": "vineland_interpret_info_simple_charts",
+  "display_name": "23. Accurately interprets information present in simple tables, graphs, or charts.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

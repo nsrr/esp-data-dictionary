@@ -1,0 +1,9 @@
+{
+  "id": "wppsi_cancellation_scale",
+  "display_name": "Cancellation Scale Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

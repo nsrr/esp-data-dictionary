@@ -1,0 +1,9 @@
+{
+  "id": "nonverbal_cluster_reason_tscore",
+  "display_name": "Sequential and Quantitative Reasoning T-Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "ados_algorithm_classification",
+  "display_name": "Classification based on Overall Total Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

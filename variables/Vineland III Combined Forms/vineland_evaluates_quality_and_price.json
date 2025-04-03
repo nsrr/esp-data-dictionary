@@ -1,0 +1,10 @@
+{
+  "id": "vineland_evaluates_quality_and_price",
+  "display_name": "39. Evaluates quality and price when deciding what to buy.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

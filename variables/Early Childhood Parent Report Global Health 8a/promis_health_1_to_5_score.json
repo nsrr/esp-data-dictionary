@@ -1,0 +1,9 @@
+{
+  "id": "promis_health_1_to_5_score",
+  "display_name": "Sum of all eight items",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

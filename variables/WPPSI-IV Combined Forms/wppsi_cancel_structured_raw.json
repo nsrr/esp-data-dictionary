@@ -1,0 +1,9 @@
+{
+  "id": "wppsi_cancel_structured_raw",
+  "display_name": "Cancellation Structured Raw Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

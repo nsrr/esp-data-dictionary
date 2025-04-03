@@ -1,0 +1,9 @@
+{
+  "id": "personal_age_equiv_yr",
+  "display_name": "Daily Living Skills- Personal Age Equivalent Year",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

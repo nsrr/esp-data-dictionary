@@ -1,0 +1,10 @@
+{
+  "id": "vineland_writes_in_correct_direction",
+  "display_name": "7. Writes in the correct direction (for example, from left to right in English; in other languages from right to left or top to bottom).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

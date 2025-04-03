@@ -1,0 +1,10 @@
+{
+  "id": "vineland_anxious",
+  "display_name": "5. Is extremely anxious or nervous.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

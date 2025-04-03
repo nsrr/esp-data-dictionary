@@ -1,0 +1,10 @@
+{
+  "id": "notliked",
+  "display_name": "48. Not liked by other kids.",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "other": {
+    "descriptions": null
+  }
+}

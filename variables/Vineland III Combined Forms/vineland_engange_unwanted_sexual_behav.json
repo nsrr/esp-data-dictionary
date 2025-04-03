@@ -1,0 +1,10 @@
+{
+  "id": "vineland_engange_unwanted_sexual_behav",
+  "display_name": "20. Engages in unwanted sexual behavior (for example, unwanted comments, unwanted physical contact, exposing him/herself, masturbating in public, having sex at school or work).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

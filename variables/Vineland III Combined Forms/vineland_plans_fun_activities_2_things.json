@@ -1,0 +1,10 @@
+{
+  "id": "vineland_plans_fun_activities_2_things",
+  "display_name": "35. Plans fun activities with more than two things to be arranged (for example, birthday party, group outing).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

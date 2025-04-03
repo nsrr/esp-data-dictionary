@@ -1,0 +1,10 @@
+{
+  "id": "vineland_show_more_interest_in_weapons",
+  "display_name": "10. Shows far more interest in weapons or extreme violence than others his/her age.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

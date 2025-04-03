@@ -1,0 +1,10 @@
+{
+  "id": "vineland_chooses_to_join_othr_children",
+  "display_name": "7. Chooses to join other children who are playing rather than watching them or playing alone.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

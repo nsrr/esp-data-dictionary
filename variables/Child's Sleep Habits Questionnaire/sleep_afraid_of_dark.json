@@ -1,0 +1,10 @@
+{
+  "id": "sleep_afraid_of_dark",
+  "display_name": "11. Child is afraid of sleeping in the dark",
+  "description": "",
+  "type": "choices",
+  "domain": "bedtime_ready_3",
+  "other": {
+    "descriptions": null
+  }
+}

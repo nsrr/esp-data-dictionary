@@ -1,0 +1,10 @@
+{
+  "id": "ados_imagination_creativity",
+  "display_name": "Imagination and Creativity Item Score",
+  "description": "",
+  "type": "choices",
+  "domain": "ados_imagination_creativity_6",
+  "other": {
+    "descriptions": null
+  }
+}

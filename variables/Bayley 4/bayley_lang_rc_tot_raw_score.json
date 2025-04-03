@@ -1,0 +1,9 @@
+{
+  "id": "bayley_lang_rc_tot_raw_score",
+  "display_name": "Language Receptive Communication Raw Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

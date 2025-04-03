@@ -1,0 +1,10 @@
+{
+  "id": "vineland_wash_dishes",
+  "display_name": "23. Washes dishes (either by hand, or by loading and running the dishwasher when needed).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

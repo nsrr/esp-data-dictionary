@@ -1,0 +1,9 @@
+{
+  "id": "dp4_cog_age_equiv_mo",
+  "display_name": "Cognitive Age Equivalent Months",
+  "description": "",
+  "type": "integer",
+  "other": {
+    "descriptions": null
+  }
+}

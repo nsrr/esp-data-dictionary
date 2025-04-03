@@ -1,0 +1,10 @@
+{
+  "id": "dizz_faint_spls",
+  "display_name": "Fainting spells",
+  "description": "",
+  "type": "choices",
+  "domain": "change_appetite_2",
+  "other": {
+    "descriptions": null
+  }
+}

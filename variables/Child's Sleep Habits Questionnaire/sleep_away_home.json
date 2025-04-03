@@ -1,0 +1,10 @@
+{
+  "id": "sleep_away_home",
+  "display_name": "27. Child has trouble sleeping away from home (visiting relatives, vacation, etc)",
+  "description": "",
+  "type": "choices",
+  "domain": "bedtime_ready_3",
+  "other": {
+    "descriptions": null
+  }
+}

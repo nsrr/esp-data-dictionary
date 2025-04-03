@@ -1,0 +1,10 @@
+{
+  "id": "vineland_show_affection_familiar_ppl",
+  "display_name": "8. Shows affection to familiar people (for example, touches, hugs, kisses, cuddles).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

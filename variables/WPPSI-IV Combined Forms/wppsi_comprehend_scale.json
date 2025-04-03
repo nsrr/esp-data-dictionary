@@ -1,0 +1,9 @@
+{
+  "id": "wppsi_comprehend_scale",
+  "display_name": "Comprehension Scale Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vineland_has_toileting_accidents",
+  "display_name": "7. Has toileting accidents (that is, wets or soils self when not in diapers).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

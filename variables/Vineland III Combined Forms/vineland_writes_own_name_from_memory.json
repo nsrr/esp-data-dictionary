@@ -1,0 +1,10 @@
+{
+  "id": "vineland_writes_own_name_from_memory",
+  "display_name": "13. Writes own first and last name from memory; writing first name only doesn't count.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

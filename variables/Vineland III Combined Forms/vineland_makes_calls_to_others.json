@@ -1,0 +1,10 @@
+{
+  "id": "vineland_makes_calls_to_others",
+  "display_name": "19. Makes calls to others using a phone, computer, or other electronic device.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

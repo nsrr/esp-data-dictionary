@@ -1,0 +1,9 @@
+{
+  "id": "wisc_figure_weights_scaled",
+  "display_name": "Figure Weights Scaled Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

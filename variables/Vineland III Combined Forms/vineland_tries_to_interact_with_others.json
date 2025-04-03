@@ -1,0 +1,10 @@
+{
+  "id": "vineland_tries_to_interact_with_others",
+  "display_name": "6. Tries to interact with others (for examples, smiles or makes noises at someone, reaches for someone).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

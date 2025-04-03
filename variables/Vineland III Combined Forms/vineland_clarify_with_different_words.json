@@ -1,0 +1,10 @@
+{
+  "id": "vineland_clarify_with_different_words",
+  "display_name": "47. Clarifies by restating with different words when he/she is not fully understood at first.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

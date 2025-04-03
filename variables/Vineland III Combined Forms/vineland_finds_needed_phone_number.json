@@ -1,0 +1,10 @@
+{
+  "id": "vineland_finds_needed_phone_number",
+  "display_name": "31. Finds a needed phone number (for example, uses a contact list, the Internet, a phone book, 411).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

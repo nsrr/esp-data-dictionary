@@ -1,0 +1,9 @@
+{
+  "id": "cbcl_somatic_total_score",
+  "display_name": "Somatic Complaints Total Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

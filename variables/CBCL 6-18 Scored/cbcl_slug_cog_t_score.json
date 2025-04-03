@@ -1,0 +1,9 @@
+{
+  "id": "cbcl_slug_cog_t_score",
+  "display_name": "Sluggish Cognitive Tempo T Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

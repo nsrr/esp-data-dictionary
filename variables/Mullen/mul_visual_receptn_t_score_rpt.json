@@ -1,0 +1,9 @@
+{
+  "id": "mul_visual_receptn_t_score_rpt",
+  "display_name": "Visual Reception T Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

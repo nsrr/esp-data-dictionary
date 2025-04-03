@@ -1,0 +1,10 @@
+{
+  "id": "vineland_ctrl_anger_when_criticized",
+  "display_name": "24. Controls anger or hurt feelings when given constructive criticism (for example, correction of misbehavior, discussion of a test score or grade, a performance review).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

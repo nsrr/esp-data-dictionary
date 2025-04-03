@@ -1,0 +1,10 @@
+{
+  "id": "sleep_wake_scream",
+  "display_name": "29. Child awakens during night screaming, sweating, and inconsolable",
+  "description": "",
+  "type": "choices",
+  "domain": "awake_fright_dream_8",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vineland_manipulates_small_objects",
+  "display_name": "33. Manipulates very small objects (for example, sets hands on a watch, threads a sewing needle, glues miniature model parts).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

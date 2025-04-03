@@ -1,0 +1,10 @@
+{
+  "id": "vineland_joins_in_group_verbal_cues",
+  "display_name": "10. Joins in with a group when verbal cues indicate that he/she is welcome.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

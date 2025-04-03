@@ -1,0 +1,10 @@
+{
+  "id": "vineland_says_both_month_day_of_bday",
+  "display_name": "46. Says both the month and day of his/her birthday when asked.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

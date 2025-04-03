@@ -1,0 +1,9 @@
+{
+  "id": "csbs_itc_understanding_score",
+  "display_name": "Sum of two Understanding responses",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

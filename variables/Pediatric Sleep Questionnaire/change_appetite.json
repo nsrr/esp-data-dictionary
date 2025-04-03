@@ -1,0 +1,10 @@
+{
+  "id": "change_appetite",
+  "display_name": "Change in appetite",
+  "description": "",
+  "type": "choices",
+  "domain": "change_appetite_2",
+  "other": {
+    "descriptions": null
+  }
+}

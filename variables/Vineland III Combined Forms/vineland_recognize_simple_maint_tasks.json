@@ -1,0 +1,10 @@
+{
+  "id": "vineland_recognize_simple_maint_tasks",
+  "display_name": "27. Recognizes when simple maintenance tasks need to be done and does them (for example, replaces light bulbs, batteries, filters, or vacuum cleaner bag).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

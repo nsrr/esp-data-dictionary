@@ -1,0 +1,10 @@
+{
+  "id": "vineland_dirty_clothes_in_proper_palce",
+  "display_name": "4. Puts dirty clothes in the proper place to be washed (for example, a laundry basket or chute).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

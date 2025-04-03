@@ -1,0 +1,10 @@
+{
+  "id": "vineland_complete_papers_of_1_pg_less",
+  "display_name": "33. Accurately completes paper or electronic forms of one page or less (for example, forms for school or work).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "mul_lang_receptn_t_score_rpt",
+  "display_name": "Receptive Language T Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

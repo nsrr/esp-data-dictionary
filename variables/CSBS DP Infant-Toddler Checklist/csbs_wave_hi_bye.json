@@ -1,0 +1,10 @@
+{
+  "id": "csbs_wave_hi_bye",
+  "display_name": "11. Does your child wave to greet people?",
+  "description": "",
+  "type": "choices",
+  "domain": "csbs_child_get_laugh_3",
+  "other": {
+    "descriptions": null
+  }
+}

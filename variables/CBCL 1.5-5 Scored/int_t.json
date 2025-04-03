@@ -1,0 +1,9 @@
+{
+  "id": "int_t",
+  "display_name": "Internalizing Problems T Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

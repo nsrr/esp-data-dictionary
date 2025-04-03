@@ -1,0 +1,10 @@
+{
+  "id": "nap_during_day",
+  "display_name": "42. Child naps during the day",
+  "description": "",
+  "type": "choices",
+  "domain": "nap_during_day_7",
+  "other": {
+    "descriptions": null
+  }
+}

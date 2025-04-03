@@ -1,0 +1,10 @@
+{
+  "id": "vineland_handles_change_in_routine",
+  "display_name": "7. Handles changes in routine without becoming overly distressed. ",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

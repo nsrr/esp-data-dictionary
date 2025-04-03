@@ -1,0 +1,10 @@
+{
+  "id": "vineland_breaks_rules_or_laws",
+  "display_name": "8. Breaks rules or laws because of peer pressure.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

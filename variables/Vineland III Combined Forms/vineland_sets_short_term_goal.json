@@ -1,0 +1,10 @@
+{
+  "id": "vineland_sets_short_term_goal",
+  "display_name": "30. Sets a short-term goal and achieves it (for example, completes all homework by Thursday night in order to have the weekend free).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

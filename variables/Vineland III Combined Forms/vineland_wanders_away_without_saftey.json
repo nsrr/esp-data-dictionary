@@ -1,0 +1,10 @@
+{
+  "id": "vineland_wanders_away_without_saftey",
+  "display_name": "16. Wanders, darts away, or takes off from home, school, or someone watching him/her without regard for safety.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

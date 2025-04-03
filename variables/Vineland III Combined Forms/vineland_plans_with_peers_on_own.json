@@ -1,0 +1,10 @@
+{
+  "id": "vineland_plans_with_peers_on_own",
+  "display_name": "32. Plans ahead to do things with peers on his/her own.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "oppsex",
+  "display_name": "110. Wishes to be of opposite sex.",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "other": {
+    "descriptions": null
+  }
+}

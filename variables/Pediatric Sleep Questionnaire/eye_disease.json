@@ -1,0 +1,10 @@
+{
+  "id": "eye_disease",
+  "display_name": "Eye disease or injury",
+  "description": "",
+  "type": "choices",
+  "domain": "change_appetite_2",
+  "other": {
+    "descriptions": null
+  }
+}

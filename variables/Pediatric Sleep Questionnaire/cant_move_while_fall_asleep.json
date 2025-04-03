@@ -1,0 +1,10 @@
+{
+  "id": "cant_move_while_fall_asleep",
+  "display_name": "Does you child feel paralyzed when waking or falling asleep?",
+  "description": "",
+  "type": "choices",
+  "domain": "afternoon_sleep_5",
+  "other": {
+    "descriptions": null
+  }
+}

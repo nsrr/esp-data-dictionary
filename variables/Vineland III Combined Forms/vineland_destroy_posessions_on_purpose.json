@@ -1,0 +1,10 @@
+{
+  "id": "vineland_destroy_posessions_on_purpose",
+  "display_name": "11. Destroys his/her own or someone else's possessions on purpose.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

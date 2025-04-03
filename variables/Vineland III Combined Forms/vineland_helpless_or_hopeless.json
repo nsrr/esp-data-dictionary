@@ -1,0 +1,10 @@
+{
+  "id": "vineland_helpless_or_hopeless",
+  "display_name": "12. Feels helpless or hopeless (for example, says that things are bad and will never get better).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

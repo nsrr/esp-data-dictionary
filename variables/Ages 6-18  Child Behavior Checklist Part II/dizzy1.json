@@ -1,0 +1,10 @@
+{
+  "id": "dizzy1",
+  "display_name": "51. Feels dizzy.",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "other": {
+    "descriptions": null
+  }
+}

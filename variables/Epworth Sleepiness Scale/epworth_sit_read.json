@@ -1,0 +1,10 @@
+{
+  "id": "epworth_sit_read",
+  "display_name": "Sitting and reading",
+  "description": "",
+  "type": "choices",
+  "domain": "epworth_after_lunch_4",
+  "other": {
+    "descriptions": null
+  }
+}

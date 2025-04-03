@@ -1,0 +1,10 @@
+{
+  "id": "vineland_some_items_cost_more",
+  "display_name": "14. Understands that some items cost more than others (for example, might say \"I have enough money to buy stickers but not a book\" or \"Which pens cost less?\").",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vineland_pay_attention_15_min_informal",
+  "display_name": "35. Pays attention to a 15-minute informational presentation and understands what is being said.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

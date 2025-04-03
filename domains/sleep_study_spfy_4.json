@@ -1,0 +1,22 @@
+[
+  {
+    "value": "1",
+    "display_name": "Within 1 year",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "1- 2 years ago",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "2-5 years ago",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Over 5 years",
+    "description": ""
+  }
+]

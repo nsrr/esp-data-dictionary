@@ -1,0 +1,10 @@
+{
+  "id": "sleep_play_alone",
+  "display_name": "45. Playing alone",
+  "description": "",
+  "type": "choices",
+  "domain": "asleep_car_3",
+  "other": {
+    "descriptions": null
+  }
+}

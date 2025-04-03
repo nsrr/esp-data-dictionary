@@ -1,0 +1,10 @@
+{
+  "id": "vineland_pull_up_clothes_elastic_waist",
+  "display_name": "13. Pulls up clothing with elastic waistbands (for example, underwear, sweatpants).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

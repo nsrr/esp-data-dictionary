@@ -1,0 +1,10 @@
+{
+  "id": "vineland_interprets_visual_instruction",
+  "display_name": "25. Accurately interprets visual instructions (for example, assembly instructions, directions shown on a map).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

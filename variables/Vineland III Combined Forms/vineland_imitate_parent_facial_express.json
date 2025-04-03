@@ -1,0 +1,10 @@
+{
+  "id": "vineland_imitate_parent_facial_express",
+  "display_name": "13. Imitates or tries to imitate parent's or caregiver's facial expressions (for example, when parent or caregiver makes a happy, sad, or surprised face).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

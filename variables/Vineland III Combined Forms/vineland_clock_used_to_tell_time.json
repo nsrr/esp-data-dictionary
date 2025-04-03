@@ -1,0 +1,10 @@
+{
+  "id": "vineland_clock_used_to_tell_time",
+  "display_name": "6. Understands that a clock is used to tell time.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

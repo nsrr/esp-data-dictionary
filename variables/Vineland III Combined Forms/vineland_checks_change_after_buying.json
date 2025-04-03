@@ -1,0 +1,10 @@
+{
+  "id": "vineland_checks_change_after_buying",
+  "display_name": "38. Checks change to make sure it is correct after buying something.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

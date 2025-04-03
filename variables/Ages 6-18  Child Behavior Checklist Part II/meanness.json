@@ -1,0 +1,10 @@
+{
+  "id": "meanness",
+  "display_name": "16. Cruelty, bullying, or meanness to others.",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "other": {
+    "descriptions": null
+  }
+}

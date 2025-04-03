@@ -1,0 +1,10 @@
+{
+  "id": "vineland_vocalizes_gestures",
+  "display_name": "3. Vocalizes or gestures (for example, cries or waves arms) to get parent's or caregiver's attention.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

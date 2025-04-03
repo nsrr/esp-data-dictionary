@@ -1,0 +1,9 @@
+{
+  "id": "cbcl_aggressive_total_score",
+  "display_name": "Aggressive Behavior Total Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vineland_manners_when_eating_in_public",
+  "display_name": "8. Uses appropriate manners when eating in public (for example, uses utensils, sits properly, doesn't disrupt others).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

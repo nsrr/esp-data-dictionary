@@ -1,0 +1,10 @@
+{
+  "id": "vineland_careful_around_hot_obj",
+  "display_name": "1. Is careful around hot objects (for example, the stove or oven, an open fire).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

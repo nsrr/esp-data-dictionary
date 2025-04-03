@@ -1,0 +1,10 @@
+{
+  "id": "vineland_shows_interest_in_surrounding",
+  "display_name": "2. Shows interest in surroundings (for example, looks or moves around, touches objects or people).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

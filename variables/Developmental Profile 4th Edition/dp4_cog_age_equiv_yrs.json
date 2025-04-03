@@ -1,0 +1,9 @@
+{
+  "id": "dp4_cog_age_equiv_yrs",
+  "display_name": "Cognitive Age Equivalent Years",
+  "description": "",
+  "type": "integer",
+  "other": {
+    "descriptions": null
+  }
+}

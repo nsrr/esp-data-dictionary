@@ -1,0 +1,9 @@
+{
+  "id": "awake_min_per_night",
+  "display_name": "Type in the number of minutes a night waking usually lasts",
+  "description": "",
+  "type": "integer",
+  "other": {
+    "descriptions": null
+  }
+}

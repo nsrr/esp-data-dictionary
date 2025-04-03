@@ -1,0 +1,9 @@
+{
+  "id": "have_brothers",
+  "display_name": "How many brothers?",
+  "description": "",
+  "type": "integer",
+  "other": {
+    "descriptions": null
+  }
+}

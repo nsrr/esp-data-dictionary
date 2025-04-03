@@ -1,0 +1,9 @@
+{
+  "id": "wppsi_cancel_structured_scale",
+  "display_name": "Cancellation Structured Scale Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

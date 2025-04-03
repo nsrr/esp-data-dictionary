@@ -1,0 +1,10 @@
+{
+  "id": "vineland_right_to_vote",
+  "display_name": "36. Understands the right to vote.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

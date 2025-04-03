@@ -1,0 +1,10 @@
+{
+  "id": "fall_sleep_need_object",
+  "display_name": "6. Child needs special object to fall asleep (doll, special blanket, etc.)",
+  "description": "",
+  "type": "choices",
+  "domain": "bedtime_ready_3",
+  "other": {
+    "descriptions": null
+  }
+}

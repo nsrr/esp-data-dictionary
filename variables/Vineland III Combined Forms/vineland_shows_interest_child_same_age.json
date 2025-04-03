@@ -1,0 +1,10 @@
+{
+  "id": "vineland_shows_interest_child_same_age",
+  "display_name": "9. Shows interest in children the same age, other than brothers or sisters (for example, watches them, smiles at them).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

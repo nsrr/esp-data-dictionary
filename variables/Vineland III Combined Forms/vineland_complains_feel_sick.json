@@ -1,0 +1,10 @@
+{
+  "id": "vineland_complains_feel_sick",
+  "display_name": "13. Complains of feeling sick, exhausted, or in pain, even though there is no medical reason.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

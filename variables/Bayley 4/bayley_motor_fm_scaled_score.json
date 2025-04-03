@@ -1,0 +1,9 @@
+{
+  "id": "bayley_motor_fm_scaled_score",
+  "display_name": "Fine Motor Scaled Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

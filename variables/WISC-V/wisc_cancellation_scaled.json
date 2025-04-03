@@ -1,0 +1,9 @@
+{
+  "id": "wisc_cancellation_scaled",
+  "display_name": "Cancellation Scaled Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

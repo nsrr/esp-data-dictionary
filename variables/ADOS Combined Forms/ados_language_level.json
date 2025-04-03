@@ -1,0 +1,9 @@
+{
+  "id": "ados_language_level",
+  "display_name": "Module 1, item A1. Overall Level of Non-Echoed Spoken Language",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

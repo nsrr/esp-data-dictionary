@@ -1,0 +1,10 @@
+{
+  "id": "csbs_child_undrstand_word",
+  "display_name": "20. About how many different words or phrases does your child understand without gestures? For example, if you say \"where's your tummy,\" \"where's Daddy,\" \"give me the ball,\" or \"come here,\" without showing or pointing, your child will respond appropriately.",
+  "description": "",
+  "type": "choices",
+  "domain": "csbs_child_undrstand_word_5",
+  "other": {
+    "descriptions": null
+  }
+}

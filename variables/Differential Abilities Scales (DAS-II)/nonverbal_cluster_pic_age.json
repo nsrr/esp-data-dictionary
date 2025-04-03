@@ -1,0 +1,9 @@
+{
+  "id": "nonverbal_cluster_pic_age",
+  "display_name": "Picture Similarities Age Equivalent",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "steals",
+  "display_name": "81. Steals at home.",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "other": {
+    "descriptions": null
+  }
+}

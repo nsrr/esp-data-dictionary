@@ -1,0 +1,10 @@
+{
+  "id": "vineland_manages_daily_expenses",
+  "display_name": "52. Manages daily expenses responsibly (for example, meals, bus fare).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

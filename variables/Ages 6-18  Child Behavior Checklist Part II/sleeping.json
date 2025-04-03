@@ -1,0 +1,10 @@
+{
+  "id": "sleeping",
+  "display_name": "100. Trouble sleeping.",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "other": {
+    "descriptions": null
+  }
+}

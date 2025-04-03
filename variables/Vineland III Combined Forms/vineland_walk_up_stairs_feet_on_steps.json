@@ -1,0 +1,10 @@
+{
+  "id": "vineland_walk_up_stairs_feet_on_steps",
+  "display_name": "21. Walks up stairs. putting both feet on each step; may use railing.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

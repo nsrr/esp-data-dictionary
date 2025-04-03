@@ -1,0 +1,10 @@
+{
+  "id": "vineland_say_value_of_coins_when_asked",
+  "display_name": "23. Says the value of a penny (1 cent), nickel (5 cents), dime (10 cents), and quarter (25 cents) when asked.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

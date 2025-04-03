@@ -1,0 +1,10 @@
+{
+  "id": "guilty1",
+  "display_name": "26. Doesn't seem to feel guilty after misbehaving.",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "other": {
+    "descriptions": null
+  }
+}

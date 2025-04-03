@@ -1,0 +1,10 @@
+{
+  "id": "vineland_fixated_on_person_annoy_way",
+  "display_name": "19 Gets fixated on a person in a way that is annoying or intrusive to that person.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

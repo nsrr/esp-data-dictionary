@@ -1,0 +1,10 @@
+{
+  "id": "vineland_jumps_forward_3_times_no_fall",
+  "display_name": "29. Jumps forward at least three times with both feet without falling.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "wake_long_time_alert",
+  "display_name": "39. Child takes a long time to become alert in the morning",
+  "description": "",
+  "type": "choices",
+  "domain": "bedtime_ready_3",
+  "other": {
+    "descriptions": null
+  }
+}

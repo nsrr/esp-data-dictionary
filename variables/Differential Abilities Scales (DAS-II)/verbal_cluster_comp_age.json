@@ -1,0 +1,9 @@
+{
+  "id": "verbal_cluster_comp_age",
+  "display_name": "Verbal Comprehension Age Equivalent",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "dls_standard_score",
+  "display_name": "Daily Living Skills Standard Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

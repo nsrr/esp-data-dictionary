@@ -1,0 +1,10 @@
+{
+  "id": "vineland_what_to_do_in_danger",
+  "display_name": "11. Understands what to do in dangerous situations (for example, when to get help, when to call 911, how to distance self from danger).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

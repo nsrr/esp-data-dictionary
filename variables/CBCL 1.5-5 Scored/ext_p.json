@@ -1,0 +1,9 @@
+{
+  "id": "ext_p",
+  "display_name": "Externalizing Problems Percentile",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vineland_walk_down_stair_alternte_feet",
+  "display_name": "33. Walks down stairs, alternating feet; may use railing.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

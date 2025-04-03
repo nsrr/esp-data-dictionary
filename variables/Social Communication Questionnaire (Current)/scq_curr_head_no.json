@@ -1,0 +1,10 @@
+{
+  "id": "scq_curr_head_no",
+  "display_name": "25. Does she/he shake her/his head to indicate no?",
+  "description": "",
+  "type": "choices",
+  "domain": "scq_curr_appropriate_express_2",
+  "other": {
+    "descriptions": null
+  }
+}

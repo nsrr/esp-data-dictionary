@@ -1,0 +1,9 @@
+{
+  "id": "total_p",
+  "display_name": "Total Problems Percentile",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vineland_set_long_range_goal",
+  "display_name": "49. Sets a long-range goal requiring two years or more and achieves it (for example, makes a sports or academic team, gets into college).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "comm_standard_score",
+  "display_name": "Communication Standard Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

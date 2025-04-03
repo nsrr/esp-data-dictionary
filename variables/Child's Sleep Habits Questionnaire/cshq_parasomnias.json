@@ -1,0 +1,9 @@
+{
+  "id": "cshq_parasomnias",
+  "display_name": "Sum: CSHQ_WETSBED\n+ CSHQ_TALKS_IN_SLEEP\n+ CSHQ_SLEEP_RESTLESS\n+ CSHQ_SLEEPWALK\n+ CSHQ_SLEEP_GRIND_TEETH\n+ CSHQ_SLEEP_WAKE_SCREAM\n+ CSHQ_AWAKE_FRIGHT_DREAM\nMean substituted for up to one missing answer",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

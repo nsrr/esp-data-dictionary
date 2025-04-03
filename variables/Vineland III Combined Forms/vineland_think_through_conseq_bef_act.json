@@ -1,0 +1,10 @@
+{
+  "id": "vineland_think_through_conseq_bef_act",
+  "display_name": "29. Thinks through the consequences of his/her actions before acting (for example, refrains from acting impulsively, considers relevant information).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

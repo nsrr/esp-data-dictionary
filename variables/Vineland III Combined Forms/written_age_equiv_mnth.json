@@ -1,0 +1,9 @@
+{
+  "id": "written_age_equiv_mnth",
+  "display_name": "Communication- Written Age Equivalent Month",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

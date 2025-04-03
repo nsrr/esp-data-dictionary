@@ -1,0 +1,10 @@
+{
+  "id": "vineland_select_clothing_wet_cold_wthr",
+  "display_name": "43. Selects appropriate clothing during wet or cold weather (for example, raincoat, boots, sweater).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

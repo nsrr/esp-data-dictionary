@@ -1,0 +1,10 @@
+{
+  "id": "vineland_indr_outdr_games_keep_score",
+  "display_name": "22. Plays with others at simple indoor or outdoor games where the players keep score (for example, tic-tac-toe, kickball, card games).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

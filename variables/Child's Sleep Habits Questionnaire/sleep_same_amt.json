@@ -1,0 +1,10 @@
+{
+  "id": "sleep_same_amt",
+  "display_name": "16. Child sleeps about the same amount each day",
+  "description": "",
+  "type": "choices",
+  "domain": "fall_sleep_own_bed_3",
+  "other": {
+    "descriptions": null
+  }
+}

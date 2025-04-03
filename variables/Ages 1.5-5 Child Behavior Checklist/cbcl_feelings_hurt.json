@@ -1,0 +1,10 @@
+{
+  "id": "cbcl_feelings_hurt",
+  "display_name": "33. Feelings are easily hurt",
+  "description": "",
+  "type": "choices",
+  "domain": "cbcl_aches_or_pains_3",
+  "other": {
+    "descriptions": null
+  }
+}

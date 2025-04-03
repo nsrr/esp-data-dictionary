@@ -1,0 +1,10 @@
+{
+  "id": "vineland_writes_papers_one_page_long",
+  "display_name": "30. Writes reports, papers, or essays at least one page long; must use own words rather than simply borrowing or copying from other sources.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

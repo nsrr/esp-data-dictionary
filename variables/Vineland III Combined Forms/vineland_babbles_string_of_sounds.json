@@ -1,0 +1,10 @@
+{
+  "id": "vineland_babbles_string_of_sounds",
+  "display_name": "5. Babbles in strings of sounds (for example, \"Ba-ba-ba-ba,\" \"Ma-ma-ma-ma,\" \"Da-da-da-da\").",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

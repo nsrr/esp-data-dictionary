@@ -1,0 +1,10 @@
+{
+  "id": "vineland_cooperate_undress_and_dress",
+  "display_name": "5. Cooperates actively in undressing and dressing (raises arms for removing top, holds out feet for putting on pants or shoes, etc.).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

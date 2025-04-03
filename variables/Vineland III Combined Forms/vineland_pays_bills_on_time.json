@@ -1,0 +1,10 @@
+{
+  "id": "vineland_pays_bills_on_time",
+  "display_name": "57. Pays bills on time.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

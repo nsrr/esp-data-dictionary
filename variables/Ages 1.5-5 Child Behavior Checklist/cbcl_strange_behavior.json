@@ -1,0 +1,10 @@
+{
+  "id": "cbcl_strange_behavior",
+  "display_name": "80. Strange behavior",
+  "description": "",
+  "type": "choices",
+  "domain": "cbcl_aches_or_pains_3",
+  "other": {
+    "descriptions": null
+  }
+}

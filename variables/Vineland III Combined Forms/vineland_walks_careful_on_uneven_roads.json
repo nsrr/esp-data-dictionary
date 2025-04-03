@@ -1,0 +1,10 @@
+{
+  "id": "vineland_walks_careful_on_uneven_roads",
+  "display_name": "28. Walks carefully on a sidewalk or road that is slippery or uneven.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

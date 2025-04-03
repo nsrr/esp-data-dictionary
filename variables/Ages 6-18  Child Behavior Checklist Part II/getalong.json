@@ -1,0 +1,10 @@
+{
+  "id": "getalong",
+  "display_name": "25. Doesn't get along with other kids.",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vineland_cooperate_wash_hands_and_face",
+  "display_name": "6. Cooperates actively in washing of hands and face (holds out hands, turns face toward parent or caregiver, etc.).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

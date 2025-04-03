@@ -1,0 +1,10 @@
+{
+  "id": "vineland_follows_time_limits",
+  "display_name": "19. Follows time limits imposed by parent or caregiver (for example, amount of time allowed to watch TV, play a game, use the Internet, or play outside).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

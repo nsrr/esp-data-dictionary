@@ -1,0 +1,10 @@
+{
+  "id": "infights",
+  "display_name": "37. Gets in many fights.",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "other": {
+    "descriptions": null
+  }
+}

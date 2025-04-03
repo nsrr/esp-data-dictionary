@@ -1,0 +1,10 @@
+{
+  "id": "vineland_wash_hands_soap_and_water",
+  "display_name": "16. Washes hands using soap and water and dries them; does not need to turn the water on and off or adjust the temperature.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

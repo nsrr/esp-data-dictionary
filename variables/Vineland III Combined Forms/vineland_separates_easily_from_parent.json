@@ -1,0 +1,10 @@
+{
+  "id": "vineland_separates_easily_from_parent",
+  "display_name": "3. Separates easily from parent or caregiver when left with another person (that is, does not have a temper tantrum, sulk, etc. when parent or caregiver leaves or attempts to leave).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

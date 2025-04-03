@@ -1,0 +1,10 @@
+{
+  "id": "vineland_defecate_in_toilet",
+  "display_name": "21. Defecates in a toilet or potty chair; parent or caregiver may initiate.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

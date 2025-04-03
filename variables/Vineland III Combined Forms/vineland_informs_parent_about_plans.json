@@ -1,0 +1,10 @@
+{
+  "id": "vineland_informs_parent_about_plans",
+  "display_name": "32. Informs parent or caregiver about his/her plans when he/she goes out (for example, what time he/she is leaving and returning, where he/she is going).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

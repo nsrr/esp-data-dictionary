@@ -1,0 +1,10 @@
+{
+  "id": "vineland_phys_aggressive",
+  "display_name": "5. Is physically aggressive (for example, hits, kicks, bites).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

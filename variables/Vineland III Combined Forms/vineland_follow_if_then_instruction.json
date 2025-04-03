@@ -1,0 +1,10 @@
+{
+  "id": "vineland_follow_if_then_instruction",
+  "display_name": "25. Follow instructions in \"if-then\" form (for example, \"If you're thirst, then get a drink\"; \"If you are cold, then get a sweatshirt\").",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

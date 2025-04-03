@@ -1,0 +1,9 @@
+{
+  "id": "verbal_cluster_similar_age",
+  "display_name": "Picture Similarities Age Equivalent",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

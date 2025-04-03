@@ -1,0 +1,9 @@
+{
+  "id": "wppsi_cancel_random_scale",
+  "display_name": "Cancellation Random Scale Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

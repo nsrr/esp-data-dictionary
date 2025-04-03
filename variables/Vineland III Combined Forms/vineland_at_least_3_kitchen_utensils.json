@@ -1,0 +1,10 @@
+{
+  "id": "vineland_at_least_3_kitchen_utensils",
+  "display_name": "17. Uses at least three kitchen utensils to prepare food (for example, knives, tongs, spatula, vegetable peeler).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

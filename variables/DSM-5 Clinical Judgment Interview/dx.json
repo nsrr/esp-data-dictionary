@@ -1,0 +1,10 @@
+{
+  "id": "dx",
+  "display_name": "1. Based on your clinical judgment, which diagnostic category does the child currently fall into?",
+  "description": "",
+  "type": "choices",
+  "domain": "dx_2",
+  "other": {
+    "descriptions": null
+  }
+}

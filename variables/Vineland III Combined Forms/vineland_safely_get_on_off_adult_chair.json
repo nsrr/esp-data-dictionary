@@ -1,0 +1,10 @@
+{
+  "id": "vineland_safely_get_on_off_adult_chair",
+  "display_name": "19. Safely gets on and off an adult-sized chair.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "sleep_study_spfy",
+  "display_name": "If yes, how long ago?",
+  "description": "",
+  "type": "choices",
+  "domain": "sleep_study_spfy_4",
+  "other": {
+    "descriptions": null
+  }
+}

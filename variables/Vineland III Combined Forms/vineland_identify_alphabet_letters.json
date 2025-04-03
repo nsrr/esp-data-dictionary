@@ -1,0 +1,10 @@
+{
+  "id": "vineland_identify_alphabet_letters",
+  "display_name": "3. Identifies one or more alphabet letters.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

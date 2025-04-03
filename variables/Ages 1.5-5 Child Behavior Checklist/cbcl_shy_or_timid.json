@@ -1,0 +1,10 @@
+{
+  "id": "cbcl_shy_or_timid",
+  "display_name": "73. Too shy or timid",
+  "description": "",
+  "type": "choices",
+  "domain": "cbcl_aches_or_pains_3",
+  "other": {
+    "descriptions": null
+  }
+}

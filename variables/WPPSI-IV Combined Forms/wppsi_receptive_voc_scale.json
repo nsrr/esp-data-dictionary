@@ -1,0 +1,9 @@
+{
+  "id": "wppsi_receptive_voc_scale",
+  "display_name": "Receptive Vocabulary Scale Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

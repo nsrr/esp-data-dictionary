@@ -1,0 +1,9 @@
+{
+  "id": "nap_hours",
+  "display_name": "How long is a nap?\n     HRS",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

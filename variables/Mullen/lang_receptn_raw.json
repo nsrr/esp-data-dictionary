@@ -1,0 +1,9 @@
+{
+  "id": "lang_receptn_raw",
+  "display_name": "Receptive Language Raw Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "wppsi_animal_code_raw",
+  "display_name": "Animal Coding Raw Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

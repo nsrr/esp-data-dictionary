@@ -1,0 +1,10 @@
+{
+  "id": "vineland_uses_possessives_in_phrases",
+  "display_name": "26. Uses possessives in phrases or sentences; grammar need not be correct (for example, \"This is mine,\" \"Your book,\" \"This is Carol's desk\").",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

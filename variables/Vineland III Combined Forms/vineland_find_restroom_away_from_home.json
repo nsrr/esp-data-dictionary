@@ -1,0 +1,10 @@
+{
+  "id": "vineland_find_restroom_away_from_home",
+  "display_name": "41. Finds and uses an appropriate restroom when away from home.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

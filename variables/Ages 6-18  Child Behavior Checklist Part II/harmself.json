@@ -1,0 +1,10 @@
+{
+  "id": "harmself",
+  "display_name": "18. Deliberately harms self or attempts suicide.",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "other": {
+    "descriptions": null
+  }
+}

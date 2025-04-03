@@ -1,0 +1,10 @@
+{
+  "id": "cbcl_wanders_away",
+  "display_name": "95. Wanders away",
+  "description": "",
+  "type": "choices",
+  "domain": "cbcl_aches_or_pains_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "wppsi_animal_code_scale",
+  "display_name": "Animal Coding Scale Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

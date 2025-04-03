@@ -1,0 +1,9 @@
+{
+  "id": "dsm_anxiety_prob_t_score",
+  "display_name": "Anxiety Problems T Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "wisc_visual_puzzle_scaled",
+  "display_name": "Visual Puzzles Scaled Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

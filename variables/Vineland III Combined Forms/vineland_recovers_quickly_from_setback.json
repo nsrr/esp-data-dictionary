@@ -1,0 +1,10 @@
+{
+  "id": "vineland_recovers_quickly_from_setback",
+  "display_name": "8. Recovers quickly from a minor setback or disappointment (for example, doesn't pout for long after losing a game or not getting something that he/she wants).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

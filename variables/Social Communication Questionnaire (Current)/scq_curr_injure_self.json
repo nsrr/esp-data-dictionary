@@ -1,0 +1,10 @@
+{
+  "id": "scq_curr_injure_self",
+  "display_name": "17. Does she/he ever injure her/himself deliberately, such as by biting her/his arm or banging her/his head?",
+  "description": "",
+  "type": "choices",
+  "domain": "awake_fright_dream_problem_2",
+  "other": {
+    "descriptions": null
+  }
+}

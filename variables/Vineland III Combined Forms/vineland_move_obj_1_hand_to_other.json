@@ -1,0 +1,10 @@
+{
+  "id": "vineland_move_obj_1_hand_to_other",
+  "display_name": "3. Moves an object from one hand to the other.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

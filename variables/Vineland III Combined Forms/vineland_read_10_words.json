@@ -1,0 +1,10 @@
+{
+  "id": "vineland_read_10_words",
+  "display_name": "12. Reads at least 10 words.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

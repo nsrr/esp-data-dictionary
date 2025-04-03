@@ -1,0 +1,10 @@
+{
+  "id": "mood1",
+  "display_name": "87. Sudden changes in mood or feelings.",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "other": {
+    "descriptions": null
+  }
+}

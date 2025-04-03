@@ -1,0 +1,10 @@
+{
+  "id": "fall_sleep_othr_bed_problem",
+  "display_name": "Problem?",
+  "description": "",
+  "type": "choices",
+  "domain": "awake_fright_dream_problem_2",
+  "other": {
+    "descriptions": null
+  }
+}

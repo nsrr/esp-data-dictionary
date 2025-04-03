@@ -1,0 +1,9 @@
+{
+  "id": "core_cluster_special_score",
+  "display_name": "Special Nonverbal Cluster/Composite Standard Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

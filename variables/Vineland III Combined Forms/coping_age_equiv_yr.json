@@ -1,0 +1,9 @@
+{
+  "id": "coping_age_equiv_yr",
+  "display_name": "Socialization- Coping Skills Age Equivalent Year",
+  "description": "",
+  "type": "integer",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vineland_put_clothing_on_correct_side",
+  "display_name": "27. Puts clothing on with the right side forward and correct side out.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

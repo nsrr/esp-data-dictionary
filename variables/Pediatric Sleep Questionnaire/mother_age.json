@@ -1,0 +1,9 @@
+{
+  "id": "mother_age",
+  "display_name": "Mother's current age:",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

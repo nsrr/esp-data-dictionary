@@ -1,0 +1,9 @@
+{
+  "id": "nonverbal_cluster_schl_matrix_score",
+  "display_name": "Matrices Ability Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

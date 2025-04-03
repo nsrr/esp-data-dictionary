@@ -1,0 +1,10 @@
+{
+  "id": "csbs_child_want_obj_out_reach",
+  "display_name": "5. Does your child let you know that he/she needs help or wants an object out of reach?",
+  "description": "",
+  "type": "choices",
+  "domain": "csbs_child_get_laugh_3",
+  "other": {
+    "descriptions": null
+  }
+}

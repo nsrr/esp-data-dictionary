@@ -1,0 +1,10 @@
+{
+  "id": "vineland_use_gps_to_reach_dest",
+  "display_name": "50. Uses a city, highway, bus, or electronic map (or GPS) to figure out how to reach a destination when needed.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

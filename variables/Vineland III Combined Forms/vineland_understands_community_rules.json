@@ -1,0 +1,10 @@
+{
+  "id": "vineland_understands_community_rules",
+  "display_name": "18. Understands and follows community rules and laws (for example, rules and laws regarding littering, pet control, respecting others' property, etc.).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

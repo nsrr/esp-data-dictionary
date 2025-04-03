@@ -1,0 +1,10 @@
+{
+  "id": "vineland_harms_self",
+  "display_name": "3. Harms himself/herself (for example, bangs his/her head, hits or bites self, cuts self, tears at skin, pulls out his/her hair).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

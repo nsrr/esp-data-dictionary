@@ -1,0 +1,10 @@
+{
+  "id": "vineland_press_buttons_accurate_keybrd",
+  "display_name": "16. Presses buttons accurately on a small keyboard or touch screen (for example, on a calculator, cell phone, or other handheld device).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

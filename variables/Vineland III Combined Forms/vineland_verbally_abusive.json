@@ -1,0 +1,10 @@
+{
+  "id": "vineland_verbally_abusive",
+  "display_name": "7. Is verbally abusive (that is, hurts others on purpose with insults, put-downs, etc.).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "value": "1",
+    "display_name": "Autism/ASD",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "DD",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Typical",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Other",
+    "description": ""
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "id": "vineland_controls_anger_not_get_way",
+  "display_name": "22. Controls anger or hurt feelings when he/she does not get his/her way (for example, when not allowed to watch television or attend a party, when a suggestion is rejected by a friend or supervisor).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

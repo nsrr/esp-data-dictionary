@@ -1,0 +1,10 @@
+{
+  "id": "screams",
+  "display_name": "68. Screams a lot.",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "other": {
+    "descriptions": null
+  }
+}

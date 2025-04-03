@@ -1,0 +1,10 @@
+{
+  "id": "vineland_maintain_friendship_over_time",
+  "display_name": "29. Maintains friendships over time (for example, has had the same good friend for over a year).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

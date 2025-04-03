@@ -1,0 +1,10 @@
+{
+  "id": "vineland_copy_approp_behvr_new_situatn",
+  "display_name": "16. Copies appropriate behavior of others when in a new situation and unsure how to act.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

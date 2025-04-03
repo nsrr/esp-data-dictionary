@@ -1,0 +1,10 @@
+{
+  "id": "vineland_read_simple_stories_out_loud",
+  "display_name": "17. Read simple stories out loud.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

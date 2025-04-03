@@ -1,0 +1,10 @@
+{
+  "id": "vineland_inealnd_3_stubborn_or_argues",
+  "display_name": "6. Is stubborn or argues.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

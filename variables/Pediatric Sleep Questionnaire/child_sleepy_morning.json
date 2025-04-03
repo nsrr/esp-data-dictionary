@@ -1,0 +1,10 @@
+{
+  "id": "child_sleepy_morning",
+  "display_name": "Is your child sleepy when waking in the morning?",
+  "description": "",
+  "type": "choices",
+  "domain": "afternoon_sleep_5",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "dsm_hyperact_prob_t_score",
+  "display_name": "Attention Deficit/Hyperactivity Problems T Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

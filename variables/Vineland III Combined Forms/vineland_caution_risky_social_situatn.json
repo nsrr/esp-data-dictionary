@@ -1,0 +1,10 @@
+{
+  "id": "vineland_caution_risky_social_situatn",
+  "display_name": "31. Is aware of and uses caution when encountering risky social situations (for example, Internet solicitations, a stranger's offer of a ride or money, \"binge\" drinking parties, social media, personal ads). ",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

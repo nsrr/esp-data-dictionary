@@ -1,0 +1,10 @@
+{
+  "id": "wake_diff_out_bed",
+  "display_name": "38. Child has difficulty getting out of bed in the morning",
+  "description": "",
+  "type": "choices",
+  "domain": "bedtime_ready_3",
+  "other": {
+    "descriptions": null
+  }
+}

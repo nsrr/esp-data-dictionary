@@ -1,0 +1,10 @@
+{
+  "id": "vineland_copy_own_name_without_mistake",
+  "display_name": "8. Copies own first name without mistakes.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

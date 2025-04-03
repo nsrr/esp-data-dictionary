@@ -1,0 +1,10 @@
+{
+  "id": "vineland_awareness_phys_exercise_good",
+  "display_name": "45. Shows awareness that physical exercise is good for people (for example, states that exercise is healthy, that people should exercise, etc.).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

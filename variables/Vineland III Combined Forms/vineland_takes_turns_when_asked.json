@@ -1,0 +1,10 @@
+{
+  "id": "vineland_takes_turns_when_asked",
+  "display_name": "17. Takes turns when asked while playing games or sports.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

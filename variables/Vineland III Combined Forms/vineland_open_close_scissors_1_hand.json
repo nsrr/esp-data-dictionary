@@ -1,0 +1,10 @@
+{
+  "id": "vineland_open_close_scissors_1_hand",
+  "display_name": "17. Opens and closes scissors with one hand; does not have to cut with them.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

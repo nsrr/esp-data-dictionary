@@ -1,0 +1,10 @@
+{
+  "id": "vineland_eat_solid_foods",
+  "display_name": "4. Eats solid foods (for example, cooked vegetables, chopped meats).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

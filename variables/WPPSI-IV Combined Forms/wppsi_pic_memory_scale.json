@@ -1,0 +1,9 @@
+{
+  "id": "wppsi_pic_memory_scale",
+  "display_name": "Picture Memory Scale Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

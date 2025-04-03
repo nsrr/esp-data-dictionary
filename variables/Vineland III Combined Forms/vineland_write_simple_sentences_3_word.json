@@ -1,0 +1,10 @@
+{
+  "id": "vineland_write_simple_sentences_3_word",
+  "display_name": "18. Writes simple sentences of three or more words; may make small errors in spelling or grammar.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

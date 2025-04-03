@@ -1,0 +1,10 @@
+{
+  "id": "vineland_wash_and_rinse_hair",
+  "display_name": "46. Washes and rinses hair; does not need to turn the water on and off or adjust the temperature.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

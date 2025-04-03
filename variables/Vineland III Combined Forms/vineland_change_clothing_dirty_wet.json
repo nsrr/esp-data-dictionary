@@ -1,0 +1,10 @@
+{
+  "id": "vineland_change_clothing_dirty_wet",
+  "display_name": "34. Changes clothing that has become dirty, wet, muddy, or smelly.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

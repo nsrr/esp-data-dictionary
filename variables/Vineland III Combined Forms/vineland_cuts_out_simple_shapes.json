@@ -1,0 +1,10 @@
+{
+  "id": "vineland_cuts_out_simple_shapes",
+  "display_name": "26. Cuts out simple shapes (circles, squares, rectangles, etc.).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

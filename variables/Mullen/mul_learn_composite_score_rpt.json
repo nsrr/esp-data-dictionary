@@ -1,0 +1,9 @@
+{
+  "id": "mul_learn_composite_score_rpt",
+  "display_name": "Early Learning Composite Standard Score ",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

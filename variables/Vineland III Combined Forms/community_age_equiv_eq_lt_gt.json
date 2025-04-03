@@ -1,0 +1,10 @@
+{
+  "id": "community_age_equiv_eq_lt_gt",
+  "display_name": "Daily Living Skills- Community Age Equivalent < = >",
+  "description": "",
+  "type": "choices",
+  "domain": "community_age_equiv_eq_lt_gt_3",
+  "other": {
+    "descriptions": null
+  }
+}

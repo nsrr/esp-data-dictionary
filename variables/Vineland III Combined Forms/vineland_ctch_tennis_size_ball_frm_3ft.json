@@ -1,0 +1,10 @@
+{
+  "id": "vineland_ctch_tennis_size_ball_frm_3ft",
+  "display_name": "40. Catches a tennis- or baseball-sized ball from a distance of 2 or 3 feet, using one or both hands extended away from body.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

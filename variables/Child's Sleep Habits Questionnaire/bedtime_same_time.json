@@ -1,0 +1,10 @@
+{
+  "id": "bedtime_same_time",
+  "display_name": "1. Child goes to bed at the same time at night",
+  "description": "",
+  "type": "choices",
+  "domain": "bedtime_same_time_3",
+  "other": {
+    "descriptions": null
+  }
+}

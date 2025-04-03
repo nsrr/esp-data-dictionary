@@ -1,0 +1,10 @@
+{
+  "id": "wetsbed",
+  "display_name": "17. Child wets the bed at night",
+  "description": "",
+  "type": "choices",
+  "domain": "wetsbed_6",
+  "other": {
+    "descriptions": null
+  }
+}

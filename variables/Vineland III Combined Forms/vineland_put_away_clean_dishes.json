@@ -1,0 +1,10 @@
+{
+  "id": "vineland_put_away_clean_dishes",
+  "display_name": "21. Puts dishes away when clean and dry.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

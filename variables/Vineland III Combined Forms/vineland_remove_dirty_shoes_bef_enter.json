@@ -1,0 +1,10 @@
+{
+  "id": "vineland_remove_dirty_shoes_bef_enter",
+  "display_name": "5. Removes dirty shoes or wipes them on a doormat before entering a residence.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

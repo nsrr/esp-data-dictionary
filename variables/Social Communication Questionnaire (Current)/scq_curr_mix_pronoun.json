@@ -1,0 +1,10 @@
+{
+  "id": "scq_curr_mix_pronoun",
+  "display_name": "5. Does she/he ever get her/his pronouns mixed up (e.g., saying you or she/he for I)?",
+  "description": "",
+  "type": "choices",
+  "domain": "awake_fright_dream_problem_2",
+  "other": {
+    "descriptions": null
+  }
+}

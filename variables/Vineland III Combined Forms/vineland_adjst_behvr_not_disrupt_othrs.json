@@ -1,0 +1,10 @@
+{
+  "id": "vineland_adjst_behvr_not_disrupt_othrs",
+  "display_name": "21. Adjusts behavior to keep from disrupting others nearby (for example, is quiet near others who are working, listening to a show, etc.).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

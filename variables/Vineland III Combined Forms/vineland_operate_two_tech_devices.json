@@ -1,0 +1,10 @@
+{
+  "id": "vineland_operate_two_tech_devices",
+  "display_name": "7. Operates at least two technology devices for entertainment (for example, a television, DVD player, music player, handheld game, computer used for entertainment).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

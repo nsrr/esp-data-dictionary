@@ -1,0 +1,9 @@
+{
+  "id": "fine_raw_score",
+  "display_name": "Motor- Fine Raw Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

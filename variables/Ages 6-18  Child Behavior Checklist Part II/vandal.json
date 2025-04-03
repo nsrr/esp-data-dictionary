@@ -1,0 +1,10 @@
+{
+  "id": "vandal",
+  "display_name": "106. Vandalism.",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "other": {
+    "descriptions": null
+  }
+}

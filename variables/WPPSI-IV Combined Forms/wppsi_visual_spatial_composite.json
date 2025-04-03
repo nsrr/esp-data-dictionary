@@ -1,0 +1,9 @@
+{
+  "id": "wppsi_visual_spatial_composite",
+  "display_name": "Visual Spatial Composite Standard Score Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vineland_says_current_day_of_week",
+  "display_name": "13. Says the current day of the week when asked.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

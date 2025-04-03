@@ -1,0 +1,10 @@
+{
+  "id": "vineland_read_material_2nd_grade_lvl",
+  "display_name": "20. Reads and understands material of a second-grade level or higher.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

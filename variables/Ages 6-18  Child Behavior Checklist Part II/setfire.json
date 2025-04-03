@@ -1,0 +1,10 @@
+{
+  "id": "setfire",
+  "display_name": "72. Sets fires.",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "other": {
+    "descriptions": null
+  }
+}

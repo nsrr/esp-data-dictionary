@@ -1,0 +1,10 @@
+{
+  "id": "scq_curr_help_gesture",
+  "display_name": "32. If she/he wants something or wants help, does she/he look at you and use gestures with sounds or words to get your attention?",
+  "description": "",
+  "type": "choices",
+  "domain": "scq_curr_appropriate_express_2",
+  "other": {
+    "descriptions": null
+  }
+}

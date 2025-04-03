@@ -1,0 +1,10 @@
+{
+  "id": "vineland_makes_small_purchases",
+  "display_name": "25. Makes small purchases at a store (for example, candy, stickers).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

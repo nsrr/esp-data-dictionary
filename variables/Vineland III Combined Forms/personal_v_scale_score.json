@@ -1,0 +1,9 @@
+{
+  "id": "personal_v_scale_score",
+  "display_name": "Daily Living Skills- Personal v-Scale Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

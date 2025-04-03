@@ -1,0 +1,10 @@
+{
+  "id": "thumbsu",
+  "display_name": "98. Thumb-sucking.",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "other": {
+    "descriptions": null
+  }
+}

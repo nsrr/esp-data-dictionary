@@ -1,0 +1,10 @@
+{
+  "id": "vineland_stand_supported_with_1_hand",
+  "display_name": "8. Stands supported with one hand and reaches for an object with the other hand without falling.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

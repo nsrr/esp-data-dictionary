@@ -1,0 +1,10 @@
+{
+  "id": "scq_curr_odd_phrase",
+  "display_name": "3. Does she/he ever use odd phrases or say the same thing over and over in almost exactly the same way (either phrases that she/he hears other people use or ones that she/he makes up)?",
+  "description": "",
+  "type": "choices",
+  "domain": "awake_fright_dream_problem_2",
+  "other": {
+    "descriptions": null
+  }
+}

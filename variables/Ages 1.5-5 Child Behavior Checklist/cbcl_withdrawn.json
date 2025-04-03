@@ -1,0 +1,10 @@
+{
+  "id": "cbcl_withdrawn",
+  "display_name": "98. Withdrawn, doesn't get involved with others",
+  "description": "",
+  "type": "choices",
+  "domain": "cbcl_aches_or_pains_3",
+  "other": {
+    "descriptions": null
+  }
+}

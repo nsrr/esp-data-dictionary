@@ -1,0 +1,12 @@
+[
+  {
+    "value": "1",
+    "display_name": "Initial Screening",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Rescreen",
+    "description": ""
+  }
+]

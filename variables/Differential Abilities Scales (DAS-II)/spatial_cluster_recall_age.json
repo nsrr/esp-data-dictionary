@@ -1,0 +1,9 @@
+{
+  "id": "spatial_cluster_recall_age",
+  "display_name": "Recall of Designs Age Equivalent",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

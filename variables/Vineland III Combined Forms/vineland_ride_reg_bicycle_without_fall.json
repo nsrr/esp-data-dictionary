@@ -1,0 +1,10 @@
+{
+  "id": "vineland_ride_reg_bicycle_without_fall",
+  "display_name": "43. Rides a regular bicycle without training wheels without falling.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "wake_morning",
+  "display_name": "Type in the time of day child usually wakes in the morning",
+  "description": "",
+  "type": "time",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "current_illness_child",
+  "display_name": "Is your child ill at present?",
+  "description": "",
+  "type": "choices",
+  "domain": "change_appetite_2",
+  "other": {
+    "descriptions": null
+  }
+}

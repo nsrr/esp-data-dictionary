@@ -1,0 +1,10 @@
+{
+  "id": "vineland_pickup_small_obj_thumb_fingrs",
+  "display_name": "5. Picks up small objects (no larger than 2 inches on any side) with thumb and fingers (for example, raisins, beads, small blocks).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

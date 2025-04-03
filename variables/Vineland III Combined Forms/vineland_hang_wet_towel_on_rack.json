@@ -1,0 +1,10 @@
+{
+  "id": "vineland_hang_wet_towel_on_rack",
+  "display_name": "12. Hangs wet towel on a towel rack or hook, or puts in the proper place to be washed.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

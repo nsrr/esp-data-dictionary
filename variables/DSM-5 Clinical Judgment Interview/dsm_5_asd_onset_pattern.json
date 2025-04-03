@@ -1,0 +1,9 @@
+{
+  "id": "dsm_5_asd_onset_pattern",
+  "display_name": "Pattern of onset (e.g., very early delays, gradual or rapid regression):",
+  "description": "",
+  "type": "string",
+  "other": {
+    "descriptions": null
+  }
+}

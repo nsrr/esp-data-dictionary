@@ -1,0 +1,10 @@
+{
+  "id": "coping_age_equiv_eq_lt_gt",
+  "display_name": "Socialization- Coping Skills Age Equivalent <=>",
+  "description": "",
+  "type": "choices",
+  "domain": "community_age_equiv_eq_lt_gt_3",
+  "other": {
+    "descriptions": null
+  }
+}

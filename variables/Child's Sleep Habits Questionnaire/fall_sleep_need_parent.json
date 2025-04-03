@@ -1,0 +1,10 @@
+{
+  "id": "fall_sleep_need_parent",
+  "display_name": "7. Child needs parent in the room to fall asleep",
+  "description": "",
+  "type": "choices",
+  "domain": "bedtime_ready_3",
+  "other": {
+    "descriptions": null
+  }
+}

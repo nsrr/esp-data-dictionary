@@ -1,0 +1,10 @@
+{
+  "id": "vineland_pays_attention_15_min",
+  "display_name": "26. Pays attention to a story for at least 15 minutes.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

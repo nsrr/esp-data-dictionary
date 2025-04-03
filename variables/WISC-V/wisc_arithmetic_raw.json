@@ -1,0 +1,9 @@
+{
+  "id": "wisc_arithmetic_raw",
+  "display_name": "Arithmetic Raw Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

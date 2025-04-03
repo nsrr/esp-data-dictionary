@@ -1,0 +1,10 @@
+{
+  "id": "vineland_manages_mnthly_expenses",
+  "display_name": "56. Manages monthly expenses responsibly (for example, rent, utilities).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

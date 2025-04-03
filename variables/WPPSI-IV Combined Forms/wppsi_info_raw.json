@@ -1,0 +1,9 @@
+{
+  "id": "wppsi_info_raw",
+  "display_name": "Information Raw Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

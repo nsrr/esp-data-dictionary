@@ -1,0 +1,9 @@
+{
+  "id": "verbal_cluster_define_tscore",
+  "display_name": "Word Definitions T-Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

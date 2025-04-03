@@ -1,0 +1,10 @@
+{
+  "id": "vineland_copies_play_of_child_nearby",
+  "display_name": "5. Copies the play of a child playing nearby with little or no interaction between the two.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

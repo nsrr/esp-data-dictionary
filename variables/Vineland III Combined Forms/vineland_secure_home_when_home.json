@@ -1,0 +1,10 @@
+{
+  "id": "vineland_secure_home_when_home",
+  "display_name": "16. Secures home against intruders when home (keeps doors locked, finds out who is at the door before opening it, etc.).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

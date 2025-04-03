@@ -1,0 +1,10 @@
+{
+  "id": "truancy",
+  "display_name": "101. Truancy, skips school.",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "fall_sleep_own_bed",
+  "display_name": "3. Child falls asleep alone in own bed",
+  "description": "",
+  "type": "choices",
+  "domain": "fall_sleep_own_bed_3",
+  "other": {
+    "descriptions": null
+  }
+}

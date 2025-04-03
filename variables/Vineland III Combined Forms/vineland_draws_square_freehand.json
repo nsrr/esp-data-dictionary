@@ -1,0 +1,10 @@
+{
+  "id": "vineland_draws_square_freehand",
+  "display_name": "22. Draws a square freehand while looking at an example.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

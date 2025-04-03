@@ -1,0 +1,10 @@
+{
+  "id": "cbcl_physically_attacks",
+  "display_name": "53. Physically attacks people",
+  "description": "",
+  "type": "choices",
+  "domain": "cbcl_aches_or_pains_3",
+  "other": {
+    "descriptions": null
+  }
+}

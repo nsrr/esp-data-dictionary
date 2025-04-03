@@ -1,0 +1,10 @@
+{
+  "id": "vineland_has_best_friend",
+  "display_name": "25. Has a best friend or a few good friends.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

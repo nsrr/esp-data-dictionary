@@ -1,0 +1,10 @@
+{
+  "id": "vineland_right_to_report_problems",
+  "display_name": "41. Understands the right to report legitimate problems with products, services, living situations, etc.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

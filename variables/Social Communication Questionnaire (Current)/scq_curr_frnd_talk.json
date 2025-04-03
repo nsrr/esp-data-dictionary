@@ -1,0 +1,10 @@
+{
+  "id": "scq_curr_frnd_talk",
+  "display_name": "20. Does she/he ever talk with you just to be friendly (rather than to get something)?",
+  "description": "",
+  "type": "choices",
+  "domain": "scq_curr_appropriate_express_2",
+  "other": {
+    "descriptions": null
+  }
+}

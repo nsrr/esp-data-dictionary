@@ -1,0 +1,9 @@
+{
+  "id": "verbal_cluster_similar_score",
+  "display_name": "Picture Similarities Ability Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "nightmar",
+  "display_name": "47. Nightmares.",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "other": {
+    "descriptions": null
+  }
+}

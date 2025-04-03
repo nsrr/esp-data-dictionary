@@ -1,0 +1,10 @@
+{
+  "id": "vineland_count_10_objects",
+  "display_name": "3. Counts at least 10 objects, one by one.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

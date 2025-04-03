@@ -1,0 +1,10 @@
+{
+  "id": "scq_curr_toy_interest",
+  "display_name": "12. Does she/he ever seem to be more interested in parts of a toy or an object (e.g. spinning the wheels of a car), rather than in using the object as it was intended?",
+  "description": "",
+  "type": "choices",
+  "domain": "awake_fright_dream_problem_2",
+  "other": {
+    "descriptions": null
+  }
+}

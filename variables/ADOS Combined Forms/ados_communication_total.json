@@ -1,0 +1,9 @@
+{
+  "id": "ados_communication_total",
+  "display_name": "Communication Total Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

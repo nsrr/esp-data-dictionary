@@ -1,0 +1,9 @@
+{
+  "id": "receptive_raw_scored",
+  "display_name": "Communication- Receptive Raw Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

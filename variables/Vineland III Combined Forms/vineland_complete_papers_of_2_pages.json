@@ -1,0 +1,10 @@
+{
+  "id": "vineland_complete_papers_of_2_pages",
+  "display_name": "37. Accurately completes paper or electronic forms of two pages or more (for example, a job, college, or credit application).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

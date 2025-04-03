@@ -1,0 +1,10 @@
+{
+  "id": "csbs_child_give_object",
+  "display_name": "9. Does your child pick up objects and give them to you?",
+  "description": "",
+  "type": "choices",
+  "domain": "csbs_child_get_laugh_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "screen_type",
+  "display_name": "5. What type of screening was this",
+  "description": "",
+  "type": "choices",
+  "domain": "screen_type_2",
+  "other": {
+    "descriptions": null
+  }
+}

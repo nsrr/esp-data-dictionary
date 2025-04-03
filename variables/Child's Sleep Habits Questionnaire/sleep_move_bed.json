@@ -1,0 +1,10 @@
+{
+  "id": "sleep_move_bed",
+  "display_name": "24. Child moves to someone else's bed during the night (parent, brother, sister, etc.)",
+  "description": "",
+  "type": "choices",
+  "domain": "bedtime_ready_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vineland_engages_elab_make_believe_act",
+  "display_name": "18. Engages with other children in elaborate make-believe activities involving more than one role (for example, plays \"school\" or \"restaurant,\" enacts a TV show or movie).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

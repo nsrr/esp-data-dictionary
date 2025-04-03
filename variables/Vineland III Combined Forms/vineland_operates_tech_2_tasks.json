@@ -1,0 +1,10 @@
+{
+  "id": "vineland_operates_tech_2_tasks",
+  "display_name": "35. Operates technology to accomplish at least two kinds of tasks (for example, writing documents, school-related email, organizing information, finding information on the Internet).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

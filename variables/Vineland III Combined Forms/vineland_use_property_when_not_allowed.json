@@ -1,0 +1,10 @@
+{
+  "id": "vineland_use_property_when_not_allowed",
+  "display_name": "10. Takes or uses school or work property when not allowed (for example, books, office supplies).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "conners_ear_infections",
+  "display_name": "How many ear infections did your child have before age 24 months?",
+  "description": "",
+  "type": "choices",
+  "domain": "conners_ear_infections_4",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vineland_smiles_in_response_compliment",
+  "display_name": "12. Smiles in response to praise or compliments (for example, \"Good job,\" \"That's a nice shirt\").",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

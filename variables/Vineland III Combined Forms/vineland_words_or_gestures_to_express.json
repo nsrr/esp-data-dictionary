@@ -1,0 +1,10 @@
+{
+  "id": "vineland_words_or_gestures_to_express",
+  "display_name": "9. Uses words or gestures to express distress rather than screaming, hitting, throwing something, etc.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

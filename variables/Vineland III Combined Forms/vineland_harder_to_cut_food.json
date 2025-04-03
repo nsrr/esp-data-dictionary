@@ -1,0 +1,10 @@
+{
+  "id": "vineland_harder_to_cut_food",
+  "display_name": "50. Cuts harder-to-cut food with a sharp knife (for example, meat, raw vegetables).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

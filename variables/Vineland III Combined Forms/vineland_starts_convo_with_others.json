@@ -1,0 +1,10 @@
+{
+  "id": "vineland_starts_convo_with_others",
+  "display_name": "40. Starts conversations with others by talking about things that interest them (for example, \"Tyrone tells me you like cars\").",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

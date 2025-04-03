@@ -1,0 +1,10 @@
+{
+  "id": "vineland_sleep_problems",
+  "display_name": "3. Has sleep problems (for example, walks in his/her sleep, has a lot of nightmares, sleeps way more or less than others his/her age).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

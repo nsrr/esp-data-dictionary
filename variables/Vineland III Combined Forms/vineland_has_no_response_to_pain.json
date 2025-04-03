@@ -1,0 +1,10 @@
+{
+  "id": "vineland_has_no_response_to_pain",
+  "display_name": "15. Has no response to pain (for example, does not cry or seek help when cut, bruised, or badly hurt).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

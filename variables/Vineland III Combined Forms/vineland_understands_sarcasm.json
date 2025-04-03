@@ -1,0 +1,10 @@
+{
+  "id": "vineland_understands_sarcasm",
+  "display_name": "34. Understands sarcasm (for example, understands when a comment such as \"That's just great!\" really means \"That's awful!\").",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

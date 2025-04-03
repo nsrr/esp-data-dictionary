@@ -1,0 +1,10 @@
+{
+  "id": "vineland_copy_phrase_4_wrds_no_mistake",
+  "display_name": "15. Copies phrases or sentences of four or more words without mistakes.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

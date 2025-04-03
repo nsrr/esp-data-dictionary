@@ -1,0 +1,10 @@
+{
+  "id": "vineland_looks_in_parent_direction",
+  "display_name": "4. When parent or caregiver looks or points at something, looks in that direction.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

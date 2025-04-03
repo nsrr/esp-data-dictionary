@@ -1,0 +1,10 @@
+{
+  "id": "vineland_walk_to_get_around_no_holding",
+  "display_name": "14. Walks to get around; does not need to hold on to anything.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

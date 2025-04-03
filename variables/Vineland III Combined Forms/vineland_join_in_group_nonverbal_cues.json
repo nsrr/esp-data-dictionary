@@ -1,0 +1,10 @@
+{
+  "id": "vineland_join_in_group_nonverbal_cues",
+  "display_name": "20. Joins in with a group when nonverbal cues indicate that he/she is welcome.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

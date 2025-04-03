@@ -1,0 +1,9 @@
+{
+  "id": "core_cluster_nonverbal_score",
+  "display_name": "Nonverbal Reasoning Cluster/Composite Standard Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

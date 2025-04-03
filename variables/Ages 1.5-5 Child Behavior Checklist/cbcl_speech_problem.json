@@ -1,0 +1,10 @@
+{
+  "id": "cbcl_speech_problem",
+  "display_name": "76. Speech problem",
+  "description": "",
+  "type": "choices",
+  "domain": "cbcl_aches_or_pains_3",
+  "other": {
+    "descriptions": null
+  }
+}

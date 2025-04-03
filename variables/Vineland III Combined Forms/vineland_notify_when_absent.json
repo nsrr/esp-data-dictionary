@@ -1,0 +1,10 @@
+{
+  "id": "vineland_notify_when_absent",
+  "display_name": "42. Notifies an appropriate person when he/she will be late or absent for school, work, an appointment, etc.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

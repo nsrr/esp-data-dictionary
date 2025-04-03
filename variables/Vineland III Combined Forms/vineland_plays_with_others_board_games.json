@@ -1,0 +1,10 @@
+{
+  "id": "vineland_plays_with_others_board_games",
+  "display_name": "24. Plays with others at simple card or board games based only on chance (for example, Candyland, the card game \"war\").",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

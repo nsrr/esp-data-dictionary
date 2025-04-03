@@ -1,0 +1,10 @@
+{
+  "id": "vineland_control_anger_when_plans_chng",
+  "display_name": "18. Controls anger or hurt feelings when plans change for reasons that can't be helped (for example, an event cancelled due to bad weather, a trip postponed due to car trouble).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

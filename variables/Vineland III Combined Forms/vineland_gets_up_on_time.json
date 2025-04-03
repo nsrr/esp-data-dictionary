@@ -1,0 +1,10 @@
+{
+  "id": "vineland_gets_up_on_time",
+  "display_name": "33. Gets up on time when needed (for example, sets alarm, arranges to be awakened).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

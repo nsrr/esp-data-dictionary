@@ -1,0 +1,10 @@
+{
+  "id": "vineland_gets_together_2_peers_at_home",
+  "display_name": "28. Gets together with two or more peers at someone's home.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

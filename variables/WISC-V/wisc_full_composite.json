@@ -1,0 +1,9 @@
+{
+  "id": "wisc_full_composite",
+  "display_name": "Full Scale Composite Standard Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

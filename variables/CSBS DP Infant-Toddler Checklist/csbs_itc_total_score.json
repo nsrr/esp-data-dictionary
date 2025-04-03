@@ -1,0 +1,9 @@
+{
+  "id": "csbs_itc_total_score",
+  "display_name": "Sum of CSBS_ITC_SOCIAL_SCORE, CSBS_ITC_SPEECH_SCORE, and CSBS_ITC_SYMBOLIC_SCORE",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

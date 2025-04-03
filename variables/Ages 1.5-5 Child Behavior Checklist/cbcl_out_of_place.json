@@ -1,0 +1,10 @@
+{
+  "id": "cbcl_out_of_place",
+  "display_name": "7. Can't stand having things out of place",
+  "description": "",
+  "type": "choices",
+  "domain": "cbcl_aches_or_pains_3",
+  "other": {
+    "descriptions": null
+  }
+}

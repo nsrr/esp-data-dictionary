@@ -1,0 +1,9 @@
+{
+  "id": "csbs_itc_symbolic_score",
+  "display_name": "Sum of CSBS_ITC_UNDERSTANDING_SCORE and CSBS_ITC_OBJECT_USE_SCORE",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

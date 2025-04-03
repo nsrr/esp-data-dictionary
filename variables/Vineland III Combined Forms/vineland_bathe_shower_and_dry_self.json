@@ -1,0 +1,10 @@
+{
+  "id": "vineland_bathe_shower_and_dry_self",
+  "display_name": "36. Bathes or showers and dries self; does not need to turn the water on and off or adjust the temperature.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

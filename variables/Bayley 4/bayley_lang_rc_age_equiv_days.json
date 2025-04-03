@@ -1,0 +1,9 @@
+{
+  "id": "bayley_lang_rc_age_equiv_days",
+  "display_name": "Language Receptive Communication Age Equivalent (Days)",
+  "description": "",
+  "type": "integer",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vineland_names_coins_when_asked",
+  "display_name": "12. Names a penny, nickel, dime, and quarter when asked; does not need to know the value of the coins.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

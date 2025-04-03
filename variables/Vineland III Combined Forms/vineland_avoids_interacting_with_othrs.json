@@ -1,0 +1,10 @@
+{
+  "id": "vineland_avoids_interacting_with_othrs",
+  "display_name": "7. Avoids interacting with others (withdraws, prefers to be alone, etc.).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vineland_use_toilet_day_night_no_help",
+  "display_name": "30. Uses the toilet during the day and at night without help; must wipe, flush, and wash hands by himself/herself.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

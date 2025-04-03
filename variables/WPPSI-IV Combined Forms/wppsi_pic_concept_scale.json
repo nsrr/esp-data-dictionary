@@ -1,0 +1,9 @@
+{
+  "id": "wppsi_pic_concept_scale",
+  "display_name": "Picture Concepts Scale Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "epworth_lying_down",
+  "display_name": "Lying down in the afternoon",
+  "description": "",
+  "type": "choices",
+  "domain": "epworth_after_lunch_4",
+  "other": {
+    "descriptions": null
+  }
+}

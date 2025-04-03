@@ -1,0 +1,10 @@
+{
+  "id": "vineland_write_draw_instructns",
+  "display_name": "31. Writes or draws instructions for others (for example, how to do something, how to get somewhere).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

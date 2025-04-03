@@ -1,0 +1,10 @@
+{
+  "id": "vineland_accepts_helpful_suggestions",
+  "display_name": "14. Accepts helpful suggestions or solutions from others.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

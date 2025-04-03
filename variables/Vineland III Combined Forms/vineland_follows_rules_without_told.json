@@ -1,0 +1,10 @@
+{
+  "id": "vineland_follows_rules_without_told",
+  "display_name": "23. Follows rules in games or sports without being told to do so.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

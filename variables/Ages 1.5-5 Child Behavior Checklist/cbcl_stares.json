@@ -1,0 +1,10 @@
+{
+  "id": "cbcl_stares",
+  "display_name": "77. Stares into space or seems preoccupied",
+  "description": "",
+  "type": "choices",
+  "domain": "cbcl_aches_or_pains_3",
+  "other": {
+    "descriptions": null
+  }
+}

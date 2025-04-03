@@ -1,0 +1,10 @@
+{
+  "id": "overtire",
+  "display_name": "54. Overtired.",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "other": {
+    "descriptions": null
+  }
+}

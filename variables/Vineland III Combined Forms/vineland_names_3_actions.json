@@ -1,0 +1,10 @@
+{
+  "id": "vineland_names_3_actions",
+  "display_name": "15. Names at least three actions (for example, drink/drinking, eat/eating, play/playing).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

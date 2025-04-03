@@ -1,0 +1,10 @@
+{
+  "id": "scq_curr_inapprop_questn",
+  "display_name": "4. Does she/he ever use socially inappropriate questions or statements? For example, does she/he ever regularly ask personal questions or make personal comments at awkward times?",
+  "description": "",
+  "type": "choices",
+  "domain": "awake_fright_dream_problem_2",
+  "other": {
+    "descriptions": null
+  }
+}

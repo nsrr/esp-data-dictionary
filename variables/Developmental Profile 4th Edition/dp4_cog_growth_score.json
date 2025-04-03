@@ -1,0 +1,9 @@
+{
+  "id": "dp4_cog_growth_score",
+  "display_name": "Cognitive Growth Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

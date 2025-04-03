@@ -1,0 +1,10 @@
+{
+  "id": "vineland_correct_alphabet_orientation",
+  "display_name": "11. Writes alphabet letters using the correct orientation (that is not reversed or upside down).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

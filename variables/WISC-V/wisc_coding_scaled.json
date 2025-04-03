@@ -1,0 +1,9 @@
+{
+  "id": "wisc_coding_scaled",
+  "display_name": "Coding Scaled Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

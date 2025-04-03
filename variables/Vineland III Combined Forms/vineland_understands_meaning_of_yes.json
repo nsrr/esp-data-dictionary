@@ -1,0 +1,10 @@
+{
+  "id": "vineland_understands_meaning_of_yes",
+  "display_name": "9. Understands the meaning of yes.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vineland_puts_object_in_box_no_lid",
+  "display_name": "7. Puts an object (for example, a block or small toy) into a box or other container with no lid.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

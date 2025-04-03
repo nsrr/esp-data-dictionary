@@ -1,0 +1,9 @@
+{
+  "id": "child_medical_illness",
+  "display_name": "Please list your child's significant medical illnesses:",
+  "description": "",
+  "type": "string",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vineland_responds_when_parent_playful",
+  "display_name": "1. Responds when parent or caregiver is playful (for example, smiles, laughs, claps hands).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

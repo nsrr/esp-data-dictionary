@@ -1,0 +1,10 @@
+{
+  "id": "vineland_small_buttons",
+  "display_name": "39. Buttons small buttons, in the correct buttonholes (for example, shirt buttons).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vineland_simple_make_believe_act",
+  "display_name": "13. Plays simple make-believe activities with other children (For example, plays \"dress-up,\" pretends to be superheroes).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

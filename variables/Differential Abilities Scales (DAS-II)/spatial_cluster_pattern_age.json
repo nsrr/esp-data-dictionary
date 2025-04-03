@@ -1,0 +1,9 @@
+{
+  "id": "spatial_cluster_pattern_age",
+  "display_name": "Pattern Construction Age Equivalent",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vineland_support_self_using_furniture",
+  "display_name": "9. Takes step while supporting self using furniture or another stable object.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

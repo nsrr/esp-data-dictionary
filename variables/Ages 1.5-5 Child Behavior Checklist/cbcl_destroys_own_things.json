@@ -1,0 +1,10 @@
+{
+  "id": "cbcl_destroys_own_things",
+  "display_name": "17. Destroys his/her own things",
+  "description": "",
+  "type": "choices",
+  "domain": "cbcl_aches_or_pains_3",
+  "other": {
+    "descriptions": null
+  }
+}

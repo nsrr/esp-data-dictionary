@@ -1,0 +1,10 @@
+{
+  "id": "vineland_pays_attention_30_min",
+  "display_name": "30. Pays attention to a show for at least 30 minutes and understands what is happening.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

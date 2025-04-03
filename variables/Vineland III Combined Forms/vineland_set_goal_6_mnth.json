@@ -1,0 +1,10 @@
+{
+  "id": "vineland_set_goal_6_mnth",
+  "display_name": "43. Sets a goal that can be done in six months or more and achieves it (for example, works and saves money to buy something expensive, gets in better physical shape).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

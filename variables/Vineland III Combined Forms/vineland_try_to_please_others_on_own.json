@@ -1,0 +1,10 @@
+{
+  "id": "vineland_try_to_please_others_on_own",
+  "display_name": "24. Does things to try to please others on own initiative (for example, makes someone a card or gift, helps without being asked).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "dsm_5_asd_feature_med_conditn",
+  "display_name": "Associated with a known medical/genetic or environmental/acquired condition.",
+  "description": "",
+  "type": "choices",
+  "domain": "dsm_5_asd_feature_med_conditn_1",
+  "other": {
+    "descriptions": null
+  }
+}

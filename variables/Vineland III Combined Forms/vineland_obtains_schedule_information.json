@@ -1,0 +1,10 @@
+{
+  "id": "vineland_obtains_schedule_information",
+  "display_name": "33. Obtains schedule information for movies, sports events, concerts, etc. (for example, looks at a newspaper or on the Internet, phones a movie theater).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

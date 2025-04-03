@@ -1,0 +1,10 @@
+{
+  "id": "vineland_wash_and_dry_face",
+  "display_name": "25. Washes and dries face; does not need to turn the water on and off or adjust the temperature.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

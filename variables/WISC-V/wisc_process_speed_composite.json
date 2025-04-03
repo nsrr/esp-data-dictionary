@@ -1,0 +1,9 @@
+{
+  "id": "wisc_process_speed_composite",
+  "display_name": "Processing Speed Composite Standard Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

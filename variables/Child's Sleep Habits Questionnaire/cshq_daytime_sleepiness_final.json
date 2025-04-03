@@ -1,0 +1,9 @@
+{
+  "id": "cshq_daytime_sleepiness_final",
+  "display_name": "Sum: CSHQ_WAKE_THEMSELF\n+ CSHQ_WAKE_NEG_MOOD\n+ CSHQ_WAKE_BY_ADULT\n+ CSHQ_WAKE_DIFF_OUT_BED\n+ CSHQ_WAKE_LONG_TIME_ALERT\n+ CSHQ_TIRED\n+ CSHQ_ASLEEP_TV\n+ CSHQ_ASLEEP_CAR",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

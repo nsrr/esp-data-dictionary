@@ -1,0 +1,10 @@
+{
+  "id": "teases_2",
+  "display_name": "94. Teases a lot.",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "other": {
+    "descriptions": null
+  }
+}

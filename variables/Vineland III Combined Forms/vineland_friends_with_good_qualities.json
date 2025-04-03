@@ -1,0 +1,10 @@
+{
+  "id": "vineland_friends_with_good_qualities",
+  "display_name": "32. Chooses friends with good qualities: Friends who treat him/her with respect, are supportive, stay out of trouble, etc.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

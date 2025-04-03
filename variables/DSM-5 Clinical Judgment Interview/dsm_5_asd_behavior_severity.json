@@ -1,0 +1,10 @@
+{
+  "id": "dsm_5_asd_behavior_severity",
+  "display_name": "Restricted and Repetitive Behaviors Severity Level",
+  "description": "",
+  "type": "choices",
+  "domain": "dsm_5_asd_behavior_severity_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "csbs_itc_object_use_score",
+  "display_name": "Sum of four Object Use responses",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vineland_takes_2_steps_without_support",
+  "display_name": "12. Takes at least two steps without support.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

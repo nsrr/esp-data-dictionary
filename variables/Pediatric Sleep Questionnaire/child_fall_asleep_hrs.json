@@ -1,0 +1,9 @@
+{
+  "id": "child_fall_asleep_hrs",
+  "display_name": "How long does it take your child to fall asleep at night?\n      HRS:",
+  "description": "",
+  "type": "integer",
+  "other": {
+    "descriptions": null
+  }
+}

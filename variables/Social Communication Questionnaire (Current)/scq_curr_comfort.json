@@ -1,0 +1,10 @@
+{
+  "id": "scq_curr_comfort",
+  "display_name": "31. Does she/he ever try to comfort you if you are sad or hurt?",
+  "description": "",
+  "type": "choices",
+  "domain": "scq_curr_appropriate_express_2",
+  "other": {
+    "descriptions": null
+  }
+}

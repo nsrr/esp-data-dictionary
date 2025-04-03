@@ -1,0 +1,9 @@
+{
+  "id": "wisc_similar_scaled",
+  "display_name": "Similarities Scaled Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

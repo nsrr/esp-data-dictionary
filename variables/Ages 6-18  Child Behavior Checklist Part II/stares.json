@@ -1,0 +1,10 @@
+{
+  "id": "stares",
+  "display_name": "80. Stares blankly.",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "other": {
+    "descriptions": null
+  }
+}

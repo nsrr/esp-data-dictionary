@@ -1,0 +1,9 @@
+{
+  "id": "wppsi_full_scale_composite",
+  "display_name": "Full Scale Composite Standard Score Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

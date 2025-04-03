@@ -1,0 +1,10 @@
+{
+  "id": "vineland_travel_one_mile_familiar_dest",
+  "display_name": "44. Travels at least one mile to a familiar destination when needed (using public transportation, walking, biking, driving, etc.).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

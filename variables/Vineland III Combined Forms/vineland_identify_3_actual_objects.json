@@ -1,0 +1,10 @@
+{
+  "id": "vineland_identify_3_actual_objects",
+  "display_name": "11. Identifies at least three actual objects when asked (for example, points to a dog, car, cup, key, etc.).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

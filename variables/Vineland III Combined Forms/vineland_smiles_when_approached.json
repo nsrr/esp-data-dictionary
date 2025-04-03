@@ -1,0 +1,10 @@
+{
+  "id": "vineland_smiles_when_approached",
+  "display_name": "4. Smiles or makes sounds when approached by familiar person.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vineland_secure_home_when_leaving",
+  "display_name": "22. Secures home against intruders when leaving home (locks doors, closes windows, turns on alarm, etc.).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

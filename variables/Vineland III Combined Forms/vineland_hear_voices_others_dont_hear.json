@@ -1,0 +1,10 @@
+{
+  "id": "vineland_hear_voices_others_dont_hear",
+  "display_name": "2. Talks about hearing voices that others do not hear, or seeing things that others do not see.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

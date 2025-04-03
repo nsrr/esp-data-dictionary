@@ -1,0 +1,9 @@
+{
+  "id": "wppsi_fluid_reason_composite",
+  "display_name": "Fluid Reasoning Composite Standard Score Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

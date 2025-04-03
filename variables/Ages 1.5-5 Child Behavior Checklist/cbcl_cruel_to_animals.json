@@ -1,0 +1,10 @@
+{
+  "id": "cbcl_cruel_to_animals",
+  "display_name": "14. Cruel to animals",
+  "description": "",
+  "type": "choices",
+  "domain": "cbcl_aches_or_pains_3",
+  "other": {
+    "descriptions": null
+  }
+}

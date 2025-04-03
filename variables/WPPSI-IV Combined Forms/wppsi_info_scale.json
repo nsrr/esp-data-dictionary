@@ -1,0 +1,9 @@
+{
+  "id": "wppsi_info_scale",
+  "display_name": "Information Scale Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

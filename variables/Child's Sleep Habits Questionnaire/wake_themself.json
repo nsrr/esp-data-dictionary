@@ -1,0 +1,10 @@
+{
+  "id": "wake_themself",
+  "display_name": "34. Child wakes up by him/herself",
+  "description": "",
+  "type": "choices",
+  "domain": "fall_sleep_own_bed_3",
+  "other": {
+    "descriptions": null
+  }
+}

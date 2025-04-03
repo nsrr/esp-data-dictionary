@@ -1,0 +1,10 @@
+{
+  "id": "cbcl_avoids_looking_eye",
+  "display_name": "4. Avoids looking others in the eye",
+  "description": "",
+  "type": "choices",
+  "domain": "cbcl_aches_or_pains_3",
+  "other": {
+    "descriptions": null
+  }
+}

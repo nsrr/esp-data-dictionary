@@ -1,0 +1,10 @@
+{
+  "id": "scq_curr_complicate_move",
+  "display_name": "16. Does she/he ever have any complicated movements of her/his whole body, such as spinning or repeatedly bouncing up and down?",
+  "description": "",
+  "type": "choices",
+  "domain": "awake_fright_dream_problem_2",
+  "other": {
+    "descriptions": null
+  }
+}

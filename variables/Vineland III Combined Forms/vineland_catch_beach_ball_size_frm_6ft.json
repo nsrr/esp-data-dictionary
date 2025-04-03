@@ -1,0 +1,10 @@
+{
+  "id": "vineland_catch_beach_ball_size_frm_6ft",
+  "display_name": "38. Catches a beach ball-sized ball from at least 6 feet away.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

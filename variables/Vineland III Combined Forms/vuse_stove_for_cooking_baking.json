@@ -1,0 +1,10 @@
+{
+  "id": "vuse_stove_for_cooking_baking",
+  "display_name": "26. Uses the stove or oven for cooking or baking (turns burners on and off, sets oven temperature, etc.).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vineland_tells_time_using_clock",
+  "display_name": "17. Tells time using a digital clock or watch.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

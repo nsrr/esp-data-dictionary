@@ -1,0 +1,9 @@
+{
+  "id": "bayley_motor_gm_growth_scale_value",
+  "display_name": "Gross Motor Growth scale value",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "dsm_5_asd_restrict_2_areas",
+  "display_name": "B. Restricted, repetitive patterns of behavior, interests, or activities in at least two areas, currently or by history",
+  "description": "",
+  "type": "choices",
+  "domain": "awake_fright_dream_problem_2",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vineland_writes_20_words_from_memory",
+  "display_name": "19. Writes at least 20 words from memory; may make small spelling errors.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vineland_tell_basic_parts_of_story",
+  "display_name": "39. Tells the basic parts of a familiar story or book or movie plot (the characters, what happens, how it ends, etc.).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

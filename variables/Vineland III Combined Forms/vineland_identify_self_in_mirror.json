@@ -1,0 +1,10 @@
+{
+  "id": "vineland_identify_self_in_mirror",
+  "display_name": "11. Identifies self while looking at own image in mirror or photo.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

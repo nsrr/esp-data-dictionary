@@ -1,0 +1,10 @@
+{
+  "id": "cbcl_hurts_without_meaning",
+  "display_name": "42. Hurts animals or people without meaning to",
+  "description": "",
+  "type": "choices",
+  "domain": "cbcl_aches_or_pains_3",
+  "other": {
+    "descriptions": null
+  }
+}

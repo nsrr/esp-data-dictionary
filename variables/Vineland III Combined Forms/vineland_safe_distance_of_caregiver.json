@@ -1,0 +1,10 @@
+{
+  "id": "vineland_safe_distance_of_caregiver",
+  "display_name": "4. Remains within safe distance of caregiver when in public places; being carried, pushed in a stroller, etc. doesn't count.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

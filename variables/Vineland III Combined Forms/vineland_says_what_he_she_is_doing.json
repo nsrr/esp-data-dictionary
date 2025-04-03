@@ -1,0 +1,10 @@
+{
+  "id": "vineland_says_what_he_she_is_doing",
+  "display_name": "22. Says what he/she is doing using simple sentences; grammar need not be corrected (for example, \"Ginger and me play,\" \"Dan read me a book\").",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

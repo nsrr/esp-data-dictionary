@@ -1,0 +1,9 @@
+{
+  "id": "cshq_sleep_duration_final",
+  "display_name": "Sum: CSHQ_SLEEP_TOO_LITTLE\n+ CSHQ_SLEEP_RIGHT_AMOUNT\n+ CSHQ_SLEEP_SAME_AMT",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "mul_lang_express_t_score_rpt",
+  "display_name": "Expressive Language T Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

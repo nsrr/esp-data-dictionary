@@ -1,0 +1,10 @@
+{
+  "id": "vineland_eats_non_food_items",
+  "display_name": "8. Eats non-food items such as dirt, paste, or soap.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

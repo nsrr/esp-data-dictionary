@@ -1,0 +1,9 @@
+{
+  "id": "cbcl_sleep_prob_tot_score",
+  "display_name": "Sleep Problems Total Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

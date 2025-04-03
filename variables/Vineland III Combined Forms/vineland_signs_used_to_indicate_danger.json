@@ -1,0 +1,10 @@
+{
+  "id": "vineland_signs_used_to_indicate_danger",
+  "display_name": "21. Understands signs or symbols used to indicate danger (for example, skull and crossbones for poison, circle with slash for \"don't do\").",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vineland_safely_climbs_high_objects",
+  "display_name": "27. Safely climbs up and down high objects (for example, jungle gym, ladder, tree).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

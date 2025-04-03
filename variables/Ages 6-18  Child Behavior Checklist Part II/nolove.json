@@ -1,0 +1,10 @@
+{
+  "id": "nolove",
+  "display_name": "33. Feels or complains that no one loves him/her.",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "other": {
+    "descriptions": null
+  }
+}

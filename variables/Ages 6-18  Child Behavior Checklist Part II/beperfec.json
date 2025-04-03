@@ -1,0 +1,10 @@
+{
+  "id": "beperfec",
+  "display_name": "32. Feels he/she has to be perfect.",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "other": {
+    "descriptions": null
+  }
+}

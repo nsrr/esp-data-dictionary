@@ -1,0 +1,10 @@
+{
+  "id": "headaches",
+  "display_name": "Headaches",
+  "description": "",
+  "type": "choices",
+  "domain": "change_appetite_2",
+  "other": {
+    "descriptions": null
+  }
+}

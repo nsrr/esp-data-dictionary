@@ -1,0 +1,9 @@
+{
+  "id": "wisc_letter_numb_raw",
+  "display_name": "Letter-Number Sequencing Raw Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "scq_curr_invent_word",
+  "display_name": "6. Does she/he ever use words that she/he seems to have invented or made up her/himself; put things in odd, indirect ways; or use metaphorical ways of saying things (e.g., saying hot rain for steam)?",
+  "description": "",
+  "type": "choices",
+  "domain": "awake_fright_dream_problem_2",
+  "other": {
+    "descriptions": null
+  }
+}

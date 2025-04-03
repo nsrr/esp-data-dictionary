@@ -1,0 +1,10 @@
+{
+  "id": "wake_up_cough",
+  "display_name": "Does your child wake up coughing?",
+  "description": "",
+  "type": "choices",
+  "domain": "afternoon_sleep_5",
+  "other": {
+    "descriptions": null
+  }
+}

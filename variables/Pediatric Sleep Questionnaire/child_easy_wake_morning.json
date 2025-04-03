@@ -1,0 +1,10 @@
+{
+  "id": "child_easy_wake_morning",
+  "display_name": "Is your child easy to wake in the morning?",
+  "description": "",
+  "type": "choices",
+  "domain": "afternoon_sleep_5",
+  "other": {
+    "descriptions": null
+  }
+}

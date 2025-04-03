@@ -1,0 +1,9 @@
+{
+  "id": "allergies",
+  "display_name": "Allergies:",
+  "description": "",
+  "type": "string",
+  "other": {
+    "descriptions": null
+  }
+}

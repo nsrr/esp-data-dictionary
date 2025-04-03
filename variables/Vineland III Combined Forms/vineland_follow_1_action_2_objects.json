@@ -1,0 +1,10 @@
+{
+  "id": "vineland_follow_1_action_2_objects",
+  "display_name": "24. Follow instructions with one action and two objects (for example, \"Bring me the crayons and the ball\"; \"Put on your shirt and your shoes\").",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "value": "0",
+    "display_name": "Not true (as far as you know)",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Somewhat or sometimes true",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Very true or often true",
+    "description": ""
+  }
+]

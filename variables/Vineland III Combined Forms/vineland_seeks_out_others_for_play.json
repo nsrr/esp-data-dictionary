@@ -1,0 +1,10 @@
+{
+  "id": "vineland_seeks_out_others_for_play",
+  "display_name": "15. Seeks out others for play or companionship (for example, asks others to play or spend time together).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

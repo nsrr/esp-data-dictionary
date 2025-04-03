@@ -1,0 +1,10 @@
+{
+  "id": "gethurt",
+  "display_name": "36. Gets hurt a lot, accident-prone.",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "other": {
+    "descriptions": null
+  }
+}

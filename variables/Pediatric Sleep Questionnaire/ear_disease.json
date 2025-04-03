@@ -1,0 +1,10 @@
+{
+  "id": "ear_disease",
+  "display_name": "Ear disease or injury",
+  "description": "",
+  "type": "choices",
+  "domain": "change_appetite_2",
+  "other": {
+    "descriptions": null
+  }
+}

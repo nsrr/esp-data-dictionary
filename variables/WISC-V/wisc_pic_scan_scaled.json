@@ -1,0 +1,9 @@
+{
+  "id": "wisc_pic_scan_scaled",
+  "display_name": "Picture Scan Scaled Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

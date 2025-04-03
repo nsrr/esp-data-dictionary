@@ -1,0 +1,10 @@
+{
+  "id": "sleep_right_amount",
+  "display_name": "15. Child sleeps the right amount",
+  "description": "",
+  "type": "choices",
+  "domain": "fall_sleep_own_bed_3",
+  "other": {
+    "descriptions": null
+  }
+}

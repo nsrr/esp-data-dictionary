@@ -1,0 +1,10 @@
+{
+  "id": "vineland_respnd_to_why",
+  "display_name": "27. Responds to questions that use why (for example, when asked \"Why are you crying?\" replies \"My toy broke\").",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vineland_transit_1_activity_to_another",
+  "display_name": "4. Transitions easily from one activity to another.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vineland_careful_operating_appliances",
+  "display_name": "18. Is careful when operating household appliances or equipment (for example, vacuum cleaner, lawnmower, iron, power tools).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

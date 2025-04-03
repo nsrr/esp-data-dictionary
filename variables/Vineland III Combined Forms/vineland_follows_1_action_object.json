@@ -1,0 +1,10 @@
+{
+  "id": "vineland_follows_1_action_object",
+  "display_name": "15. Follows instructions with one action and one object (for example, \"Bring me the book\"; \"Close the door\").",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

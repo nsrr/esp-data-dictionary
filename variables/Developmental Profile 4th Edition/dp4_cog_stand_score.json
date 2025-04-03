@@ -1,0 +1,9 @@
+{
+  "id": "dp4_cog_stand_score",
+  "display_name": "Cognitive Standard Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

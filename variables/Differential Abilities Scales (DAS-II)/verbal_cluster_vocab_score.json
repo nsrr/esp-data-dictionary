@@ -1,0 +1,9 @@
+{
+  "id": "verbal_cluster_vocab_score",
+  "display_name": "Naming Vocabulary Ability Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

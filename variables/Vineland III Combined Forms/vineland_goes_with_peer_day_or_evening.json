@@ -1,0 +1,10 @@
+{
+  "id": "vineland_goes_with_peer_day_or_evening",
+  "display_name": "30. Goes places with peers during the day or evening with someone supervising (for example, shopping, a movie, a sports event).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

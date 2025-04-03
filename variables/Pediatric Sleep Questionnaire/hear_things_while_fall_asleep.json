@@ -1,0 +1,10 @@
+{
+  "id": "hear_things_while_fall_asleep",
+  "display_name": "Does your child see or hear things that are not there upon awakening or falling asleep?",
+  "description": "",
+  "type": "choices",
+  "domain": "afternoon_sleep_5",
+  "other": {
+    "descriptions": null
+  }
+}

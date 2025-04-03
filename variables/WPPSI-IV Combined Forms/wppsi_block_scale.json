@@ -1,0 +1,9 @@
+{
+  "id": "wppsi_block_scale",
+  "display_name": "Block Design Scale Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

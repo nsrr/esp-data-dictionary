@@ -1,0 +1,10 @@
+{
+  "id": "vineland_make_friend_with_othr_own_age",
+  "display_name": "17. Tries to make friends with others his/her age (that is, shows particular interest in interacting with certain other children).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

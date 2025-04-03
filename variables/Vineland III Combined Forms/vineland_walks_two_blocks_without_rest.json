@@ -1,0 +1,10 @@
+{
+  "id": "vineland_walks_two_blocks_without_rest",
+  "display_name": "23. Walks two or more blocks without having to rest or needing physical support.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

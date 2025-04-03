@@ -1,0 +1,10 @@
+{
+  "id": "vineland_recognize_own_name",
+  "display_name": "4. Recognizes own name in printed form.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

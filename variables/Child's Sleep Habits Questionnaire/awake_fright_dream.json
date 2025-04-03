@@ -1,0 +1,10 @@
+{
+  "id": "awake_fright_dream",
+  "display_name": "30. Child awakens alarmed by a frightening dream",
+  "description": "",
+  "type": "choices",
+  "domain": "awake_fright_dream_8",
+  "other": {
+    "descriptions": null
+  }
+}

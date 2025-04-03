@@ -1,0 +1,9 @@
+{
+  "id": "community_v_scale_score",
+  "display_name": "Daily Living Skills- Community v-Scale Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

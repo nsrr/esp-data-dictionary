@@ -1,0 +1,9 @@
+{
+  "id": "cbcl_ptsd_tot_score",
+  "display_name": "Post-Traumatic Stress Problems Total Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

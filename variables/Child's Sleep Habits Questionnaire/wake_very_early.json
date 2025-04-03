@@ -1,0 +1,10 @@
+{
+  "id": "wake_very_early",
+  "display_name": "40. Child wakes up very early in the morning",
+  "description": "",
+  "type": "choices",
+  "domain": "awake_fright_dream_8",
+  "other": {
+    "descriptions": null
+  }
+}

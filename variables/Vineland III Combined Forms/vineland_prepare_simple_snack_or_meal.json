@@ -1,0 +1,10 @@
+{
+  "id": "vineland_prepare_simple_snack_or_meal",
+  "display_name": "10. Prepares a simple snack or meal (for example, a sandwich, cheese and crackers, microwave foods).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vineland_gets_fixated_on_objects",
+  "display_name": "1. Gets fixated on objects or parts of objects (for example, stares at spinning wheels or fan blades, lines up objects, flips light switches over and over).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

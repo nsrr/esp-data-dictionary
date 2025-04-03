@@ -1,0 +1,22 @@
+[
+  {
+    "value": "0",
+    "display_name": "None",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "2 Blocks",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "3-4 Blocks",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "5 or More",
+    "description": ""
+  }
+]

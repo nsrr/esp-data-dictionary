@@ -1,0 +1,10 @@
+{
+  "id": "vineland_tells_one_time_experiences",
+  "display_name": "45. Tells about one-time (i.e., non-routine) experiences in detail (for example, when asked to describe a trip, tells who was involved, where the activity took place, etc.).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

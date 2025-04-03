@@ -1,0 +1,9 @@
+{
+  "id": "wisc_vocab_scaled",
+  "display_name": "Vocabulary Scaled Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

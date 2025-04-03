@@ -1,0 +1,10 @@
+{
+  "id": "scq_curr_use_hand",
+  "display_name": "10. Does she/he ever use your hand like a tool or as if it were part of her/his own body (e.g., pointing with your finger or putting your hand on a doorknob to get you to open the door)?",
+  "description": "",
+  "type": "choices",
+  "domain": "awake_fright_dream_problem_2",
+  "other": {
+    "descriptions": null
+  }
+}

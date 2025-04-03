@@ -1,0 +1,10 @@
+{
+  "id": "vineland_says_own_name",
+  "display_name": "19. Says own first name or nickname.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vineland_imitate_complx_action_oth_hrs",
+  "display_name": "22. Imitates relatively complex actions several hours after watching someone else perform them (for example, shaving, putting on makeup, vacuuming, hammering nails).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

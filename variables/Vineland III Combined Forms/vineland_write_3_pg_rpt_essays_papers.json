@@ -1,0 +1,10 @@
+{
+  "id": "vineland_write_3_pg_rpt_essays_papers",
+  "display_name": "35. Writes reports or compositions at least three pages long; must use own words rather than simply borrowing or copying from other sources.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vineland_ctch_tennis_sze_ball_frm_10ft",
+  "display_name": "42. Catches a tennis- or baseball-sized ball from a distance of at least 10 feet, moving to catch it if necessary.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

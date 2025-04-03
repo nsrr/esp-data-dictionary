@@ -1,0 +1,10 @@
+{
+  "id": "vineland_ride_balance_bicycle_for_10ft",
+  "display_name": "41. Rides a balance bike or bicycle with training wheels for at least 10 feet.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

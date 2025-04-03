@@ -1,0 +1,10 @@
+{
+  "id": "vineland_responds_hearing_name_called",
+  "display_name": "3. Responds upon hearing his/her name called (for example, turns toward speaker, smiles).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

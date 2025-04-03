@@ -1,0 +1,9 @@
+{
+  "id": "verbal_cluster_vocab_tscore",
+  "display_name": "Naming Vocabulary T-Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

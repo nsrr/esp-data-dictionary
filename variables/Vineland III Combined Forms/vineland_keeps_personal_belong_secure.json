@@ -1,0 +1,10 @@
+{
+  "id": "vineland_keeps_personal_belong_secure",
+  "display_name": "32. Keeps personal belongings secure (wallet, purse, phone, etc.) when away from home (for example, when shopping, eating out, or traveling).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

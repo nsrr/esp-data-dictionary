@@ -1,0 +1,10 @@
+{
+  "id": "vineland_put_away_books_toys",
+  "display_name": "6. Puts away his/her books, toys, etc. when done using them.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

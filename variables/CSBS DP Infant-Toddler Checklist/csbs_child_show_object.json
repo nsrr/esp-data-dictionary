@@ -1,0 +1,10 @@
+{
+  "id": "csbs_child_show_object",
+  "display_name": "10. Does your child show objects to you without giving you the object?",
+  "description": "",
+  "type": "choices",
+  "domain": "csbs_child_get_laugh_3",
+  "other": {
+    "descriptions": null
+  }
+}

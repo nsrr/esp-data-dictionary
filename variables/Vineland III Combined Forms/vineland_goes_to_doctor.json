@@ -1,0 +1,10 @@
+{
+  "id": "vineland_goes_to_doctor",
+  "display_name": "54. Goes to the doctor when needed (that is, when illness or injury requires professional care).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

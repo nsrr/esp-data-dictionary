@@ -1,0 +1,10 @@
+{
+  "id": "vineland_show_concern_for_othrs",
+  "display_name": "16. Uses actions or words to show happiness, sympathy, or concern for others on own initiative (for example, hugs, holds hands, asks \"Are you okay?\").",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

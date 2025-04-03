@@ -1,0 +1,10 @@
+{
+  "id": "vineland_follows_safety_precautions",
+  "display_name": "27. Follows safety precautions in work and/or leisure activities (for example, wears safety equipment, uses caution when operating tools and machinery).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

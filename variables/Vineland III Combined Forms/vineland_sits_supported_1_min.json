@@ -1,0 +1,10 @@
+{
+  "id": "vineland_sits_supported_1_min",
+  "display_name": "1. Sits supported (for example, in a chair, with pillows, etc.) for at least 1 minute.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

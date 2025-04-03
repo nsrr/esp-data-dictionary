@@ -1,0 +1,10 @@
+{
+  "id": "vineland_watches_or_listens_tv_radio",
+  "display_name": "28. Watches or listens to TV or radio or uses the Internet to obtain current information (for example, news, weather report, traffic conditions).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

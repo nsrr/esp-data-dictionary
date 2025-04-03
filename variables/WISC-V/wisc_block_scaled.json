@@ -1,0 +1,9 @@
+{
+  "id": "wisc_block_scaled",
+  "display_name": "Block Design Scaled Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "energy1",
+  "display_name": "102. Underactive, slow moving, or lacks energy.",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "other": {
+    "descriptions": null
+  }
+}

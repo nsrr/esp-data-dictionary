@@ -1,0 +1,10 @@
+{
+  "id": "urinate_difficulty",
+  "display_name": "Trouble urinating",
+  "description": "",
+  "type": "choices",
+  "domain": "change_appetite_2",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vineland_recognize_simple_signs",
+  "display_name": "2. Recognizes one or more simple signs and icons/symbols (for example, STOP signs, bathroom door signs, arrows, smiley face).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

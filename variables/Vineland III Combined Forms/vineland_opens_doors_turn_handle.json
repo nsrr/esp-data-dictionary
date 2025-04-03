@@ -1,0 +1,10 @@
+{
+  "id": "vineland_opens_doors_turn_handle",
+  "display_name": "13. Opens doors by turning a doorknob or handle.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

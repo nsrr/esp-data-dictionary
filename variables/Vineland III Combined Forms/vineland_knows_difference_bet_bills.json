@@ -1,0 +1,10 @@
+{
+  "id": "vineland_knows_difference_bet_bills",
+  "display_name": "20. Knows the difference between bills of different values ($1, $5, $10 bills, etc.).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

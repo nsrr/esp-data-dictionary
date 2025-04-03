@@ -1,0 +1,10 @@
+{
+  "id": "vineland_refuses_go_to_school",
+  "display_name": "4. Refuses to go to school or work, or has to come home, because of worrying, sadness, nervousness, etc.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

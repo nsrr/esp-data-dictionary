@@ -1,0 +1,10 @@
+{
+  "id": "cbcl_guilty",
+  "display_name": "27. Doesn't seem to feel guilty after misbehaving",
+  "description": "",
+  "type": "choices",
+  "domain": "cbcl_aches_or_pains_3",
+  "other": {
+    "descriptions": null
+  }
+}

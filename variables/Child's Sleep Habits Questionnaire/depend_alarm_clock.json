@@ -1,0 +1,10 @@
+{
+  "id": "depend_alarm_clock",
+  "display_name": "35. Child wakes up with alarm clock",
+  "description": "",
+  "type": "choices",
+  "domain": "depend_alarm_clock_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "destroy",
+  "display_name": "20. Destroys his/her own things.",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "other": {
+    "descriptions": null
+  }
+}

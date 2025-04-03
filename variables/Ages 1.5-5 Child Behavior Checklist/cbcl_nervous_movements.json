@@ -1,0 +1,10 @@
+{
+  "id": "cbcl_nervous_movements",
+  "display_name": "46. Nervous movements or twitching",
+  "description": "",
+  "type": "choices",
+  "domain": "cbcl_aches_or_pains_3",
+  "other": {
+    "descriptions": null
+  }
+}

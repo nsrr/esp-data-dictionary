@@ -1,0 +1,10 @@
+{
+  "id": "dsm_5_asd_feature_lang_impair",
+  "display_name": "With accompanying language impairment.",
+  "description": "",
+  "type": "choices",
+  "domain": "dsm_5_asd_feature_lang_impair_1",
+  "other": {
+    "descriptions": null
+  }
+}

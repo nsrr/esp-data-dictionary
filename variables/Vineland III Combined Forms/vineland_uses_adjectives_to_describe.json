@@ -1,0 +1,10 @@
+{
+  "id": "vineland_uses_adjectives_to_describe",
+  "display_name": "21. Uses simple adjectives to describe things (for example, dirty, pretty, big, loud).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vineland_wash_fruit_veg_bef_eat",
+  "display_name": "15. Washes fruits and vegetables before eating or cooking them.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

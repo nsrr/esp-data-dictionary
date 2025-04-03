@@ -1,0 +1,10 @@
+{
+  "id": "dsm_5_high_restrict_interest",
+  "display_name": "3. Highly restricted, fixated interests that are abnormal in intensity or focus (e.g., strong attachment to or preoccupation with unusual objects, excessively circumscribed or perseverative interests).",
+  "description": "",
+  "type": "choices",
+  "domain": "dsm_5_development_deficit_3",
+  "other": {
+    "descriptions": null
+  }
+}

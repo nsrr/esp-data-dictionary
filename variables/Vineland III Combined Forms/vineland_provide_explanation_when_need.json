@@ -1,0 +1,10 @@
+{
+  "id": "vineland_provide_explanation_when_need",
+  "display_name": "43. Provides additional explanation when needed in order for someone to follow what he/she is saying (for example, \"In case you missed what I said...,\" \"What we were talking about was...\").",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

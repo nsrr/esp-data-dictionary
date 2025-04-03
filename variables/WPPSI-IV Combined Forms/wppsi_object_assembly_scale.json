@@ -1,0 +1,9 @@
+{
+  "id": "wppsi_object_assembly_scale",
+  "display_name": "Object Assembly Scale Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

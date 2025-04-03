@@ -1,0 +1,10 @@
+{
+  "id": "vineland_respnd_to_where",
+  "display_name": "22. Responds to questions that use where (for example, when asked \"Where did Felipe go?\" points where Felipe went).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

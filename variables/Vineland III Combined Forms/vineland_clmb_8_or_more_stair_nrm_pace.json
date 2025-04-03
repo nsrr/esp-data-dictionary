@@ -1,0 +1,10 @@
+{
+  "id": "vineland_clmb_8_or_more_stair_nrm_pace",
+  "display_name": "34. Climbs a flight of eight or more stairs at a normal pace; may use railing.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vineland_gives_complex_directions",
+  "display_name": "49. Gives complex directions involving three or more steps in logical order (for example, to a distant location, for a recipe requiring many steps).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

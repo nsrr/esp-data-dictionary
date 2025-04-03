@@ -1,0 +1,10 @@
+{
+  "id": "vineland_temper_tantrums",
+  "display_name": "1. Has temper tantrums: Screams, cries, kicks, etc.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "asleep_car",
+  "display_name": "47. Riding in the car",
+  "description": "",
+  "type": "choices",
+  "domain": "asleep_car_3",
+  "other": {
+    "descriptions": null
+  }
+}

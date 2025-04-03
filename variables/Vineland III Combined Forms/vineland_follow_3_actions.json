@@ -1,0 +1,10 @@
+{
+  "id": "vineland_follow_3_actions",
+  "display_name": "32. Follows instructions requiring three actions (for example, \"Get dressed, eat breakfast, and brush your teeth\").",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

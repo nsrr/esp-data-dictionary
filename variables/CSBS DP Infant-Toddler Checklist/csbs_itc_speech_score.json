@@ -1,0 +1,9 @@
+{
+  "id": "csbs_itc_speech_score",
+  "display_name": "Sum of CSBS_ITC_SOUNDS_SCORE and CSBS_ITC_WORDS_SCORE",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

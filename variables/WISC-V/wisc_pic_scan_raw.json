@@ -1,0 +1,9 @@
+{
+  "id": "wisc_pic_scan_raw",
+  "display_name": "Picture Scan Raw Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

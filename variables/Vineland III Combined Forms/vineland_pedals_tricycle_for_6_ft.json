@@ -1,0 +1,10 @@
+{
+  "id": "vineland_pedals_tricycle_for_6_ft",
+  "display_name": "35. Pedals a tricycle or other three-wheeled vehicle for at least 6 feet.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

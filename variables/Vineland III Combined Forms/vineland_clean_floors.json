@@ -1,0 +1,10 @@
+{
+  "id": "vineland_clean_floors",
+  "display_name": "24. Cleans floors thoroughly (sweeps, vacuums, mops, etc.).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

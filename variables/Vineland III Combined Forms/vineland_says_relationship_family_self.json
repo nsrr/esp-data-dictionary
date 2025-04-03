@@ -1,0 +1,10 @@
+{
+  "id": "vineland_says_relationship_family_self",
+  "display_name": "18. Says the relationship of family members to self (for example, \"That's my mom,\" \"He's my brother\"); simply calling parents Mom, Dad, or equivalent doesn't count.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

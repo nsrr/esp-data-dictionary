@@ -1,0 +1,10 @@
+{
+  "id": "csbs_child_happy_upset",
+  "display_name": "1. Do you know when your child is happy and when your child is upset?",
+  "description": "",
+  "type": "choices",
+  "domain": "csbs_child_get_laugh_3",
+  "other": {
+    "descriptions": null
+  }
+}

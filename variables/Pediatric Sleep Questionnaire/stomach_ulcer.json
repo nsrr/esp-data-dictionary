@@ -1,0 +1,10 @@
+{
+  "id": "stomach_ulcer",
+  "display_name": "Stomach Ulcer",
+  "description": "",
+  "type": "choices",
+  "domain": "change_appetite_2",
+  "other": {
+    "descriptions": null
+  }
+}

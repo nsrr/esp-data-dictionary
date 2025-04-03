@@ -1,0 +1,10 @@
+{
+  "id": "afternoon_sleep",
+  "display_name": "Is your child sleepy in the afternoon?",
+  "description": "",
+  "type": "choices",
+  "domain": "afternoon_sleep_5",
+  "other": {
+    "descriptions": null
+  }
+}

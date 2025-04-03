@@ -1,0 +1,9 @@
+{
+  "id": "dsm_conduct_prob_t_score",
+  "display_name": "Conduct Problems T Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

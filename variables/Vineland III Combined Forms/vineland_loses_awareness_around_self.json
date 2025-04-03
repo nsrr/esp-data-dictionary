@@ -1,0 +1,10 @@
+{
+  "id": "vineland_loses_awareness_around_self",
+  "display_name": "5. Loses awareness of what is happening around him/her (for example, seems to be \"in a fog,\" \"zones out\").",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

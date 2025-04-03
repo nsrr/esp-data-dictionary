@@ -1,0 +1,10 @@
+{
+  "id": "vineland_respects_others_time",
+  "display_name": "26. Respects others' time (for example, doesn't keep others waiting or interrupt others who are busy).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

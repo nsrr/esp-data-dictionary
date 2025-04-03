@@ -1,0 +1,9 @@
+{
+  "id": "nonverbal_cluster_reason_score",
+  "display_name": "Sequential and Quantitative Reasoning Ability Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

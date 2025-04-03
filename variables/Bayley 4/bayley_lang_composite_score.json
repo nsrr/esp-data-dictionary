@@ -1,0 +1,9 @@
+{
+  "id": "bayley_lang_composite_score",
+  "display_name": "Language Composite Standard Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

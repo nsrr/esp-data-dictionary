@@ -1,0 +1,10 @@
+{
+  "id": "vineland_uses_eraser_not_tear_paper",
+  "display_name": "25. Uses an eraser without tearing the paper. ",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

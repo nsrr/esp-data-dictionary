@@ -1,0 +1,10 @@
+{
+  "id": "scq_curr_object_carry",
+  "display_name": "18. Does she/he ever have any objects (other than a soft toy or comfortable blanket) that she/he has to carry around?",
+  "description": "",
+  "type": "choices",
+  "domain": "awake_fright_dream_problem_2",
+  "other": {
+    "descriptions": null
+  }
+}

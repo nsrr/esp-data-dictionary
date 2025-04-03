@@ -1,0 +1,9 @@
+{
+  "id": "wppsi_picture_name_raw",
+  "display_name": "Picture Naming Raw Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

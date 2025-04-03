@@ -1,0 +1,10 @@
+{
+  "id": "vineland_wipe_own_spills",
+  "display_name": "3. Wipes up own spills; must get wiping material and clean the spills adequately.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

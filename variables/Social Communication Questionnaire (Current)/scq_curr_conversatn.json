@@ -1,0 +1,10 @@
+{
+  "id": "scq_curr_conversatn",
+  "display_name": "2. Do you have a to and fro \"conversation\" with her/him that involves taking turns or building on what you have said?",
+  "description": "",
+  "type": "choices",
+  "domain": "scq_curr_appropriate_express_2",
+  "other": {
+    "descriptions": null
+  }
+}

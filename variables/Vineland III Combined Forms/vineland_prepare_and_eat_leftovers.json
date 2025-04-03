@@ -1,0 +1,10 @@
+{
+  "id": "vineland_prepare_and_eat_leftovers",
+  "display_name": "19. Prepares and eats leftovers.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "core_cluster_verbal_score",
+  "display_name": "Verbal Cluster/Composite Standard Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

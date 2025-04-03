@@ -1,0 +1,10 @@
+{
+  "id": "vineland_spread_food_with_table_knife",
+  "display_name": "38. Spreads food with a table knife (for example, butter, jam, mustard).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

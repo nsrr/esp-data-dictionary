@@ -1,0 +1,9 @@
+{
+  "id": "wppsi_vocab_raw",
+  "display_name": "Vocabulary Raw Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

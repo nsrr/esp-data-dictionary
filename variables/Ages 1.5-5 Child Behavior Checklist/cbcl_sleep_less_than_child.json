@@ -1,0 +1,10 @@
+{
+  "id": "cbcl_sleep_less_than_child",
+  "display_name": "74. Sleeps less than most children during the day and/or night",
+  "description": "",
+  "type": "choices",
+  "domain": "cbcl_aches_or_pains_3",
+  "other": {
+    "descriptions": null
+  }
+}

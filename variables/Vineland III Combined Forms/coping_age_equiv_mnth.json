@@ -1,0 +1,9 @@
+{
+  "id": "coping_age_equiv_mnth",
+  "display_name": "Socialization- Coping Skills Age Equivalent Month",
+  "description": "",
+  "type": "integer",
+  "other": {
+    "descriptions": null
+  }
+}

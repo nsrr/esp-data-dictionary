@@ -1,0 +1,17 @@
+[
+  {
+    "value": "1",
+    "display_name": "Usually(5-7)",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Sometimes(2-4)",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Rarely(0-1)",
+    "description": ""
+  }
+]

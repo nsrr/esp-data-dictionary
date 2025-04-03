@@ -1,0 +1,9 @@
+{
+  "id": "conners_household",
+  "display_name": "Number of items selected: Please circle each word that child says spontaneously (Household)",
+  "description": "",
+  "type": "integer",
+  "other": {
+    "descriptions": null
+  }
+}

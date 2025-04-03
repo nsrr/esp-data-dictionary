@@ -1,0 +1,9 @@
+{
+  "id": "cbcl_withdrawn_t_score",
+  "display_name": "Withdrawn T Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

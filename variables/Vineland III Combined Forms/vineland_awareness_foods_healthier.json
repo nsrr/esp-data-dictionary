@@ -1,0 +1,10 @@
+{
+  "id": "vineland_awareness_foods_healthier",
+  "display_name": "40. Shows awareness that some foods are healthier than others (for example, state that fruits and vegetables are healthier than foods high in sugar or fat).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

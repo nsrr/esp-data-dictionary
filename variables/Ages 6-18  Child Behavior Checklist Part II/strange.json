@@ -1,0 +1,10 @@
+{
+  "id": "strange",
+  "display_name": "84. Strange behavior.",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "other": {
+    "descriptions": null
+  }
+}

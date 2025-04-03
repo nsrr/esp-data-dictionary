@@ -1,0 +1,10 @@
+{
+  "id": "vineland_smiles_in_response_to_a_smile",
+  "display_name": "2. Smiles in response to a smile or a friendly voice.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "speech",
+  "display_name": "79. Speech problem.",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "other": {
+    "descriptions": null
+  }
+}

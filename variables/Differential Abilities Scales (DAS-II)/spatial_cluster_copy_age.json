@@ -1,0 +1,9 @@
+{
+  "id": "spatial_cluster_copy_age",
+  "display_name": "Copying Age Equivalent",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

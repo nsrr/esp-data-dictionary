@@ -1,0 +1,9 @@
+{
+  "id": "night_awake_min",
+  "display_name": "Min",
+  "description": "",
+  "type": "integer",
+  "other": {
+    "descriptions": null
+  }
+}

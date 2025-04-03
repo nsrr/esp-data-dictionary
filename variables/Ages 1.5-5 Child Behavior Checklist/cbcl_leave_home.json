@@ -1,0 +1,10 @@
+{
+  "id": "cbcl_leave_home",
+  "display_name": "28. Doesn't want to go out of home",
+  "description": "",
+  "type": "choices",
+  "domain": "cbcl_aches_or_pains_3",
+  "other": {
+    "descriptions": null
+  }
+}

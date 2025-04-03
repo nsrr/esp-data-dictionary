@@ -1,0 +1,9 @@
+{
+  "id": "bayley_cog_tot_raw_score",
+  "display_name": "Cognitive Raw Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

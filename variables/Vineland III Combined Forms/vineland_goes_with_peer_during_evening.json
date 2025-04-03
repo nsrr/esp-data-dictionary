@@ -1,0 +1,10 @@
+{
+  "id": "vineland_goes_with_peer_during_evening",
+  "display_name": "36. Goes places with peers in the evening without someone supervising (for example, a concert, lecture, sports event, movie).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

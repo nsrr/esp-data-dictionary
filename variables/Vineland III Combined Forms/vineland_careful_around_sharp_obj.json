@@ -1,0 +1,10 @@
+{
+  "id": "vineland_careful_around_sharp_obj",
+  "display_name": "2. Is careful when using sharp objects (for example, scissors, knives).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

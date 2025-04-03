@@ -1,0 +1,10 @@
+{
+  "id": "promis_trouble_sleeping_pain",
+  "display_name": "My child had trouble sleeping when he/she had pain",
+  "description": "",
+  "type": "choices",
+  "domain": "promis_child_tired_easily_5",
+  "other": {
+    "descriptions": null
+  }
+}

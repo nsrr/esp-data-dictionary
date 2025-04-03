@@ -1,0 +1,10 @@
+{
+  "id": "vineland_write_emails_10_sentences",
+  "display_name": "28. Writes emails, stories, letters, journal entries, etc. at least 10 sentences long; may use abbreviated words and make small errors in spelling or grammar.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

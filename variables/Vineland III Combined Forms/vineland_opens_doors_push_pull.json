@@ -1,0 +1,10 @@
+{
+  "id": "vineland_opens_doors_push_pull",
+  "display_name": "9. Opens doors that require only pushing or pulling (for example, cabinet, refrigerator, sliding, or swinging doors).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

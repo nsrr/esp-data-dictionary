@@ -1,0 +1,9 @@
+{
+  "id": "brother_age",
+  "display_name": "Brother's ages?",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

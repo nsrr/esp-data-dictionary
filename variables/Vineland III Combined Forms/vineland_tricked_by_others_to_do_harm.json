@@ -1,0 +1,10 @@
+{
+  "id": "vineland_tricked_by_others_to_do_harm",
+  "display_name": "18. Is tricked by others into doing something that could seriously harm him or her, or someone else.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

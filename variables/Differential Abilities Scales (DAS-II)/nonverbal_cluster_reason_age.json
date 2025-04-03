@@ -1,0 +1,9 @@
+{
+  "id": "nonverbal_cluster_reason_age",
+  "display_name": "Sequential and Quantitative Reasoning Age Equivalent",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

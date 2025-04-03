@@ -1,0 +1,10 @@
+{
+  "id": "vineland_remembers_several_hours_later",
+  "display_name": "38. When instructed to do something several hours later, remembers to do it (for example, \"When you get home from school, let the dog out\").",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

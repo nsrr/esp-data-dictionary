@@ -1,0 +1,9 @@
+{
+  "id": "nap_minutes",
+  "display_name": "Min",
+  "description": "",
+  "type": "integer",
+  "other": {
+    "descriptions": null
+  }
+}

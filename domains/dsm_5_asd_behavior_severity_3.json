@@ -1,0 +1,17 @@
+[
+  {
+    "value": "1",
+    "display_name": "Level 1- Requiring support",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Level 2- Requiring substantial support",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Level 3- Requiring very substantial support",
+    "description": ""
+  }
+]

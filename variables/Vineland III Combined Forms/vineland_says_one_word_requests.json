@@ -1,0 +1,10 @@
+{
+  "id": "vineland_says_one_word_requests",
+  "display_name": "12. Says one-word requests (for example, \"Want,\" \"More,\" \"Open\").",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

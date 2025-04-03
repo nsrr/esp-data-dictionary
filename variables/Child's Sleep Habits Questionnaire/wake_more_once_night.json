@@ -1,0 +1,10 @@
+{
+  "id": "wake_more_once_night",
+  "display_name": "32. Child awakes more than once during the night",
+  "description": "",
+  "type": "choices",
+  "domain": "bedtime_ready_3",
+  "other": {
+    "descriptions": null
+  }
+}

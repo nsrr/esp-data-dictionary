@@ -1,0 +1,9 @@
+{
+  "id": "wppsi_zoo_loc_scale",
+  "display_name": "Zoo Locations Scale Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

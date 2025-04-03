@@ -1,0 +1,27 @@
+[
+  {
+    "value": "1",
+    "display_name": "Very Uncertain",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Somewhat Uncertain",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Somewhat Certain",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Fairly Sure",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Certain",
+    "description": ""
+  }
+]

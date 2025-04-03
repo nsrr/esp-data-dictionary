@@ -1,0 +1,10 @@
+{
+  "id": "vineland_takes_meds",
+  "display_name": "53. Takes medicine as directed on his/her own.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

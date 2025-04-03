@@ -1,0 +1,10 @@
+{
+  "id": "vineland_takes_own_temp",
+  "display_name": "52. Takes own temperature when needed.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

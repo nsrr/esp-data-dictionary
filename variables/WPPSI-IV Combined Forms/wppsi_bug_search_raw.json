@@ -1,0 +1,9 @@
+{
+  "id": "wppsi_bug_search_raw",
+  "display_name": "Bug Search Raw Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

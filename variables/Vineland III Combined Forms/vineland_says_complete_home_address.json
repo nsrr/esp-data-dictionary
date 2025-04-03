@@ -1,0 +1,10 @@
+{
+  "id": "vineland_says_complete_home_address",
+  "display_name": "48. Says complete home address correctly when asked (that is, street or rural route, apartment number, city, and state, with or without zip code).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

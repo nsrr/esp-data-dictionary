@@ -1,0 +1,10 @@
+{
+  "id": "vineland_feed_slf_with_spoon_no_spill",
+  "display_name": "17. Feeds self with a spoon without spilling.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

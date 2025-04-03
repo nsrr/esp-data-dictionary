@@ -1,0 +1,10 @@
+{
+  "id": "epworth_passenger",
+  "display_name": "Being a passenger in a motor vehicle for an hour or more",
+  "description": "",
+  "type": "choices",
+  "domain": "epworth_after_lunch_4",
+  "other": {
+    "descriptions": null
+  }
+}

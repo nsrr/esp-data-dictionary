@@ -1,0 +1,10 @@
+{
+  "id": "scq_curr_say_same_thing",
+  "display_name": "7. Does she/he ever say the same thing over and over in exactly the same way or insist that you say the same thing over and over again?",
+  "description": "",
+  "type": "choices",
+  "domain": "awake_fright_dream_problem_2",
+  "other": {
+    "descriptions": null
+  }
+}

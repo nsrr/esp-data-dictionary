@@ -1,0 +1,10 @@
+{
+  "id": "vineland_use_2_social_interaction_tech",
+  "display_name": "37. Uses at least two social interaction technologies (for example, personal email, texting, social media, Skype; telephone calls don't count).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

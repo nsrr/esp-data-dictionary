@@ -1,0 +1,10 @@
+{
+  "id": "night_awake",
+  "display_name": "How many times does your child wake during the night?",
+  "description": "",
+  "type": "choices",
+  "domain": "night_awake_7",
+  "other": {
+    "descriptions": null
+  }
+}

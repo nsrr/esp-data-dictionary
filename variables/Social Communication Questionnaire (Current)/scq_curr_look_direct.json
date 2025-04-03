@@ -1,0 +1,10 @@
+{
+  "id": "scq_curr_look_direct",
+  "display_name": "26. Does she/he usually look at you directly in the face when doing things with you or talking with you?",
+  "description": "",
+  "type": "choices",
+  "domain": "scq_curr_appropriate_express_2",
+  "other": {
+    "descriptions": null
+  }
+}

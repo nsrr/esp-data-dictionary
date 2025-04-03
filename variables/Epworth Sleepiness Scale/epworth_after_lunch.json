@@ -1,0 +1,10 @@
+{
+  "id": "epworth_after_lunch",
+  "display_name": "Sitting quietly after lunch",
+  "description": "",
+  "type": "choices",
+  "domain": "epworth_after_lunch_4",
+  "other": {
+    "descriptions": null
+  }
+}

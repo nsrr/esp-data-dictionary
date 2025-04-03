@@ -1,0 +1,10 @@
+{
+  "id": "scq_curr_point",
+  "display_name": "22. Does she/he ever spontaneously point at things around her/him just to show you things (not because she/he wants them)?",
+  "description": "",
+  "type": "choices",
+  "domain": "scq_curr_appropriate_express_2",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "nonverbal_cluster_pic_tscore",
+  "display_name": "Picture Similarities T-Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

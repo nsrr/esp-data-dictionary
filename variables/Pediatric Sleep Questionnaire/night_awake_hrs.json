@@ -1,0 +1,9 @@
+{
+  "id": "night_awake_hrs",
+  "display_name": "For how long is your child awake during the night?\n     HRS",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

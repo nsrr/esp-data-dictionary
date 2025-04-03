@@ -1,0 +1,10 @@
+{
+  "id": "cbcl_hurt_a_lot",
+  "display_name": "34. Gets hurt a lot, accident-prone",
+  "description": "",
+  "type": "choices",
+  "domain": "cbcl_aches_or_pains_3",
+  "other": {
+    "descriptions": null
+  }
+}

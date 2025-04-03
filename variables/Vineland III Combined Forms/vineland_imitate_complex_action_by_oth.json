@@ -1,0 +1,10 @@
+{
+  "id": "vineland_imitate_complex_action_by_oth",
+  "display_name": "15. Imitates relatively complex actions as they are being performed by another person (for example, shaving, putting on makeup, vacuuming, hammering nails).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vineland_check_that_parent_is_nearby",
+  "display_name": "10. Looks around from time to time to check that parent, caregiver, or other familiar person is nearby.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

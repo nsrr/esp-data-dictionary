@@ -1,0 +1,10 @@
+{
+  "id": "vineland_follow_instruction_left_right",
+  "display_name": "36. Follows instructions involving left and right (for example, \"Go to the left\"; \"Look to the right\").",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

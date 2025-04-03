@@ -1,0 +1,10 @@
+{
+  "id": "vineland_suck_or_chew_finger_food",
+  "display_name": "3. Sucks or chews on finger foods (for example, crackers, cookies, toast).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

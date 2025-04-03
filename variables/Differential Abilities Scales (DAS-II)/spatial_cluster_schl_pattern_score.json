@@ -1,0 +1,9 @@
+{
+  "id": "spatial_cluster_schl_pattern_score",
+  "display_name": "Pattern Construction Ability Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

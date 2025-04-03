@@ -1,0 +1,10 @@
+{
+  "id": "fall_sleep_20min",
+  "display_name": "2. Child falls asleep within 20 minutes after going to bed",
+  "description": "",
+  "type": "choices",
+  "domain": "bedtime_same_time_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vineland_put_away_clean_clothes",
+  "display_name": "13. Puts clean clothes away where they belong (for example, in drawers or closet, on hooks).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vineland_repeat_common_words_immediate",
+  "display_name": "9. Repeats or tries to repeat common words immediately upon hearing them (for example, ball, car, more).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

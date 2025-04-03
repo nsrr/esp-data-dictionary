@@ -1,0 +1,10 @@
+{
+  "id": "vineland_gives_simple_directions",
+  "display_name": "41. Gives simple directions involving one or two steps (for example, how to make, find, or do something).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

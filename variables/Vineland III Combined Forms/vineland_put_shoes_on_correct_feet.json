@@ -1,0 +1,10 @@
+{
+  "id": "vineland_put_shoes_on_correct_feet",
+  "display_name": "37. Puts shoes on the correct feet and securely ties or fastens them.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

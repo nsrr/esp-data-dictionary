@@ -1,0 +1,10 @@
+{
+  "id": "vineland_is_good_friend",
+  "display_name": "27. Is good friend: Treats his/her friends fairly and with respect, is supportive, etc.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

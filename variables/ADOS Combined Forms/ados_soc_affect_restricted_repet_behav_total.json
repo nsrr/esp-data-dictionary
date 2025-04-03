@@ -1,0 +1,9 @@
+{
+  "id": "ados_soc_affect_restricted_repet_behav_total",
+  "display_name": "Overall Total (Social Affect + Restricted and Repetitive Behavior) Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

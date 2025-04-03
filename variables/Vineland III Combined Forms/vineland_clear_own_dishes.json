@@ -1,0 +1,10 @@
+{
+  "id": "vineland_clear_own_dishes",
+  "display_name": "8. Fully clears own dishes, utensils, napkins, cups, etc. after eating.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

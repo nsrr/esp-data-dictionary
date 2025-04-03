@@ -1,0 +1,9 @@
+{
+  "id": "wppsi_matrix_reason_scale",
+  "display_name": "Matrix Reasoning Scale Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

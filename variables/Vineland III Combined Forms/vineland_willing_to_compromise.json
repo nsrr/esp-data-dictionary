@@ -1,0 +1,10 @@
+{
+  "id": "vineland_willing_to_compromise",
+  "display_name": "17. Is willing to compromise in order to get along with peers.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

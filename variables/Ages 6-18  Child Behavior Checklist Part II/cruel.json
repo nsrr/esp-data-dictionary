@@ -1,0 +1,10 @@
+{
+  "id": "cruel",
+  "display_name": "15. Cruel to animals.",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "other": {
+    "descriptions": null
+  }
+}

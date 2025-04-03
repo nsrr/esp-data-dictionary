@@ -1,0 +1,10 @@
+{
+  "id": "das_version",
+  "display_name": "DAS-II Version",
+  "description": "",
+  "type": "choices",
+  "domain": "das_version_6",
+  "other": {
+    "descriptions": null
+  }
+}

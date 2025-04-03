@@ -1,0 +1,10 @@
+{
+  "id": "vineland_play_interact_30mn_supervsn",
+  "display_name": "11. Plays interactively with one or more children for at least 30 minutes with someone older supervising.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

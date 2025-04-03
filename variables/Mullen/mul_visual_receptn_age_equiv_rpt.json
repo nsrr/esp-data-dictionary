@@ -1,0 +1,9 @@
+{
+  "id": "mul_visual_receptn_age_equiv_rpt",
+  "display_name": "Visual Reception Age Equivalent",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

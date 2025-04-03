@@ -1,0 +1,10 @@
+{
+  "id": "vineland_carries_money_cards_safely",
+  "display_name": "34. Carries or stores money/debit card/credit cards safely, without losing (for example, in a wallet, purse, or money belt).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

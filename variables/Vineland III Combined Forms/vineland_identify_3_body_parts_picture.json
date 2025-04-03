@@ -1,0 +1,10 @@
+{
+  "id": "vineland_identify_3_body_parts_picture",
+  "display_name": "18. Identifies at least three body parts pictured in a book, magazine, or electronic screen when asked (for example, points to a nose, a mouth, hands, feet, etc.).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vineland_combine_coins_to_specific_amt",
+  "display_name": "26. Combines coins to equal a specific amount (for example, 87 cents).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

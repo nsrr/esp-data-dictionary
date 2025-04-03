@@ -1,0 +1,10 @@
+{
+  "id": "vineland_phone_number_in_emergency",
+  "display_name": "15. Knows what phone number to call in an emergency and how to make the call (for example, knows how to call 911 or an emergency contact).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

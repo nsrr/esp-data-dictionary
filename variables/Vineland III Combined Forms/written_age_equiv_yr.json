@@ -1,0 +1,9 @@
+{
+  "id": "written_age_equiv_yr",
+  "display_name": "Communication- Written Age Equivalent Year",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

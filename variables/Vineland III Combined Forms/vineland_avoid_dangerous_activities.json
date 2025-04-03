@@ -1,0 +1,10 @@
+{
+  "id": "vineland_avoid_dangerous_activities",
+  "display_name": "24. Chooses to avoid dangerous or risky activities or situations (for example, walking in an unsafe area, jumping off high places, picking up a hitchhiker).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "ados_reciprocal_soc_interact_total",
+  "display_name": "Reciprocal Social Interaction Total Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

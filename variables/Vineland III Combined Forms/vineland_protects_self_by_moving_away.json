@@ -1,0 +1,10 @@
+{
+  "id": "vineland_protects_self_by_moving_away",
+  "display_name": "12. Protects self by moving away from those who try to hurt others or destroy things (those who bite, hit, throw things, smash things, etc.).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

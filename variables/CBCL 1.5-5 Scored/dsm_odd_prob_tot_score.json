@@ -1,0 +1,9 @@
+{
+  "id": "dsm_odd_prob_tot_score",
+  "display_name": "Oppositional Defiant Problems Total Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

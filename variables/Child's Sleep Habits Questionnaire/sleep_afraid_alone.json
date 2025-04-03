@@ -1,0 +1,10 @@
+{
+  "id": "sleep_afraid_alone",
+  "display_name": "12. Child is afraid of sleeping alone",
+  "description": "",
+  "type": "choices",
+  "domain": "bedtime_ready_3",
+  "other": {
+    "descriptions": null
+  }
+}

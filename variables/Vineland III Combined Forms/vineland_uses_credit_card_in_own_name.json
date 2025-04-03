@@ -1,0 +1,10 @@
+{
+  "id": "vineland_uses_credit_card_in_own_name",
+  "display_name": "55. Uses a credit or debit card in his/her name responsibly (for example, does not exceed credit limit, pays on time).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

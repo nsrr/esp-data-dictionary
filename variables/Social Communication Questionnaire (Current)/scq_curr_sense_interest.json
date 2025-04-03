@@ -1,0 +1,10 @@
+{
+  "id": "scq_curr_sense_interest",
+  "display_name": "14. Does she/he ever seem to be unusually interested in the sight, feel, sound, taste, or smell of things or people?",
+  "description": "",
+  "type": "choices",
+  "domain": "awake_fright_dream_problem_2",
+  "other": {
+    "descriptions": null
+  }
+}

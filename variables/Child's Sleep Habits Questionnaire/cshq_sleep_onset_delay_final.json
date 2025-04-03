@@ -1,0 +1,9 @@
+{
+  "id": "cshq_sleep_onset_delay_final",
+  "display_name": "Score = CSHQ_FALL_SLEEP_20MIN\nUsually=1\nSometimes=2\nRarely=3",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

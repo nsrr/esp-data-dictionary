@@ -1,0 +1,10 @@
+{
+  "id": "cbcl_clingy",
+  "display_name": "10. Clings to adults or too dependent\n",
+  "description": "",
+  "type": "choices",
+  "domain": "cbcl_aches_or_pains_3",
+  "other": {
+    "descriptions": null
+  }
+}

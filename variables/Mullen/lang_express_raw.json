@@ -1,0 +1,9 @@
+{
+  "id": "lang_express_raw",
+  "display_name": "Expressive Language Raw Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

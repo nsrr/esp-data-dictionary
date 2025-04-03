@@ -1,0 +1,9 @@
+{
+  "id": "nonverbal_cluster_schl_pattern_tscore",
+  "display_name": "Pattern Construction T-Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

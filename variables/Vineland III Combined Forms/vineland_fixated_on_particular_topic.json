@@ -1,0 +1,10 @@
+{
+  "id": "vineland_fixated_on_particular_topic",
+  "display_name": "13. Gets so fixated on a particular topic that it annoys others (for example, trains, reptiles, maps, subway systems).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "csbs_child_get_laugh",
+  "display_name": "7. Does your child do things just to get you to laugh?",
+  "description": "",
+  "type": "choices",
+  "domain": "csbs_child_get_laugh_3",
+  "other": {
+    "descriptions": null
+  }
+}

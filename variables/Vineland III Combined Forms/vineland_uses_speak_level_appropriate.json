@@ -1,0 +1,10 @@
+{
+  "id": "vineland_uses_speak_level_appropriate",
+  "display_name": "23. Speaks using loudness, speed, and level of excitement that is appropriate for the conversation.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

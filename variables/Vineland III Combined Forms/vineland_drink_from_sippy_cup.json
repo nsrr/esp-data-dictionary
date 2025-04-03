@@ -1,0 +1,10 @@
+{
+  "id": "vineland_drink_from_sippy_cup",
+  "display_name": "2. Drinks from a bottle or spill-proof drinking cup (often called a \"sippy cup\"); must hold the bottle or cup himself/herself.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

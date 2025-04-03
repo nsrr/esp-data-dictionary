@@ -1,0 +1,10 @@
+{
+  "id": "vineland_repeats_physical_movements",
+  "display_name": "6. Repeats physical movements over and over (for example, rocks back and forth, spins, flaps hands).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

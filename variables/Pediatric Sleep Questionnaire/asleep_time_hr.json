@@ -1,0 +1,9 @@
+{
+  "id": "asleep_time_hr",
+  "display_name": "How many hours does your child sleep on average?  HRS",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

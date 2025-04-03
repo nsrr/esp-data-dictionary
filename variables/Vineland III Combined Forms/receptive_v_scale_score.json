@@ -1,0 +1,9 @@
+{
+  "id": "receptive_v_scale_score",
+  "display_name": "Communication- Receptive v-Scale Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

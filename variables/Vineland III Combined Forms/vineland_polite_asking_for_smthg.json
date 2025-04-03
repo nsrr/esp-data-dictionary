@@ -1,0 +1,10 @@
+{
+  "id": "vineland_polite_asking_for_smthg",
+  "display_name": "6. Is polite when asking for something (that is, uses please or an appropriate nonverbal gesture).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

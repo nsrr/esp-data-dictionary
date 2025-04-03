@@ -1,0 +1,10 @@
+{
+  "id": "vineland_crawls_across_the_floor",
+  "display_name": "4. Moves, scoots, or crawls across the floor.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vineland_ask_permission_bef_use_things",
+  "display_name": "26. Asks permission before using things that belong to or are being used by another.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

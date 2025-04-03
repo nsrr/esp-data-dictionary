@@ -1,0 +1,10 @@
+{
+  "id": "headache1",
+  "display_name": "b. Headaches",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "other": {
+    "descriptions": null
+  }
+}

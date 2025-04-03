@@ -1,0 +1,9 @@
+{
+  "id": "wisc_visual_puzzle_raw",
+  "display_name": "Visual Puzzles Raw Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

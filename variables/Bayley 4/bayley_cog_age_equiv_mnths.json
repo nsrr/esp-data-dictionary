@@ -1,0 +1,9 @@
+{
+  "id": "bayley_cog_age_equiv_mnths",
+  "display_name": "Cognitive Age Equivalent (Months)",
+  "description": "",
+  "type": "integer",
+  "other": {
+    "descriptions": null
+  }
+}

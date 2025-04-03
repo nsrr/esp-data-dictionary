@@ -1,0 +1,10 @@
+{
+  "id": "csbs_child_notice_interest_obj",
+  "display_name": "8. Does your child try to get you to notice interesting objects- just to get you to look at the objects, not to get you to do anything with them?",
+  "description": "",
+  "type": "choices",
+  "domain": "csbs_child_get_laugh_3",
+  "other": {
+    "descriptions": null
+  }
+}

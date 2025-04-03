@@ -1,0 +1,9 @@
+{
+  "id": "wisc_digit_span_scaled",
+  "display_name": "Digit Span Scaled Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

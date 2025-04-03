@@ -1,0 +1,10 @@
+{
+  "id": "vineland_maintain_eye_contact_social",
+  "display_name": "20. Maintains culturally appropriate eye contact during social interactions.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

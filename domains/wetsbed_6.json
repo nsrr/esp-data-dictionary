@@ -1,0 +1,32 @@
+[
+  {
+    "value": "0",
+    "display_name": "Not True (as far as you know)",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Rarely(0-1)",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Somewhat or Sometimes True",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Sometimes(2-4)",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Very True or Often True",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Usually(5-7)",
+    "description": ""
+  }
+]

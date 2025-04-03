@@ -1,0 +1,10 @@
+{
+  "id": "promis_child_physical_health",
+  "display_name": "In general, how would you rate your\nchilds physical health?",
+  "description": "",
+  "type": "choices",
+  "domain": "promis_child_health_10",
+  "other": {
+    "descriptions": null
+  }
+}

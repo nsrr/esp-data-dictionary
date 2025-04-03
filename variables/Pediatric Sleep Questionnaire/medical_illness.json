@@ -1,0 +1,10 @@
+{
+  "id": "medical_illness",
+  "display_name": "If yes, please indicate:",
+  "description": "",
+  "type": "choices",
+  "domain": "medical_illness_5",
+  "other": {
+    "descriptions": null
+  }
+}

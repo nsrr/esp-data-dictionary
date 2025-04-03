@@ -1,0 +1,10 @@
+{
+  "id": "vineland_toilet_bef_going_out",
+  "display_name": "48. Uses the toilet before going out if uncertain about the availability of a restroom.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

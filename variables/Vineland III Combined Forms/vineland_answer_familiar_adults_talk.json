@@ -1,0 +1,10 @@
+{
+  "id": "vineland_answer_familiar_adults_talk",
+  "display_name": "21. Answers politely when familiar adults make small talk (for example, if asked \"How are you?\" says \"I'm fine\"; if told \"You look nice,\" says \"Thank you\").",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

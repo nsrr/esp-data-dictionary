@@ -1,0 +1,10 @@
+{
+  "id": "vineland_obeys_curfews",
+  "display_name": "30. Obeys curfews (that is, comes home when he/she is told to, during the day or at night).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

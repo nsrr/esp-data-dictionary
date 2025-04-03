@@ -1,0 +1,10 @@
+{
+  "id": "liver_disease",
+  "display_name": "Liver disease",
+  "description": "",
+  "type": "choices",
+  "domain": "change_appetite_2",
+  "other": {
+    "descriptions": null
+  }
+}

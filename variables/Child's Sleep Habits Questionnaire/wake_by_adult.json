@@ -1,0 +1,10 @@
+{
+  "id": "wake_by_adult",
+  "display_name": "37. Adults or siblings wake up child",
+  "description": "",
+  "type": "choices",
+  "domain": "bedtime_ready_3",
+  "other": {
+    "descriptions": null
+  }
+}

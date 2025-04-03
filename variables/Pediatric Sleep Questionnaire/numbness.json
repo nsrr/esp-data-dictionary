@@ -1,0 +1,10 @@
+{
+  "id": "numbness",
+  "display_name": "Numbness, part of body",
+  "description": "",
+  "type": "choices",
+  "domain": "change_appetite_2",
+  "other": {
+    "descriptions": null
+  }
+}

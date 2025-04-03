@@ -1,0 +1,17 @@
+[
+  {
+    "value": "1",
+    "display_name": "Not Sleepy",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Very Sleepy",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Falls Asleep",
+    "description": ""
+  }
+]

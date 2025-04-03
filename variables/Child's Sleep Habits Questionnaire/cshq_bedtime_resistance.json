@@ -1,0 +1,9 @@
+{
+  "id": "cshq_bedtime_resistance",
+  "display_name": "Sum: CSHQ_BEDTIME_SAME_TIME\n+ CSHQ_FALL_SLEEP_OWN_BED\n+ CSHQ_FALL_SLEEP_OTHR_BED\n+ CSHQ_FALL_SLEEP_NEED_PARENT\n+ CSHQ_BEDTIME_STRUGGLE\n+ CSHQ_SLEEP_AFRAID_ALONE",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

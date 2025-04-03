@@ -1,0 +1,9 @@
+{
+  "id": "ados_social_affect_total",
+  "display_name": "Social Affect Total Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

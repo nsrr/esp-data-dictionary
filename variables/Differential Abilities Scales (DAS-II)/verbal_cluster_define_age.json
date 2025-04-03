@@ -1,0 +1,9 @@
+{
+  "id": "verbal_cluster_define_age",
+  "display_name": "Word Definitions Age Equivalent",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

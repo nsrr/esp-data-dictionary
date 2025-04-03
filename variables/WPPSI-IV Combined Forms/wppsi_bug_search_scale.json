@@ -1,0 +1,9 @@
+{
+  "id": "wppsi_bug_search_scale",
+  "display_name": "Bug Search Scale Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vineland_responds_to_3_basic_gestures",
+  "display_name": "6. Responds appropriately to at least three basic gestures (for example, head nod for yes, head shake for no, hand out for give me, reaching, waving, clapping).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

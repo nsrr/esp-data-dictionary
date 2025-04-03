@@ -1,0 +1,9 @@
+{
+  "id": "cshq_night_wakings",
+  "display_name": "Sum: CSHQ_SLEEP_MOVE_BED\n+ CSHQ_WAKE_ONCE_NIGHT\n+ CSHQ_WAKE_MORE_ONCE_NIGHT",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

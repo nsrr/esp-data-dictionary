@@ -1,0 +1,10 @@
+{
+  "id": "cbcl_many_fights",
+  "display_name": "35. Gets in many fights",
+  "description": "",
+  "type": "choices",
+  "domain": "cbcl_aches_or_pains_3",
+  "other": {
+    "descriptions": null
+  }
+}

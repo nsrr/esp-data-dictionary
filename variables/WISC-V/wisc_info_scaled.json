@@ -1,0 +1,9 @@
+{
+  "id": "wisc_info_scaled",
+  "display_name": "Information Scaled Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

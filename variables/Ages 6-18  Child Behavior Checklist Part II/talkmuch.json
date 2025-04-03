@@ -1,0 +1,10 @@
+{
+  "id": "talkmuch",
+  "display_name": "93. Talks too much.",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "other": {
+    "descriptions": null
+  }
+}

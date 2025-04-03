@@ -1,0 +1,10 @@
+{
+  "id": "vineland_removes_object_from_box",
+  "display_name": "4. Removes an object (for example, a block or small toy) from a box or other container with no lid.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

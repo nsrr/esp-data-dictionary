@@ -1,0 +1,10 @@
+{
+  "id": "promis_child_listen_ideas",
+  "display_name": "How often does your child feel that you listen to his or her ideas?",
+  "description": "",
+  "type": "choices",
+  "domain": "promis_child_fun_with_friends_5",
+  "other": {
+    "descriptions": null
+  }
+}

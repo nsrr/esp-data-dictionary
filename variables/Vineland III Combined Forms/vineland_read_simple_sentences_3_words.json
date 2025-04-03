@@ -1,0 +1,10 @@
+{
+  "id": "vineland_read_simple_sentences_3_words",
+  "display_name": "14. Reads simple sentences of three or more words out loud.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "value": "10",
+    "display_name": "f. Nonspectrum Language Delay",
+    "description": ""
+  },
+  {
+    "value": "11",
+    "display_name": "g. Nonspectrum Specific Delay",
+    "description": ""
+  },
+  {
+    "value": "12",
+    "display_name": "h. Not Applicable",
+    "description": ""
+  },
+  {
+    "value": "13",
+    "display_name": "a. Autism spectrum disorder",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "b. Typical/Healthy Control",
+    "description": ""
+  },
+  {
+    "value": "7",
+    "display_name": "c. Typical Current",
+    "description": ""
+  },
+  {
+    "value": "8",
+    "display_name": "d. Nonspectrum DD Subtypes",
+    "description": ""
+  },
+  {
+    "value": "9",
+    "display_name": "e. Nonspectrum DD other",
+    "description": ""
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "id": "vineland_crawls_up_stairs",
+  "display_name": "10. Crawls up stairs.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

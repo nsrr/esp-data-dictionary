@@ -1,0 +1,10 @@
+{
+  "id": "vineland_uses_nouns_and_verbs",
+  "display_name": "18. Uses phrases with a noun and a verb (for example, \"Mommy stay,\" \"Give ball\").",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vineland_give_cards_to_family_members",
+  "display_name": "38. Give cards and/or gifts to immediate family members on \"special days\" on own initiative. ",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

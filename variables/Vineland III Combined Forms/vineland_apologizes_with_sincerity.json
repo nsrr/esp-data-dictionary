@@ -1,0 +1,10 @@
+{
+  "id": "vineland_apologizes_with_sincerity",
+  "display_name": "15. Apologizes with sincerity after hurting another's feelings.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vineland_respnd_to_3_facial_expression",
+  "display_name": "8. Responds appropriately to at least three facial expressions being made by others (for example, frown, smile, surprised look, angry face).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vineland_brushes_teeth",
+  "display_name": "32. Brushes teeth; must put toothpaste on toothbrush, brush adequately, and rinse.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

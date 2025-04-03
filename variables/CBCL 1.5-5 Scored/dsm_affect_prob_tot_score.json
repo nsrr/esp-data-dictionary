@@ -1,0 +1,9 @@
+{
+  "id": "dsm_affect_prob_tot_score",
+  "display_name": "Affective Problems Total Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

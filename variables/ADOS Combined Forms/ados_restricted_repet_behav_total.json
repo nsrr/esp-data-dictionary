@@ -1,0 +1,9 @@
+{
+  "id": "ados_restricted_repet_behav_total",
+  "display_name": "Restricted and Repetitive Behavior Total Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

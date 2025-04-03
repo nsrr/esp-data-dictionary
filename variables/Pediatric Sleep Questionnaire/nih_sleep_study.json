@@ -1,0 +1,10 @@
+{
+  "id": "nih_sleep_study",
+  "display_name": "If you have had a sleep study, was it here at the NIH?",
+  "description": "",
+  "type": "choices",
+  "domain": "change_appetite_2",
+  "other": {
+    "descriptions": null
+  }
+}

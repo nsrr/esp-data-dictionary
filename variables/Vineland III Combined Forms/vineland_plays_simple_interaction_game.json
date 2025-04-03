@@ -1,0 +1,10 @@
+{
+  "id": "vineland_plays_simple_interaction_game",
+  "display_name": "3. Plays simple interaction games with others (for example, peek-a-boo, patty-cake).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vineland_use_words_express_own_emotion",
+  "display_name": "19. Uses words to express own emotions (for example, \"I'm happy,\" \"I'm scared,\" \"I don't like him\").",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

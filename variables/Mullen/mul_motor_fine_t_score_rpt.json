@@ -1,0 +1,9 @@
+{
+  "id": "mul_motor_fine_t_score_rpt",
+  "display_name": "Fine Motor T Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

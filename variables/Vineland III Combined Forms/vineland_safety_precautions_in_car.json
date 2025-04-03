@@ -1,0 +1,10 @@
+{
+  "id": "vineland_safety_precautions_in_car",
+  "display_name": "5. Understands and follows safety precautions while riding in a car (for example, keeps seat belt on, refrains from unnecessarily distracting the driver).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

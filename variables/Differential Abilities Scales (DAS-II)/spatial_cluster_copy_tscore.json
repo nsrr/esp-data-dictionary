@@ -1,0 +1,9 @@
+{
+  "id": "spatial_cluster_copy_tscore",
+  "display_name": "Copying T-Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

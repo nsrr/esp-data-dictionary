@@ -1,0 +1,10 @@
+{
+  "id": "csbs_nod_head_yes",
+  "display_name": "13. Does your child nod his/her head to indicate yes?",
+  "description": "",
+  "type": "choices",
+  "domain": "csbs_child_get_laugh_3",
+  "other": {
+    "descriptions": null
+  }
+}

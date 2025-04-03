@@ -1,0 +1,10 @@
+{
+  "id": "vineland_makes_healthy_eating_choices",
+  "display_name": "49. Makes healthy eating choices (eats a balanced diet, eats unhealthy foods in moderation, etc.).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

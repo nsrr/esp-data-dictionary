@@ -1,0 +1,10 @@
+{
+  "id": "vineland_sits_unsupported_1_min",
+  "display_name": "3. Sits unsupported for at least 1 minute.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "sleep_grind_teeth",
+  "display_name": "23. Child grinds teeth during sleep (your dentist may have told you this)",
+  "description": "",
+  "type": "choices",
+  "domain": "awake_fright_dream_8",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "short_breath",
+  "display_name": "Shortness of breath",
+  "description": "",
+  "type": "choices",
+  "domain": "change_appetite_2",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vineland_right_to_access_records",
+  "display_name": "47. Understands the right to access records and information (for example, school or medical records, credit history).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

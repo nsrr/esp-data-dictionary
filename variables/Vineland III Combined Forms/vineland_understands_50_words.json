@@ -1,0 +1,10 @@
+{
+  "id": "vineland_understands_50_words",
+  "display_name": "12. Understands at least 50 words.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

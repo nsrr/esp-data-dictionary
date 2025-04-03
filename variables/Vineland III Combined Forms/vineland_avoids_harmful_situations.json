@@ -1,0 +1,10 @@
+{
+  "id": "vineland_avoids_harmful_situations",
+  "display_name": "27. When possible, avoids or leaves harmful relationships or situations (for example, being bullied, coerced into breaking the law, taken advantage of sexually or financially).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vineland_respect_personal_privacy",
+  "display_name": "11. Respects the right to personal privacy for self and others (for example, while using the restroom or changing clothes; not opening others' mail).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

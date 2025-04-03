@@ -1,0 +1,10 @@
+{
+  "id": "muscle_weakness",
+  "display_name": "Does your child feel muscle weakness upon expression of strong emotion?",
+  "description": "",
+  "type": "choices",
+  "domain": "afternoon_sleep_5",
+  "other": {
+    "descriptions": null
+  }
+}

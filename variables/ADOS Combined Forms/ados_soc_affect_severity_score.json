@@ -1,0 +1,9 @@
+{
+  "id": "ados_soc_affect_severity_score",
+  "display_name": "Social Affect Calibrated Severity (Comparison) Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

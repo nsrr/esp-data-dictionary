@@ -1,0 +1,9 @@
+{
+  "id": "verbal_cluster_comp_tscore",
+  "display_name": "Verbal Comprehension T-Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

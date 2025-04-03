@@ -1,0 +1,10 @@
+{
+  "id": "vineland_change_behavior_dep_on_person",
+  "display_name": "13. Changes behavior intentionally depending on how well he/she knows another person (for example, acts more formally with someone new than with a friend or family member).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

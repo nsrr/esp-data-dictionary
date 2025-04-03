@@ -1,0 +1,10 @@
+{
+  "id": "vineland_talk_with_oth_shared_interest",
+  "display_name": "28. Talks with others about shared interests (for example, sports, TV shows, summer plans).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

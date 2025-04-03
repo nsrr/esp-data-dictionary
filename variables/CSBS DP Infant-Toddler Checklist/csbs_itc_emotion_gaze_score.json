@@ -1,0 +1,9 @@
+{
+  "id": "csbs_itc_emotion_gaze_score",
+  "display_name": "Sum of four Emotion and Eye Gaze responses",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

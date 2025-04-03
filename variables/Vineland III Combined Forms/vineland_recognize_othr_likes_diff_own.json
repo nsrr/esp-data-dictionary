@@ -1,0 +1,10 @@
+{
+  "id": "vineland_recognize_othr_likes_diff_own",
+  "display_name": "30. Recognizes that the like and dislikes of others can differ from his/her own (for example, might say \"Kelly likes pizza, but I don't\"; \"I liked that movie but Gretchen hated it\").",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

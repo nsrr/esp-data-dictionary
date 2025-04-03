@@ -1,0 +1,10 @@
+{
+  "id": "vineland_tells_everyday_experiences",
+  "display_name": "44. Tells about everyday (i.e., routine) experiences in detail (for example, when asked what he/she did with a friend today, tells who was involved, where the activity took place, etc.).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vineland_use_strange_repetitive_speech",
+  "display_name": "4. Uses strange or repetitive speech (for example, has conversations with himself/herself in public, says things that make no sense, repeats the same thing over and over).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

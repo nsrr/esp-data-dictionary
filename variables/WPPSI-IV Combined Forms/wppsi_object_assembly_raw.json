@@ -1,0 +1,9 @@
+{
+  "id": "wppsi_object_assembly_raw",
+  "display_name": "Object Assembly Raw Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

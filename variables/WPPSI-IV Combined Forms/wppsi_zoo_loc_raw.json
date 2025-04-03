@@ -1,0 +1,9 @@
+{
+  "id": "wppsi_zoo_loc_raw",
+  "display_name": "Zoo Locations Raw Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

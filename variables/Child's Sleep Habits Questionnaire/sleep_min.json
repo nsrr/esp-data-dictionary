@@ -1,0 +1,9 @@
+{
+  "id": "sleep_min",
+  "display_name": "Minutes",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

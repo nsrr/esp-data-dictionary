@@ -1,0 +1,10 @@
+{
+  "id": "vineland_cries_when_uncomfortable",
+  "display_name": "2. Cries or fusses when uncomfortable (thirsty, hungry, wet, etc.).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

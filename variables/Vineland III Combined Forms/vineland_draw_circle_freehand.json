@@ -1,0 +1,10 @@
+{
+  "id": "vineland_draw_circle_freehand",
+  "display_name": "18. Draws a circle freehand while looking at an example.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

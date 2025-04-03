@@ -1,0 +1,10 @@
+{
+  "id": "vineland_earn_money_outside_home",
+  "display_name": "45. Has worked to earn money outside the home (for example, babysitting or yard work for a neighbor, having a job).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

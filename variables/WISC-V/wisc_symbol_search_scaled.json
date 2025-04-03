@@ -1,0 +1,9 @@
+{
+  "id": "wisc_symbol_search_scaled",
+  "display_name": "Symbol Search Scaled Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

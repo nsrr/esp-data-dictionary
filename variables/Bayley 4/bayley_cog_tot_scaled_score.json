@@ -1,0 +1,9 @@
+{
+  "id": "bayley_cog_tot_scaled_score",
+  "display_name": "Cognitive Scaled Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

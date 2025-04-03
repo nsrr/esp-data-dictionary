@@ -1,0 +1,9 @@
+{
+  "id": "bayley_lang_ec_age_equiv_mnths",
+  "display_name": "Language Expressive Communication Age Equivalent (Months)",
+  "description": "",
+  "type": "integer",
+  "other": {
+    "descriptions": null
+  }
+}

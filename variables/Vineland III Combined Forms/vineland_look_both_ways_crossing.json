@@ -1,0 +1,10 @@
+{
+  "id": "vineland_look_both_ways_crossing",
+  "display_name": "10. Looks both ways when crossing streets or roads.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

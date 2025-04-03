@@ -1,0 +1,9 @@
+{
+  "id": "wppsi_work_memory_composite",
+  "display_name": "Working Memory Composite Standard Score Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

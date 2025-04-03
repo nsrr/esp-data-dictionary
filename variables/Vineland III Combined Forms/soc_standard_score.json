@@ -1,0 +1,9 @@
+{
+  "id": "soc_standard_score",
+  "display_name": "Socialization Standard Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

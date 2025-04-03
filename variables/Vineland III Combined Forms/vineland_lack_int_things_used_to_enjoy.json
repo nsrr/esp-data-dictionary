@@ -1,0 +1,10 @@
+{
+  "id": "vineland_lack_int_things_used_to_enjoy",
+  "display_name": "8. Lacks interest in doing things that he/she enjoys or used to enjoy.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

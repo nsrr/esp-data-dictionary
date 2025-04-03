@@ -1,0 +1,10 @@
+{
+  "id": "vineland_looks_at_face_of_parent",
+  "display_name": "1. Looks at the face of parent or caregiver.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

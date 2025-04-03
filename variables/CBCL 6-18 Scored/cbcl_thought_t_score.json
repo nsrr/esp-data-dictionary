@@ -1,0 +1,9 @@
+{
+  "id": "cbcl_thought_t_score",
+  "display_name": "Thought Problems T Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

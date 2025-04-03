@@ -1,0 +1,10 @@
+{
+  "id": "vineland_talks_or_tries_killing_self",
+  "display_name": "14. Talks about killing himself/herself or has tried to kill self.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

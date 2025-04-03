@@ -1,0 +1,9 @@
+{
+  "id": "cbcl_emotion_react_t_score",
+  "display_name": "Emotionally Reactive T Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

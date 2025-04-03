@@ -1,0 +1,10 @@
+{
+  "id": "vineland_says_yes",
+  "display_name": "14. Says \"Yes\"; must actually mean yes, not just repeat the word.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

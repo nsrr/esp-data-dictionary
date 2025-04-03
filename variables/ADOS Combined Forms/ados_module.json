@@ -1,0 +1,9 @@
+{
+  "id": "ados_module",
+  "display_name": "ADOS-2 Module",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

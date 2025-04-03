@@ -1,0 +1,10 @@
+{
+  "id": "vineland_shows_3_diff_emotions",
+  "display_name": "5. Shows at least three different emotions (for example, happiness, sadness, surprise, fear).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

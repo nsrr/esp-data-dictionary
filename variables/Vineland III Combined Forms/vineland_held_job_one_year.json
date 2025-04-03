@@ -1,0 +1,10 @@
+{
+  "id": "vineland_held_job_one_year",
+  "display_name": "58. Has held the same job (10 hours or more a week) for at least one year.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

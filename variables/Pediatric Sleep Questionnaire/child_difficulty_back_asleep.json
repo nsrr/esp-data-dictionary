@@ -1,0 +1,10 @@
+{
+  "id": "child_difficulty_back_asleep",
+  "display_name": "Does your child wake up during the night and have trouble getting back to sleep?",
+  "description": "",
+  "type": "choices",
+  "domain": "afternoon_sleep_5",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "csbs_itc_gestures_score",
+  "display_name": "Sum of five Gestures responses",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vineland_apologizes_for_small_mistakes",
+  "display_name": "10. Apologizes for small, unintentional mistakes (for example, burping, bumping into someone).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

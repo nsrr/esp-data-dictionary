@@ -1,0 +1,10 @@
+{
+  "id": "impulsiv",
+  "display_name": "41. Impulsive or acts without thinking.",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "other": {
+    "descriptions": null
+  }
+}

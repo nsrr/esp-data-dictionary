@@ -1,0 +1,10 @@
+{
+  "id": "cbcl_constantly_seeks_help",
+  "display_name": "11. Constantly seeks help",
+  "description": "",
+  "type": "choices",
+  "domain": "cbcl_aches_or_pains_3",
+  "other": {
+    "descriptions": null
+  }
+}

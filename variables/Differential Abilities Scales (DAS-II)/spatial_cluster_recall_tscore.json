@@ -1,0 +1,9 @@
+{
+  "id": "spatial_cluster_recall_tscore",
+  "display_name": "Recall of Designs T-Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

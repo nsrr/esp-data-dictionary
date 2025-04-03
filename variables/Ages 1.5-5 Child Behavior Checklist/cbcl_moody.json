@@ -1,0 +1,10 @@
+{
+  "id": "cbcl_moody",
+  "display_name": "79. Rapid shifts between sadness and excitement",
+  "description": "",
+  "type": "choices",
+  "domain": "cbcl_aches_or_pains_3",
+  "other": {
+    "descriptions": null
+  }
+}

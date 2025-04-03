@@ -1,0 +1,9 @@
+{
+  "id": "int_p",
+  "display_name": "Internalizing Problems Percentile",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

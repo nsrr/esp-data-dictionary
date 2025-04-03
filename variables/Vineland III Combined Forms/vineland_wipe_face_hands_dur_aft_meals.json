@@ -1,0 +1,10 @@
+{
+  "id": "vineland_wipe_face_hands_dur_aft_meals",
+  "display_name": "26. Wipes or cleans face and hands as needed during or after meals.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

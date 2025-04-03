@@ -1,0 +1,10 @@
+{
+  "id": "vineland_begin_or_discontinue_services",
+  "display_name": "40. Understands the right to begin or discontinue services (for example, telephone or Internet service).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

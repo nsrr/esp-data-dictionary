@@ -1,0 +1,10 @@
+{
+  "id": "vineland_talk_to_familiar_person_phone",
+  "display_name": "1. Talks to a familiar person using a phone, computer, or other electronic device; does not need to place the call.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

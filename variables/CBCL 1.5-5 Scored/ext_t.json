@@ -1,0 +1,9 @@
+{
+  "id": "ext_t",
+  "display_name": "Externalizing Problems T Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

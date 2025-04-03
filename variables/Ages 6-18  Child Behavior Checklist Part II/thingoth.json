@@ -1,0 +1,10 @@
+{
+  "id": "thingoth",
+  "display_name": "21. Destroys things belonging to his/her family or others.",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vineland_irritable_or_moody",
+  "display_name": "11. Is very irritable or moody.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

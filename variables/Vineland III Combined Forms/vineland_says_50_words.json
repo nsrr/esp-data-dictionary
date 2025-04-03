@@ -1,0 +1,10 @@
+{
+  "id": "vineland_says_50_words",
+  "display_name": "17. Says at least 50 words.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

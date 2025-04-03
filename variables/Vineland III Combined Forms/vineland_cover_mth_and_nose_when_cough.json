@@ -1,0 +1,10 @@
+{
+  "id": "vineland_cover_mth_and_nose_when_cough",
+  "display_name": "29. Covers mouth and nose when coughing or sneezing.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

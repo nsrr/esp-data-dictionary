@@ -1,0 +1,10 @@
+{
+  "id": "vineland_understands_4th_grade_lvl",
+  "display_name": "27. Reads and understands material of a fourth-grade level or higher.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

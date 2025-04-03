@@ -1,0 +1,10 @@
+{
+  "id": "vineland_shows_good_sportsmanship",
+  "display_name": "27. Shows good sportsmanship in games or sports: Plays fair, is not overly aggressive, congratulates winning players, does not act mean when he/she loses, etc.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

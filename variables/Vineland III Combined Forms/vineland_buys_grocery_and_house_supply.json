@@ -1,0 +1,10 @@
+{
+  "id": "vineland_buys_grocery_and_house_supply",
+  "display_name": "51. Buys groceries and household supplies when needed.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

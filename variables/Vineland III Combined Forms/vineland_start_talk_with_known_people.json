@@ -1,0 +1,10 @@
+{
+  "id": "vineland_start_talk_with_known_people",
+  "display_name": "31. Starts small talk when he/she meets people he/she knows (for example, says \"how are you?\"; \"What's up\").",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

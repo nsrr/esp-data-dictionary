@@ -1,0 +1,10 @@
+{
+  "id": "write_age_equiv_year_eq_lt_gt",
+  "display_name": "Communication- Written Age Equivalent < = >",
+  "description": "",
+  "type": "choices",
+  "domain": "community_age_equiv_eq_lt_gt_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vineland_put_on_shoes",
+  "display_name": "19. Puts on shoes; may be on the wrong feet and does not need to tie or fasten.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

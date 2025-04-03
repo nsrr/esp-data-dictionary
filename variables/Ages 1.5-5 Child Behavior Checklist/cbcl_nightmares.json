@@ -1,0 +1,10 @@
+{
+  "id": "cbcl_nightmares",
+  "display_name": "48. Nightmares",
+  "description": "",
+  "type": "choices",
+  "domain": "cbcl_aches_or_pains_3",
+  "other": {
+    "descriptions": null
+  }
+}

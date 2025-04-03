@@ -1,0 +1,9 @@
+{
+  "id": "written_raw_score",
+  "display_name": "Communication- Written Raw Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

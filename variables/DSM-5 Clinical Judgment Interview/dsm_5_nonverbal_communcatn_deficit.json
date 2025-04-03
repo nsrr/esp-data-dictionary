@@ -1,0 +1,10 @@
+{
+  "id": "dsm_5_nonverbal_communcatn_deficit",
+  "display_name": "2. Deficits in nonverbal communicative behaviors used for social interaction, ranging, for example, from poorly integrated verbal and nonverbal communication; to abnormalities in eye contact and body-language or deficits in understanding and use of gestures; to a total lack of facial expressions and nonverbal communication.",
+  "description": "",
+  "type": "choices",
+  "domain": "dsm_5_development_deficit_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "wisc_nonverbal_index",
+  "display_name": "Nonverbal Index Standard Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

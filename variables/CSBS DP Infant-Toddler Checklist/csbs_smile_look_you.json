@@ -1,0 +1,10 @@
+{
+  "id": "csbs_smile_look_you",
+  "display_name": "3. Does your child smile or laugh while looking at you?",
+  "description": "",
+  "type": "choices",
+  "domain": "csbs_child_get_laugh_3",
+  "other": {
+    "descriptions": null
+  }
+}

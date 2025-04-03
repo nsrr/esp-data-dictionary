@@ -1,0 +1,10 @@
+{
+  "id": "vineland_needy_or_dependent",
+  "display_name": "1. Is overly needy or dependent (for example, insists on help even when he/she does not need it, clings to parent or teacher).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

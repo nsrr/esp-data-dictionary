@@ -1,0 +1,10 @@
+{
+  "id": "vineland_toilet_train_night",
+  "display_name": "28. Is toilet-trained during the night; may require help with undressing, flushing, wiping, or washing hands, but must initiate using the toilet.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

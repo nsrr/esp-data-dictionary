@@ -1,0 +1,10 @@
+{
+  "id": "vineland_uses_because_in_phrases",
+  "display_name": "36. Uses because in phrases or sentences (for example, \"Because I want to,\" \"Kathy went home because she was sick\").",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

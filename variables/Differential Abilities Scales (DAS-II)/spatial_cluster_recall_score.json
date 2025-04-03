@@ -1,0 +1,9 @@
+{
+  "id": "spatial_cluster_recall_score",
+  "display_name": "Recall of Designs Ability Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

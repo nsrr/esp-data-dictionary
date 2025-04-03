@@ -1,0 +1,10 @@
+{
+  "id": "vineland_unwraps_small_objects",
+  "display_name": "12. Unwraps small objects (for example, gum or candy).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

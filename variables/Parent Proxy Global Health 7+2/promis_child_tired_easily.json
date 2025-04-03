@@ -1,0 +1,10 @@
+{
+  "id": "promis_child_tired_easily",
+  "display_name": "My child got tired easily",
+  "description": "",
+  "type": "choices",
+  "domain": "promis_child_tired_easily_5",
+  "other": {
+    "descriptions": null
+  }
+}

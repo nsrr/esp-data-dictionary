@@ -1,0 +1,10 @@
+{
+  "id": "vineland_identify_3_objects_pictured",
+  "display_name": "17. Identifies at least three objects pictured in a book, magazine, or electronic screen when asked (for example, points to a dog, car, cup, key, etc.).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

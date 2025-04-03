@@ -1,0 +1,10 @@
+{
+  "id": "oxygen_depend",
+  "display_name": "Does your child use oxygen?",
+  "description": "",
+  "type": "choices",
+  "domain": "change_appetite_2",
+  "other": {
+    "descriptions": null
+  }
+}

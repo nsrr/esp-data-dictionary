@@ -1,0 +1,10 @@
+{
+  "id": "vineland_put_on_pullover_garments",
+  "display_name": "23. Puts on pullover garments (for example, T-shirt, sweatshirt, dress).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

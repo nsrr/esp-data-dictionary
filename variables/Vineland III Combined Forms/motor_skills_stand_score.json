@@ -1,0 +1,9 @@
+{
+  "id": "motor_skills_stand_score",
+  "display_name": "Motor Standard score (Leave blank if child is 9 or older)",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

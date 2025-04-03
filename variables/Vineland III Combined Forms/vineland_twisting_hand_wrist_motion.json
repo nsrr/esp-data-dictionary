@@ -1,0 +1,10 @@
+{
+  "id": "vineland_twisting_hand_wrist_motion",
+  "display_name": "14. Uses a twisting hand-wrist motion (for example, winds up a toy or music box, screw/unscrews the lid of a jar).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

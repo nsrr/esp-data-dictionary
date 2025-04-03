@@ -1,0 +1,10 @@
+{
+  "id": "cbcl_sudden_changes_in_mood",
+  "display_name": "82. Sudden changes in mood or feelings",
+  "description": "",
+  "type": "choices",
+  "domain": "cbcl_aches_or_pains_3",
+  "other": {
+    "descriptions": null
+  }
+}

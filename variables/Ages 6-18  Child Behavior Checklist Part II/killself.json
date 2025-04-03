@@ -1,0 +1,10 @@
+{
+  "id": "killself",
+  "display_name": "91. Talks about killing self.",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "other": {
+    "descriptions": null
+  }
+}

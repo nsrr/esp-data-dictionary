@@ -1,0 +1,9 @@
+{
+  "id": "wisc_symbol_search_raw",
+  "display_name": "Symbol Search Raw Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vineland_play_with_chldrn_min_supervsn",
+  "display_name": "16. Plays with other children with minimal supervision.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "wake_return_sleep",
+  "display_name": "33. Child returns to sleep without help after waking",
+  "description": "",
+  "type": "choices",
+  "domain": "bedtime_ready_3",
+  "other": {
+    "descriptions": null
+  }
+}

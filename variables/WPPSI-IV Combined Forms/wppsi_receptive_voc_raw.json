@@ -1,0 +1,9 @@
+{
+  "id": "wppsi_receptive_voc_raw",
+  "display_name": "Receptive Vocabulary Raw Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vineland_connect_zippers",
+  "display_name": "35. Connects and zips zippers that are not already fastened at the bottom (for example, on a coat or jacket).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

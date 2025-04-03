@@ -1,0 +1,10 @@
+{
+  "id": "vineland_disobeys_authority",
+  "display_name": "2. Disobeys those in authority.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vineland_uses_bank_account",
+  "display_name": "53. Uses a bank account responsibly (keeps money in the account, keeps tracks of the balance, doesn't overdraw, etc.).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

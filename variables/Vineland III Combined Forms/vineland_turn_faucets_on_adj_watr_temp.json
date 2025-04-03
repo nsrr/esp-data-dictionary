@@ -1,0 +1,10 @@
+{
+  "id": "vineland_turn_faucets_on_adj_watr_temp",
+  "display_name": "42. Turns faucets on and adjusts the water temperature.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

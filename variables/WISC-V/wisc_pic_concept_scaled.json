@@ -1,0 +1,9 @@
+{
+  "id": "wisc_pic_concept_scaled",
+  "display_name": "Picture Concepts Scaled Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

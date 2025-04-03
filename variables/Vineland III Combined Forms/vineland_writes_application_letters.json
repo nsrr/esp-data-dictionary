@@ -1,0 +1,10 @@
+{
+  "id": "vineland_writes_application_letters",
+  "display_name": "38. Writes business or application letters (for example, requests information, makes a complaint, applies for a job or to a school).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

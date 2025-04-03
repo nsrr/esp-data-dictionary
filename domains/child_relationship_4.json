@@ -1,0 +1,22 @@
+[
+  {
+    "value": "1",
+    "display_name": "Mother",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Father",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Caregiver",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Other",
+    "description": ""
+  }
+]

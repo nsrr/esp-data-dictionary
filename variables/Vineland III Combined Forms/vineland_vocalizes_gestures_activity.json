@@ -1,0 +1,10 @@
+{
+  "id": "vineland_vocalizes_gestures_activity",
+  "display_name": "6. Vocalizes or gestures if he/she wants an activity to keep going or stop (for example, says \"Again,\" shakes head no).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

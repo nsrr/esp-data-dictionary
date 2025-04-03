@@ -1,0 +1,10 @@
+{
+  "id": "vineland_follow_2_actions",
+  "display_name": "23. Follow instructions with two related actions (for example, \"Pick up those toys and put them away\"; \"Get your coat and put it on\").",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vision_loss",
+  "display_name": "Vision loss, temporary or permanent",
+  "description": "",
+  "type": "choices",
+  "domain": "change_appetite_2",
+  "other": {
+    "descriptions": null
+  }
+}

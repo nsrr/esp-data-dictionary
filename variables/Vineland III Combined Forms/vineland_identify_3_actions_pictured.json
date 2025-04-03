@@ -1,0 +1,10 @@
+{
+  "id": "vineland_identify_3_actions_pictured",
+  "display_name": "21. Identifies at least three basic actions pictured in a book, magazine, or electronic screen when asked (for example, points to someone eating, sitting, jumping, etc.).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

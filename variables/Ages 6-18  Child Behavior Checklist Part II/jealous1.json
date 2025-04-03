@@ -1,0 +1,10 @@
+{
+  "id": "jealous1",
+  "display_name": "27. Easily jealous.",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "other": {
+    "descriptions": null
+  }
+}

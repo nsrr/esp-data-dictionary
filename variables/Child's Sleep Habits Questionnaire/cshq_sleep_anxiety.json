@@ -1,0 +1,9 @@
+{
+  "id": "cshq_sleep_anxiety",
+  "display_name": "Sum: CSHQ_FALL_SLEEP_NEED_PARENT\n+ CSHQ_SLEEP_AFRAID_OF_DARK\n+ CSHQ_SLEEP_AFRAID_ALONE\n+ CSHQ_SLEEP_AWAY_HOME",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

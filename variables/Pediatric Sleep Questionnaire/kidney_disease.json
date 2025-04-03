@@ -1,0 +1,10 @@
+{
+  "id": "kidney_disease",
+  "display_name": "Kidney disease",
+  "description": "",
+  "type": "choices",
+  "domain": "change_appetite_2",
+  "other": {
+    "descriptions": null
+  }
+}

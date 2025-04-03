@@ -1,0 +1,10 @@
+{
+  "id": "vineland_fear_common_obj_or_situation",
+  "display_name": "9. Is extremely fearful of one or more common objects or situations (for example, heights, snakes, elevators).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

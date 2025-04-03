@@ -1,0 +1,10 @@
+{
+  "id": "child_difficulty_sleep",
+  "display_name": "Does your child complain of difficulties falling asleep at night?",
+  "description": "",
+  "type": "choices",
+  "domain": "afternoon_sleep_5",
+  "other": {
+    "descriptions": null
+  }
+}

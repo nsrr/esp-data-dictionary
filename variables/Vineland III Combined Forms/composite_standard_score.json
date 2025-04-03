@@ -1,0 +1,9 @@
+{
+  "id": "composite_standard_score",
+  "display_name": "Adaptive Behavior Composite Standard Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

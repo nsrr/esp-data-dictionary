@@ -1,0 +1,9 @@
+{
+  "id": "verbal_cluster_define_score",
+  "display_name": "Word Definitions Ability Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

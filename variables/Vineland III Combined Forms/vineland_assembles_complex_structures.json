@@ -1,0 +1,10 @@
+{
+  "id": "vineland_assembles_complex_structures",
+  "display_name": "34. Assembles, builds, or creates complex building toy structures, model sets, homemade jewelry, arts and crafts, etc.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

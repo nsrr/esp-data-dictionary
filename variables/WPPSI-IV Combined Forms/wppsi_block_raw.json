@@ -1,0 +1,9 @@
+{
+  "id": "wppsi_block_raw",
+  "display_name": "Block Design Raw Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vineland_more_active_than_others",
+  "display_name": "9. Is much more active or restless than others his/her age (for example, moves all the time, cannot sit still, fidgets).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

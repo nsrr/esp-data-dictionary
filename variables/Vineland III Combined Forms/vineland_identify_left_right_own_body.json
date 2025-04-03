@@ -1,0 +1,10 @@
+{
+  "id": "vineland_identify_left_right_own_body",
+  "display_name": "31. Identifies left and right on own body (for example, hands, feet, arms).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

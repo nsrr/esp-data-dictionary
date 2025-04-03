@@ -1,0 +1,10 @@
+{
+  "id": "vineland_recognizes_ads_not_accurate",
+  "display_name": "33. Recognizes that advertising messages may not be accurate.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

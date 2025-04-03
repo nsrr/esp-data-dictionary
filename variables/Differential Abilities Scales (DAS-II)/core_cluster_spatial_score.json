@@ -1,0 +1,9 @@
+{
+  "id": "core_cluster_spatial_score",
+  "display_name": "Spatial Cluster/Composite Standard Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vineland_cleans_bathroom",
+  "display_name": "28. Cleans bathroom (toilet, sink, tub or shower, etc.).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

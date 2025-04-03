@@ -1,0 +1,10 @@
+{
+  "id": "oxygen_usage",
+  "display_name": "If yes (select one):",
+  "description": "",
+  "type": "choices",
+  "domain": "oxygen_usage_2",
+  "other": {
+    "descriptions": null
+  }
+}

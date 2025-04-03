@@ -1,0 +1,10 @@
+{
+  "id": "vineland_kicks_ball_while_standing",
+  "display_name": "22. Kicks a ball while standing; accuracy not important.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

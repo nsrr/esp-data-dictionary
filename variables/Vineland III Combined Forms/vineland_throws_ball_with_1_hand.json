@@ -1,0 +1,10 @@
+{
+  "id": "vineland_throws_ball_with_1_hand",
+  "display_name": "18. Throws a ball with one hand; accuracy not important.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

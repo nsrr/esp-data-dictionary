@@ -1,0 +1,10 @@
+{
+  "id": "vineland_has_beliefs_that_are_not_true",
+  "display_name": "12. Has beliefs that are not true (for example, believes he/she has a \"true\" identity or \"special\" powers, believes that others secretly want to cause harm).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

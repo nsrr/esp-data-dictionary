@@ -1,0 +1,10 @@
+{
+  "id": "vineland_travel_1_mile_unfamiliar_dest",
+  "display_name": "48. Travels at least one mile to an unfamiliar destination when needed (using public transportation, walking, biking, driving, etc.).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

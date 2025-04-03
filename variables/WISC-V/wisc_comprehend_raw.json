@@ -1,0 +1,9 @@
+{
+  "id": "wisc_comprehend_raw",
+  "display_name": "Comprehension Raw Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

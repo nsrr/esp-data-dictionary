@@ -1,0 +1,10 @@
+{
+  "id": "vineland_maintn_distnce_btwn_self_othr",
+  "display_name": "26. Maintains an acceptable distance between self and others in social situations (for example, does not get too close to another person when talking).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

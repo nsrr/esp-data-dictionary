@@ -1,0 +1,10 @@
+{
+  "id": "vineland_goes_with_peer_during_day",
+  "display_name": "34. Goes places with peers during the day without someone supervising (for example, a shopping mall, park, community center).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

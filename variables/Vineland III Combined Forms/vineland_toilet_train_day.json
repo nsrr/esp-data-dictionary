@@ -1,0 +1,10 @@
+{
+  "id": "vineland_toilet_train_day",
+  "display_name": "22. Is toilet-trained during the day; may require help with undressing, flushing, wiping, or washing hands, but must initiate using the toilet.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

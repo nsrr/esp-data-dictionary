@@ -1,0 +1,10 @@
+{
+  "id": "withdraw",
+  "display_name": "111. Withdrawn, doesn't get involved with others.",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "wisc_coding_raw",
+  "display_name": "Coding Raw Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vineland_avoids_being_manipulated",
+  "display_name": "28. Avoids being manipulated, dominated, or taken advantage of by others.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

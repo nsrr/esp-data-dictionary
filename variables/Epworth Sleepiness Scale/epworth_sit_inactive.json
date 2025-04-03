@@ -1,0 +1,10 @@
+{
+  "id": "epworth_sit_inactive",
+  "display_name": "Sitting inactive in a public place",
+  "description": "",
+  "type": "choices",
+  "domain": "epworth_after_lunch_4",
+  "other": {
+    "descriptions": null
+  }
+}

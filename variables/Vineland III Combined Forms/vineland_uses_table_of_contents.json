@@ -1,0 +1,10 @@
+{
+  "id": "vineland_uses_table_of_contents",
+  "display_name": "26. Uses a table of contents or index to find information within a book or electronic resource.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "cbcl6_smokes",
+  "display_name": "99. Smokes, chews, or sniffs tobacco.",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "other": {
+    "descriptions": null
+  }
+}

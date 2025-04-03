@@ -1,0 +1,10 @@
+{
+  "id": "vineland_stands_unsupported_no_falling",
+  "display_name": "13. Stands unsupported and reaches for an object without falling.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

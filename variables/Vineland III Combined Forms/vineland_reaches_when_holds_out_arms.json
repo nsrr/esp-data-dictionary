@@ -1,0 +1,10 @@
+{
+  "id": "vineland_reaches_when_holds_out_arms",
+  "display_name": "7. Reaches for familiar person when that person holds out arms to him/her.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vineland_wipe_or_blow_nose",
+  "display_name": "24. Wipes or blows nose using tissue, napkin, toilet paper, or other appropriate material.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

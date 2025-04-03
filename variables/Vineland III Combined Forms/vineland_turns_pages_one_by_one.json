@@ -1,0 +1,10 @@
+{
+  "id": "vineland_turns_pages_one_by_one",
+  "display_name": "11. Turns book or magazine pages one by one; books with cardboard pages don't count.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

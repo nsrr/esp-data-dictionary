@@ -1,0 +1,10 @@
+{
+  "id": "vineland_writes_10_simple_words_memory",
+  "display_name": "16. Writes at least 10 simple words from memory (for example, hat, ball, the); may make small spelling errors.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

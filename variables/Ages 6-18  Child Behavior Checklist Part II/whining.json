@@ -1,0 +1,10 @@
+{
+  "id": "whining",
+  "display_name": "109. Whining.",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "other": {
+    "descriptions": null
+  }
+}

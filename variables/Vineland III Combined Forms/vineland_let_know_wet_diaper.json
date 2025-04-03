@@ -1,0 +1,10 @@
+{
+  "id": "vineland_let_know_wet_diaper",
+  "display_name": "12. Lets someone know when he/she has a wet or soiled diaper or pants (for example, points, vocalizes, pulls at diaper).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

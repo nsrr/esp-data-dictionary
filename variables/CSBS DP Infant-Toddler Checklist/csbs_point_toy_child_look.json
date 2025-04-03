@@ -1,0 +1,10 @@
+{
+  "id": "csbs_point_toy_child_look",
+  "display_name": "4. When you look at and point to a toy across the room, does your child look at it?",
+  "description": "",
+  "type": "choices",
+  "domain": "csbs_child_get_laugh_3",
+  "other": {
+    "descriptions": null
+  }
+}

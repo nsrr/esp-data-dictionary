@@ -1,0 +1,10 @@
+{
+  "id": "vineland_respond_politely_given_smthg",
+  "display_name": "5. Responds politely when given something (that is, expresses thanks either verbally or nonverbally).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

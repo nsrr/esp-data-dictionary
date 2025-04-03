@@ -1,0 +1,10 @@
+{
+  "id": "vineland_friendly_prsn_may_intend_harm",
+  "display_name": "25. Understands that a friendly appearing person may actually intend harm.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

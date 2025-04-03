@@ -1,0 +1,10 @@
+{
+  "id": "vineland_uses_3_advanced_gestures",
+  "display_name": "23. Uses at least three advanced gestures (for example, motioning come here, finger over lips meaning be quiet, hands apart to show this big).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "total_t",
+  "display_name": "Total Problems T Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

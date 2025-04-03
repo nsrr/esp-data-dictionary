@@ -1,0 +1,9 @@
+{
+  "id": "mul_age_mos",
+  "display_name": "Age (in months) at visit date",
+  "description": "",
+  "type": "integer",
+  "other": {
+    "descriptions": null
+  }
+}

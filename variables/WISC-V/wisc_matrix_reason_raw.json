@@ -1,0 +1,9 @@
+{
+  "id": "wisc_matrix_reason_raw",
+  "display_name": "Matrix Reasoning Raw Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

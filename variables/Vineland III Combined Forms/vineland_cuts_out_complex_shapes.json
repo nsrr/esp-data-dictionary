@@ -1,0 +1,10 @@
+{
+  "id": "vineland_cuts_out_complex_shapes",
+  "display_name": "31. Cuts out complex shapes (for example, stars, animals, alphabet letters).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

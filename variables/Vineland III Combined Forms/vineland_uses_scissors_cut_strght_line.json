@@ -1,0 +1,10 @@
+{
+  "id": "vineland_uses_scissors_cut_strght_line",
+  "display_name": "23. Uses scissors to cut along a straight line across a standard sheet of paper.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

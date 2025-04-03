@@ -1,0 +1,9 @@
+{
+  "id": "cbcl_delinquent_total_score",
+  "display_name": "Rule-Breaking Behavior Total Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

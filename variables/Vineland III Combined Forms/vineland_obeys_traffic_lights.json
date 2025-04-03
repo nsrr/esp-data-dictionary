@@ -1,0 +1,10 @@
+{
+  "id": "vineland_obeys_traffic_lights",
+  "display_name": "16. Obeys traffic lights and Walk/Don't Walk signs when crossing streets or roads.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

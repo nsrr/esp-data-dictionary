@@ -1,0 +1,10 @@
+{
+  "id": "vineland_understand_accident_vs_intent",
+  "display_name": "20. Understands that when someone does or says something that hurts, it may be accidental rather than intentional.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

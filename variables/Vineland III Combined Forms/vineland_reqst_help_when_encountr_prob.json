@@ -1,0 +1,10 @@
+{
+  "id": "vineland_reqst_help_when_encountr_prob",
+  "display_name": "12. Requests help when encountering a problem beyond own capability to solve (For example, a computer problem, fixing something).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

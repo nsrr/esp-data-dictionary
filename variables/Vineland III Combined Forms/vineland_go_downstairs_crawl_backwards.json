@@ -1,0 +1,10 @@
+{
+  "id": "vineland_go_downstairs_crawl_backwards",
+  "display_name": "16. Goes down stairs by crawling backwards or scooting on bottom.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vineland_remove_shoes_and_socks",
+  "display_name": "8. Removes shoes and socks.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

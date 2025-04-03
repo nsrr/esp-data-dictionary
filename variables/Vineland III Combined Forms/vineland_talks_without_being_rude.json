@@ -1,0 +1,10 @@
+{
+  "id": "vineland_talks_without_being_rude",
+  "display_name": "34. Talks with others without interrupting or being rude.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "wppsi_vocab_scale",
+  "display_name": "Vocabulary Scale Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

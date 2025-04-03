@@ -1,0 +1,10 @@
+{
+  "id": "vineland_identify_all_alphabet_letters",
+  "display_name": "10. Identifies all alphabet letters, both upper and lowercase.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

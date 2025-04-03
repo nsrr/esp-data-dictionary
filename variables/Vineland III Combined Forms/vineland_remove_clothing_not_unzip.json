@@ -1,0 +1,10 @@
+{
+  "id": "vineland_remove_clothing_not_unzip",
+  "display_name": "11. Removes clothing that opens in the front (for example, a coat or jacket); does not have to unbutton or unzip the clothing.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

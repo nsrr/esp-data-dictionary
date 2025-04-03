@@ -1,0 +1,10 @@
+{
+  "id": "vineland_safely_climb_on_off_low_objct",
+  "display_name": "15. Safely climb on and off low objects (for example, child's chair, step stool, low bench).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

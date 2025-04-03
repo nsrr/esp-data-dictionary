@@ -1,0 +1,10 @@
+{
+  "id": "vineland_drink_regular_cup_may_spill",
+  "display_name": "9. Drinks from a regular cup or glass (sippy cups don't count); some spilling may occur.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

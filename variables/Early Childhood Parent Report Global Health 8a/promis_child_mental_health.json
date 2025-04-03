@@ -1,0 +1,10 @@
+{
+  "id": "promis_child_mental_health",
+  "display_name": "In general, how would you rate your child's mental health, including mood and ability to think?",
+  "description": "",
+  "type": "choices",
+  "domain": "promis_child_health_10",
+  "other": {
+    "descriptions": null
+  }
+}

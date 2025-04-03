@@ -1,0 +1,27 @@
+[
+  {
+    "value": "1",
+    "display_name": "Cold/Congested",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Bronchitis/Pneumonia",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Asthma Attack",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Gastrointestinal Illness",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Other (please comment)",
+    "description": ""
+  }
+]

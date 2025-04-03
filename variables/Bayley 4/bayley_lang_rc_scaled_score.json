@@ -1,0 +1,9 @@
+{
+  "id": "bayley_lang_rc_scaled_score",
+  "display_name": "Language Receptive Communication Scaled Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

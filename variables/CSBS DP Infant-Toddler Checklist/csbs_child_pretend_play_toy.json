@@ -1,0 +1,10 @@
+{
+  "id": "csbs_child_pretend_play_toy",
+  "display_name": "24. Does your child pretend to play with toys (for example, feed a stuffed animal, put a doll to sleep, put an animal figure in a vehicle)?",
+  "description": "",
+  "type": "choices",
+  "domain": "csbs_child_get_laugh_3",
+  "other": {
+    "descriptions": null
+  }
+}

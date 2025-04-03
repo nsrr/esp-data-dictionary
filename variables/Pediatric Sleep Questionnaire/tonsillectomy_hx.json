@@ -1,0 +1,10 @@
+{
+  "id": "tonsillectomy_hx",
+  "display_name": "Has your child had a tonsillectomy?",
+  "description": "",
+  "type": "choices",
+  "domain": "change_appetite_2",
+  "other": {
+    "descriptions": null
+  }
+}

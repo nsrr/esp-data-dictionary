@@ -1,0 +1,10 @@
+{
+  "id": "vineland_at_restaurant_gets_seating",
+  "display_name": "46. At a restaurant, gets seating, chooses what to order, places order, and pays for meal.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vineland_sorts_alphabetical_order",
+  "display_name": "22. Finds or sorts things in alphabetical order (for example, finds a name in an alphabetized address book or list of phone numbers, finds a word in a dictionary, alphabetizes a list of words or movie titles).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

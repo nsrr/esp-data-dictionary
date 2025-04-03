@@ -1,0 +1,10 @@
+{
+  "id": "vineland_ties_knot",
+  "display_name": "30. Ties a knot.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

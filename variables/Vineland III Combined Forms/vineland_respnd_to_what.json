@@ -1,0 +1,10 @@
+{
+  "id": "vineland_respnd_to_what",
+  "display_name": "19. Responds to questions that use what (for example, when asked \"What is this?\" replies \"A ball\").",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

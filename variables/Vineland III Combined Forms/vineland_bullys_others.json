@@ -1,0 +1,10 @@
+{
+  "id": "vineland_bullys_others",
+  "display_name": "3. Bullies others physically or with words.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

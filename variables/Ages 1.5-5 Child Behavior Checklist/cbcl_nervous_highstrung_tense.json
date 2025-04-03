@@ -1,0 +1,10 @@
+{
+  "id": "cbcl_nervous_highstrung_tense",
+  "display_name": "47. Nervous, highstrung, or tense",
+  "description": "",
+  "type": "choices",
+  "domain": "cbcl_aches_or_pains_3",
+  "other": {
+    "descriptions": null
+  }
+}

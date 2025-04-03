@@ -1,0 +1,10 @@
+{
+  "id": "vineland_respnd_to_tone_of_spoken_word",
+  "display_name": "13. Responds to the tone of spoken words (for example, approaches eagerly when \"Come here\" is spoken lovingly, but hesitantly when \"Come here\" is spoken sharply).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

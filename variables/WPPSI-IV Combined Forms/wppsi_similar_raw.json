@@ -1,0 +1,9 @@
+{
+  "id": "wppsi_similar_raw",
+  "display_name": "Similarities Raw Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

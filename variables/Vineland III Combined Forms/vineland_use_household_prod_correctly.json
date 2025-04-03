@@ -1,0 +1,10 @@
+{
+  "id": "vineland_use_household_prod_correctly",
+  "display_name": "20. Uses household products correctly (for example, laundry detergent, furniture polish, glass cleaner).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

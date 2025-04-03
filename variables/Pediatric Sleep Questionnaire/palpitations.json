@@ -1,0 +1,10 @@
+{
+  "id": "palpitations",
+  "display_name": "Palpitations, heart flutter",
+  "description": "",
+  "type": "choices",
+  "domain": "change_appetite_2",
+  "other": {
+    "descriptions": null
+  }
+}

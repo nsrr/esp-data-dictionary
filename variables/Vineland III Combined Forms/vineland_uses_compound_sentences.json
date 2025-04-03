@@ -1,0 +1,10 @@
+{
+  "id": "vineland_uses_compound_sentences",
+  "display_name": "42. Uses compound sentences joined by and or but (for example, She asked me, and I told her no,\"; \"Jerome wanted to go, but I didn't\").",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

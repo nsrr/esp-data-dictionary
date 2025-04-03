@@ -1,0 +1,9 @@
+{
+  "id": "mul_lang_express_age_equiv_rpt",
+  "display_name": "Expressive Language Age Equivalent",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

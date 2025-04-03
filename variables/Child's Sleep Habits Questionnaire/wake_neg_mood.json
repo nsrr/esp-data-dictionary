@@ -1,0 +1,10 @@
+{
+  "id": "wake_neg_mood",
+  "display_name": "36. Child wakes up in negative mood",
+  "description": "",
+  "type": "choices",
+  "domain": "bedtime_ready_3",
+  "other": {
+    "descriptions": null
+  }
+}

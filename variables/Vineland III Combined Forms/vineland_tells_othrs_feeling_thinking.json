@@ -1,0 +1,10 @@
+{
+  "id": "vineland_tells_othrs_feeling_thinking",
+  "display_name": "35. Tells others what he/she is thinking and feeling instead of assuming that they know.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

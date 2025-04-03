@@ -1,0 +1,10 @@
+{
+  "id": "vineland_bend_down_picks_objct_no_fall",
+  "display_name": "17. Squats or bends down to pick up objects without falling.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

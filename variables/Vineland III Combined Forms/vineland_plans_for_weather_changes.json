@@ -1,0 +1,10 @@
+{
+  "id": "vineland_plans_for_weather_changes",
+  "display_name": "51. Plans for changes in weather by taking along an umbrella, a sweater, etc.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

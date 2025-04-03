@@ -1,0 +1,10 @@
+{
+  "id": "vineland_held_job_one_mnth",
+  "display_name": "54. Has held a job (10 hours or more a week) for at least one month.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

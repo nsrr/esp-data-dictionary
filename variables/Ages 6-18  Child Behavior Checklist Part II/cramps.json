@@ -1,0 +1,10 @@
+{
+  "id": "cramps",
+  "display_name": "f. Stomachaches or cramps",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vineland_stand_hold_stable_objct_5_min",
+  "display_name": "6. Stands holding on to a stable object for at least 5 seconds.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

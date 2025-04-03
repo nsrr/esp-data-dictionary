@@ -1,0 +1,10 @@
+{
+  "id": "vineland_remove_pullover_garments",
+  "display_name": "18. Removes pullover garments (for example, T-shirt, sweatshirt, dress).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

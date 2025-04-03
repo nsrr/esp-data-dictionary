@@ -1,0 +1,10 @@
+{
+  "id": "vineland_understand_direction_language",
+  "display_name": "6. Understands what direction his/her language is written in (for example, from left to right in English; in other languages from right to left or top to bottom).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

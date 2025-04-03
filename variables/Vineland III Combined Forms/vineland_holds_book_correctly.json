@@ -1,0 +1,10 @@
+{
+  "id": "vineland_holds_book_correctly",
+  "display_name": "1. Holds a book correctly for reading and turns the pages from front to back.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

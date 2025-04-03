@@ -1,0 +1,9 @@
+{
+  "id": "cbcl_ocd_t_score",
+  "display_name": "Obsessive-Compulsive Problems T Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

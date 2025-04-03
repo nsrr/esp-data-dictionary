@@ -1,0 +1,9 @@
+{
+  "id": "ados_calibrated_severity_score",
+  "display_name": "Overall Total Calibrated Severity (Comparison) Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

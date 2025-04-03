@@ -1,0 +1,10 @@
+{
+  "id": "vineland_harms_animals",
+  "display_name": "11. Harms animals (for example, tortures or kills pets or wild animals).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

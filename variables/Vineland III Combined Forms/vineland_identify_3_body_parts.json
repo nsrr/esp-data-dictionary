@@ -1,0 +1,10 @@
+{
+  "id": "vineland_identify_3_body_parts",
+  "display_name": "14. Identifies at least three body parts on self when asked (for example, points to own nose, mouth, hands, feet, etc.).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

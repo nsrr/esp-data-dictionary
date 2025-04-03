@@ -1,0 +1,10 @@
+{
+  "id": "vineland_picks_up_object",
+  "display_name": "2. Picks up objects; may use both hands.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

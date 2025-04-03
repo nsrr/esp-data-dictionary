@@ -1,0 +1,10 @@
+{
+  "id": "vineland_questions_beginning_with_when",
+  "display_name": "35. Asks questions beginning with when (for example, \"When is dinner?\"; \"When can we go home?\"); just asking \"When?\" (one word) doesn't count.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

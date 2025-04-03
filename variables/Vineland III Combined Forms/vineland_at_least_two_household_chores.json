@@ -1,0 +1,10 @@
+{
+  "id": "vineland_at_least_two_household_chores",
+  "display_name": "9. Does at least two simple household chores (for example, dusts, empties trash cans, feeds pet).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

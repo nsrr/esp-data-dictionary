@@ -1,0 +1,10 @@
+{
+  "id": "vineland_move_to_parent_when_approachd",
+  "display_name": "2. Looks or moves toward parent or caregiver when approached by an unfamiliar person.",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

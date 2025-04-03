@@ -1,0 +1,10 @@
+{
+  "id": "child_relationship",
+  "display_name": "Relationship to Child",
+  "description": "",
+  "type": "choices",
+  "domain": "child_relationship_4",
+  "other": {
+    "descriptions": null
+  }
+}

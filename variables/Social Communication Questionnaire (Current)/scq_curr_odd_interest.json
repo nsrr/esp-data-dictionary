@@ -1,0 +1,10 @@
+{
+  "id": "scq_curr_odd_interest",
+  "display_name": "11. Does she/he ever have any interests that preoccupy her/him and might seem odd to other people (e.g., traffic lights, drainpipes, or timetables)?",
+  "description": "",
+  "type": "choices",
+  "domain": "awake_fright_dream_problem_2",
+  "other": {
+    "descriptions": null
+  }
+}

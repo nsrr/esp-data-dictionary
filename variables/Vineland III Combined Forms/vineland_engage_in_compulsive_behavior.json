@@ -1,0 +1,10 @@
+{
+  "id": "vineland_engage_in_compulsive_behavior",
+  "display_name": "9. Engages in compulsive behavior (for example, repeated hand washing, repeatedly checking and rechecking something, other compulsive rituals).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

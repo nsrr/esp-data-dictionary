@@ -1,0 +1,10 @@
+{
+  "id": "vineland_at_least_two_kitch_appliances",
+  "display_name": "14. Uses at least two simple kitchen appliances (for example, toaster, microwave, electric can opener).",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "nonverbal_cluster_schl_matrix_tscore",
+  "display_name": "Matrices T-Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

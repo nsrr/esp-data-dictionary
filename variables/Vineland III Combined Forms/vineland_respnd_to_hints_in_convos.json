@@ -1,0 +1,10 @@
+{
+  "id": "vineland_respnd_to_hints_in_convos",
+  "display_name": "42. Responds to hints or indirect cues in conversation (for example, knows that a yawn may mean \"I'm bored,\" an abrupt change of subject may mean \"I don't want to talk about that,\" looking at the time may mean \"I need to end this conversation\").",
+  "description": "",
+  "type": "choices",
+  "domain": "vineland_accepts_helpful_suggestions_3",
+  "other": {
+    "descriptions": null
+  }
+}

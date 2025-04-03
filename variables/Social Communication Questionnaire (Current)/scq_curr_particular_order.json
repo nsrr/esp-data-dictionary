@@ -1,0 +1,10 @@
+{
+  "id": "scq_curr_particular_order",
+  "display_name": "8. Does she/he ever have things that she/he seems to have to do in a very particular way or order or rituals that she/he insists that you go through?",
+  "description": "",
+  "type": "choices",
+  "domain": "awake_fright_dream_problem_2",
+  "other": {
+    "descriptions": null
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "personal_raw_score",
+  "display_name": "Daily Living Skills- Personal Raw Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

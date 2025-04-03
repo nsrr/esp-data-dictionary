@@ -1,0 +1,9 @@
+{
+  "id": "ados_sterotyped_behav_restrict_interests_total",
+  "display_name": "Stereotyped Behavior and Restricted Interests Total Score",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}

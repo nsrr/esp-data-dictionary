@@ -1,0 +1,9 @@
+{
+  "id": "dsm_5_asd_onset_age",
+  "display_name": "Age of onset:",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "descriptions": null
+  }
+}
