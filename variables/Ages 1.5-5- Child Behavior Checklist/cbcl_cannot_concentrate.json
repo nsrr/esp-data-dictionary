@@ -1,0 +1,10 @@
+{
+  "id": "cbcl_cannot_concentrate",
+  "display_name": "5. Can't concentrate, can't pay attention for long",
+  "description": "",
+  "type": "choices",
+  "domain": "cbcl_aches_or_pains_3",
+  "forms": [
+    "Ages 1.5-5: Child Behavior Checklist"
+  ]
+}

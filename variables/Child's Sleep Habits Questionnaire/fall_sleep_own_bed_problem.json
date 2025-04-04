@@ -1,10 +1,10 @@
 {
   "id": "fall_sleep_own_bed_problem",
-  "display_name": "Problem?",
+  "display_name": "3. Child falls asleep alone in own bed (problem?)",
   "description": "",
   "type": "choices",
   "domain": "awake_fright_dream_problem_2",
-  "other": {
-    "descriptions": null
-  }
+  "forms": [
+    "Child's Sleep Habits Questionnaire"
+  ]
 }

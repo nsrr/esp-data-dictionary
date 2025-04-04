@@ -2,8 +2,8 @@
   "id": "vi3_rec_gsv",
   "display_name": "Communication- Receptive GSV",
   "description": "",
-  "type": "numeric",
-  "other": {
-    "descriptions": null
-  }
+  "type": null,
+  "forms": [
+    "Vineland III Combined Forms"
+  ]
 }

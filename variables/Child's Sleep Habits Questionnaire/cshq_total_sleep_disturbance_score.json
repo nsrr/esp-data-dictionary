@@ -1,9 +1,9 @@
 {
   "id": "cshq_total_sleep_disturbance_score",
-  "display_name": "Sum\nMean substituted for up to two missing answers",
+  "display_name": "Total sleep disturbance score (mean substituted for missing answers)",
   "description": "",
   "type": "numeric",
-  "other": {
-    "descriptions": null
-  }
+  "forms": [
+    "Child's Sleep Habits Questionnaire"
+  ]
 }

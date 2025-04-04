@@ -1,0 +1,10 @@
+{
+  "id": "constipa",
+  "display_name": "49. Constipated, doesn't move bowels.",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "forms": [
+    "Ages 6-18 : Child Behavior Checklist Part II"
+  ]
+}

@@ -3,7 +3,7 @@
   "display_name": "Receptive Language Raw Score",
   "description": "",
   "type": "numeric",
-  "other": {
-    "descriptions": null
-  }
+  "forms": [
+    "Mullen"
+  ]
 }

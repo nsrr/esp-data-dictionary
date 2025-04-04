@@ -1,9 +1,9 @@
 {
   "id": "oxygen_apply",
-  "display_name": "Amount (L/MIN):",
+  "display_name": "Oxygen Amount (L/MIN):",
   "description": "",
-  "type": "numeric",
-  "other": {
-    "descriptions": null
-  }
+  "type": null,
+  "forms": [
+    "Pediatric Sleep Questionnaire"
+  ]
 }

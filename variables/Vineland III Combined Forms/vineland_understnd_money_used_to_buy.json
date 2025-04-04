@@ -1,10 +1,10 @@
 {
   "id": "vineland_understnd_money_used_to_buy",
-  "display_name": "2. Understands that money is used to buy things. ",
+  "display_name": "2. Understands that money is used to buy things.",
   "description": "",
   "type": "choices",
   "domain": "vineland_accepts_helpful_suggestions_3",
-  "other": {
-    "descriptions": null
-  }
+  "forms": [
+    "Vineland III Combined Forms"
+  ]
 }

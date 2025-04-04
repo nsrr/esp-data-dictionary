@@ -2,8 +2,8 @@
   "id": "guid",
   "display_name": "",
   "description": "",
-  "type": "id",
-  "other": {
-    "descriptions": null
-  }
+  "type": "identifier",
+  "forms": [
+    "Demographics"
+  ]
 }

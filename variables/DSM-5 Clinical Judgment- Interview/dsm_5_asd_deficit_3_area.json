@@ -1,0 +1,10 @@
+{
+  "id": "dsm_5_asd_deficit_3_area",
+  "display_name": "A. Persistent deficits in social communication and social interaction in all three areas across multiple contexts, currently or by history",
+  "description": "",
+  "type": "choices",
+  "domain": "awake_fright_dream_problem_2",
+  "forms": [
+    "DSM-5 Clinical Judgment: Interview"
+  ]
+}

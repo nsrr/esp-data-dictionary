@@ -1,10 +1,10 @@
 {
   "id": "vineland_acts_approp_when_introduced",
-  "display_name": "11. Acts appropriately when introduced to new people (for example, smiles, shakes hands, says \"Happy to meet you\"). ",
+  "display_name": "11. Acts appropriately when introduced to new people (for example, smiles, shakes hands, says \"Happy to meet you\").",
   "description": "",
   "type": "choices",
   "domain": "vineland_accepts_helpful_suggestions_3",
-  "other": {
-    "descriptions": null
-  }
+  "forms": [
+    "Vineland III Combined Forms"
+  ]
 }

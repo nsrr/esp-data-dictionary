@@ -1,0 +1,10 @@
+{
+  "id": "dsm_5_asd_disturb_explain",
+  "display_name": "E. Disturbances are not better explained by intellectual disability or global developmental delays.",
+  "description": "",
+  "type": "choices",
+  "domain": "awake_fright_dream_problem_2",
+  "forms": [
+    "DSM-5 Clinical Judgment: Interview"
+  ]
+}

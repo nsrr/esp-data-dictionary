@@ -1,0 +1,10 @@
+{
+  "id": "lonely1",
+  "display_name": "12. Complains of loneliness.",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "forms": [
+    "Ages 6-18 : Child Behavior Checklist Part II"
+  ]
+}

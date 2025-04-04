@@ -1,9 +1,9 @@
 {
   "id": "cshq_daytime_sleepiness",
-  "display_name": "Sum: CSHQ_WAKE_THEMSELF\n+ CSHQ_WAKE_NEG_MOOD\n+ CSHQ_WAKE_BY_ADULT\n+ CSHQ_WAKE_DIFF_OUT_BED\n+ CSHQ_WAKE_LONG_TIME_ALERT\n+ CSHQ_TIRED\n+ CSHQ_ASLEEP_TV\n+ CSHQ_ASLEEP_CAR\nMean substituted for up to one missing answer",
+  "display_name": "Daytime sleepiness score (mean substituted for missing answers)",
   "description": "",
   "type": "numeric",
-  "other": {
-    "descriptions": null
-  }
+  "forms": [
+    "Child's Sleep Habits Questionnaire"
+  ]
 }

@@ -1,10 +1,10 @@
 {
   "id": "fall_sleep_othr_bed_problem",
-  "display_name": "Problem?",
+  "display_name": "4. Child falls asleep in parent's or sibling's bed (problem?)",
   "description": "",
   "type": "choices",
   "domain": "awake_fright_dream_problem_2",
-  "other": {
-    "descriptions": null
-  }
+  "forms": [
+    "Child's Sleep Habits Questionnaire"
+  ]
 }

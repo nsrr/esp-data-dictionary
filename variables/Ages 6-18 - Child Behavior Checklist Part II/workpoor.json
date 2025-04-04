@@ -1,0 +1,10 @@
+{
+  "id": "workpoor",
+  "display_name": "61. Poor school work.",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "forms": [
+    "Ages 6-18 : Child Behavior Checklist Part II"
+  ]
+}

@@ -2,8 +2,8 @@
   "id": "have_brothers",
   "display_name": "How many brothers?",
   "description": "",
-  "type": "integer",
-  "other": {
-    "descriptions": null
-  }
+  "type": "numeric",
+  "forms": [
+    "Pediatric Sleep Questionnaire"
+  ]
 }

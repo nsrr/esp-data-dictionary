@@ -1,0 +1,10 @@
+{
+  "id": "unusloud",
+  "display_name": "104. Unusually loud.",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "forms": [
+    "Ages 6-18 : Child Behavior Checklist Part II"
+  ]
+}

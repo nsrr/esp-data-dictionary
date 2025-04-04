@@ -1,9 +1,9 @@
 {
   "id": "cshq_sleep_anxiety_final",
-  "display_name": "Sum: CSHQ_FALL_SLEEP_NEED_PARENT\n+ CSHQ_SLEEP_AFRAID_OF_DARK\n+ CSHQ_SLEEP_AFRAID_ALONE\n+ CSHQ_SLEEP_AWAY_HOME",
+  "display_name": "Sleep anxiety score",
   "description": "",
   "type": "numeric",
-  "other": {
-    "descriptions": null
-  }
+  "forms": [
+    "Child's Sleep Habits Questionnaire"
+  ]
 }

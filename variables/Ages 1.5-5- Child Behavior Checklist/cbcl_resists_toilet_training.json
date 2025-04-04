@@ -1,0 +1,10 @@
+{
+  "id": "cbcl_resists_toilet_training",
+  "display_name": "65. Resists toilet training",
+  "description": "",
+  "type": "choices",
+  "domain": "cbcl_aches_or_pains_3",
+  "forms": [
+    "Ages 1.5-5: Child Behavior Checklist"
+  ]
+}

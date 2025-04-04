@@ -1,0 +1,10 @@
+{
+  "id": "cbcl6_fails_to_finish",
+  "display_name": "4. Fails to finish things he/she starts.",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "forms": [
+    "Ages 6-18 : Child Behavior Checklist Part II"
+  ]
+}

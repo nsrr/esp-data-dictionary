@@ -2,8 +2,8 @@
   "id": "bayley_lang_ec_age_equiv_days",
   "display_name": "Language Expressive Communication Age Equivalent (Days)",
   "description": "",
-  "type": "integer",
-  "other": {
-    "descriptions": null
-  }
+  "type": "numeric",
+  "forms": [
+    "Bayley 4"
+  ]
 }

@@ -3,7 +3,7 @@
   "display_name": "Picture Similarities Age Equivalent",
   "description": "",
   "type": "numeric",
-  "other": {
-    "descriptions": null
-  }
+  "forms": [
+    "Differential Abilities Scales (DAS-II)"
+  ]
 }

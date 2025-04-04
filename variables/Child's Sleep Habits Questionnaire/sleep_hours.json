@@ -2,8 +2,8 @@
   "id": "sleep_hours",
   "display_name": "Sleep (hours)",
   "description": "",
-  "type": "numeric",
-  "other": {
-    "descriptions": null
-  }
+  "type": null,
+  "forms": [
+    "Child's Sleep Habits Questionnaire"
+  ]
 }

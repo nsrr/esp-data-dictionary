@@ -3,7 +3,7 @@
   "display_name": "Picture Scan Scaled Score",
   "description": "",
   "type": "numeric",
-  "other": {
-    "descriptions": null
-  }
+  "forms": [
+    "WISC-V"
+  ]
 }

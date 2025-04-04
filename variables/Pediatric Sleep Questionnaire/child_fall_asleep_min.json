@@ -1,9 +1,9 @@
 {
   "id": "child_fall_asleep_min",
-  "display_name": "Min",
+  "display_name": "How long does it take your child to fall asleep at night?      MIN",
   "description": "",
-  "type": "integer",
-  "other": {
-    "descriptions": null
-  }
+  "type": "numeric",
+  "forms": [
+    "Pediatric Sleep Questionnaire"
+  ]
 }

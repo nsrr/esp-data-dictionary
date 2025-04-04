@@ -1,0 +1,10 @@
+{
+  "id": "conners_combine_word",
+  "display_name": "Does your child combine 2 or more words into phrases? For example: \"more cookie,\" \"car bye-bye.\"",
+  "description": "",
+  "type": "choices",
+  "domain": "awake_fright_dream_problem_2",
+  "forms": [
+    "Ages 1.5-5: Child Behavior Checklist"
+  ]
+}

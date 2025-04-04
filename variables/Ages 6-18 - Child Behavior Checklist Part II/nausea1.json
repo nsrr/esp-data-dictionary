@@ -1,0 +1,10 @@
+{
+  "id": "nausea1",
+  "display_name": "c. Nausea, feels sick",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "forms": [
+    "Ages 6-18 : Child Behavior Checklist Part II"
+  ]
+}

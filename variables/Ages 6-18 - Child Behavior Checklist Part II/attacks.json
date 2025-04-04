@@ -1,0 +1,10 @@
+{
+  "id": "attacks",
+  "display_name": "57. Physically attacks people.",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "forms": [
+    "Ages 6-18 : Child Behavior Checklist Part II"
+  ]
+}

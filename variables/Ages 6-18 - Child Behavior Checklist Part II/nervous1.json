@@ -1,0 +1,10 @@
+{
+  "id": "nervous1",
+  "display_name": "45. Nervous, highstrung, or tense.",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "forms": [
+    "Ages 6-18 : Child Behavior Checklist Part II"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "dsm_5_stereo_repetitive_behavior",
+  "display_name": "1. Stereotyped or repetitive motor movements, use of objects, or speech (e.g., simple motor stereotypies, lining up toys or flipping plates, echolalia, idiosyncratic phrases).",
+  "description": "",
+  "type": "choices",
+  "domain": "dsm_5_development_deficit_3",
+  "forms": [
+    "DSM-5 Clinical Judgment: Interview"
+  ]
+}

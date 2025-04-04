@@ -1,0 +1,10 @@
+{
+  "id": "storeup",
+  "display_name": "83. Stores up things he/she doesn't need.",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "forms": [
+    "Ages 6-18 : Child Behavior Checklist Part II"
+  ]
+}

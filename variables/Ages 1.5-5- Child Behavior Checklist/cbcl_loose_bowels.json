@@ -1,0 +1,10 @@
+{
+  "id": "cbcl_loose_bowels",
+  "display_name": "19. Diarrhea or loose bowels (when not sick)",
+  "description": "",
+  "type": "choices",
+  "domain": "cbcl_aches_or_pains_3",
+  "forms": [
+    "Ages 1.5-5: Child Behavior Checklist"
+  ]
+}

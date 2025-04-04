@@ -1,10 +1,10 @@
 {
   "id": "sleep_stop_breath_problem",
-  "display_name": "Problem?",
+  "display_name": "25. Child seems to stop breathing during sleep (problem?)",
   "description": "",
   "type": "choices",
   "domain": "awake_fright_dream_problem_2",
-  "other": {
-    "descriptions": null
-  }
+  "forms": [
+    "Child's Sleep Habits Questionnaire"
+  ]
 }

@@ -1,10 +1,10 @@
 {
   "id": "fall_asleep_sudden_problem",
-  "display_name": "Problem?",
+  "display_name": "43. Child suddenly falls asleep in the middle of active behavior (problem?)",
   "description": "",
   "type": "choices",
   "domain": "awake_fright_dream_problem_2",
-  "other": {
-    "descriptions": null
-  }
+  "forms": [
+    "Child's Sleep Habits Questionnaire"
+  ]
 }

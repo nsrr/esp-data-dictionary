@@ -1,0 +1,10 @@
+{
+  "id": "runaway",
+  "display_name": "67. Runs away from home.",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "forms": [
+    "Ages 6-18 : Child Behavior Checklist Part II"
+  ]
+}

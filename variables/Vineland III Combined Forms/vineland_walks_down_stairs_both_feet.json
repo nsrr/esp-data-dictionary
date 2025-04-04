@@ -1,10 +1,10 @@
 {
   "id": "vineland_walks_down_stairs_both_feet",
-  "display_name": "24. Walks down stairs, facing forward, putting both feet on each step; may use railing. ",
+  "display_name": "24. Walks down stairs, facing forward, putting both feet on each step; may use railing.",
   "description": "",
   "type": "choices",
   "domain": "vineland_accepts_helpful_suggestions_3",
-  "other": {
-    "descriptions": null
-  }
+  "forms": [
+    "Vineland III Combined Forms"
+  ]
 }

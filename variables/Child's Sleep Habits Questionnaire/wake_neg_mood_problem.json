@@ -1,10 +1,10 @@
 {
   "id": "wake_neg_mood_problem",
-  "display_name": "Problem?",
+  "display_name": "36. Child wakes up in negative mood (problem?)",
   "description": "",
   "type": "choices",
   "domain": "awake_fright_dream_problem_2",
-  "other": {
-    "descriptions": null
-  }
+  "forms": [
+    "Child's Sleep Habits Questionnaire"
+  ]
 }

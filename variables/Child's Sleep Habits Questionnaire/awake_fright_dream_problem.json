@@ -1,10 +1,10 @@
 {
   "id": "awake_fright_dream_problem",
-  "display_name": "Problem?",
+  "display_name": "30. Child awakens alarmed by a frightening dream (problem?)",
   "description": "",
   "type": "choices",
   "domain": "awake_fright_dream_problem_2",
-  "other": {
-    "descriptions": null
-  }
+  "forms": [
+    "Child's Sleep Habits Questionnaire"
+  ]
 }

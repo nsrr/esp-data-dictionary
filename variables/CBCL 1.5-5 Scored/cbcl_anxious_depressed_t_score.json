@@ -3,7 +3,7 @@
   "display_name": "Anxious/Depressed T Score",
   "description": "",
   "type": "numeric",
-  "other": {
-    "descriptions": null
-  }
+  "forms": [
+    "CBCL 1.5-5 Scored"
+  ]
 }

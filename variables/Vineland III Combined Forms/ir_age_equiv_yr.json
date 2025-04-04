@@ -2,8 +2,8 @@
   "id": "ir_age_equiv_yr",
   "display_name": "Socialization- Interpersonal Relationships Age Equivalent Year",
   "description": "",
-  "type": "integer",
-  "other": {
-    "descriptions": null
-  }
+  "type": "numeric",
+  "forms": [
+    "Vineland III Combined Forms"
+  ]
 }

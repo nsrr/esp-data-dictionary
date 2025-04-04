@@ -1,0 +1,10 @@
+{
+  "id": "dsm_5_development_deficit",
+  "display_name": "3. Deficits in developing, maintaining, and understanding relationships, ranging, for example, from difficulties adjusting behavior to suit various social contexts; to difficulties in sharing imaginative play or making friends; to absence of interest in peers.",
+  "description": "",
+  "type": "choices",
+  "domain": "dsm_5_development_deficit_3",
+  "forms": [
+    "DSM-5 Clinical Judgment: Interview"
+  ]
+}

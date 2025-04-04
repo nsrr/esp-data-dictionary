@@ -1,0 +1,10 @@
+{
+  "id": "rashes",
+  "display_name": "e. Rashes or other skin problems",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "forms": [
+    "Ages 6-18 : Child Behavior Checklist Part II"
+  ]
+}

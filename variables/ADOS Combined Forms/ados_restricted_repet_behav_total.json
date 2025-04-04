@@ -3,7 +3,7 @@
   "display_name": "Restricted and Repetitive Behavior Total Score",
   "description": "",
   "type": "numeric",
-  "other": {
-    "descriptions": null
-  }
+  "forms": [
+    "ADOS Combined Forms"
+  ]
 }

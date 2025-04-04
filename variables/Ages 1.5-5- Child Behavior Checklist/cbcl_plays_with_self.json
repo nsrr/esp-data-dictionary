@@ -1,0 +1,10 @@
+{
+  "id": "cbcl_plays_with_self",
+  "display_name": "55. Plays with own sex parts too much",
+  "description": "",
+  "type": "choices",
+  "domain": "cbcl_aches_or_pains_3",
+  "forms": [
+    "Ages 1.5-5: Child Behavior Checklist"
+  ]
+}

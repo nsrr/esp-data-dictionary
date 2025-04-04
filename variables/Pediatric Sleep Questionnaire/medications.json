@@ -2,8 +2,8 @@
   "id": "medications",
   "display_name": "Medications:",
   "description": "",
-  "type": "string",
-  "other": {
-    "descriptions": null
-  }
+  "type": null,
+  "forms": [
+    "Pediatric Sleep Questionnaire"
+  ]
 }

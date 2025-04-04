@@ -1,0 +1,10 @@
+{
+  "id": "dsm_5_asd_symp_early_develop",
+  "display_name": "C. Symptoms present in early developmental period (but may not become fully manifest until social demand exceed limited capacities, or may be masked by learned strategies in later life)",
+  "description": "",
+  "type": "choices",
+  "domain": "awake_fright_dream_problem_2",
+  "forms": [
+    "DSM-5 Clinical Judgment: Interview"
+  ]
+}

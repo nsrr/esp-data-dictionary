@@ -1,0 +1,10 @@
+{
+  "id": "cbcl_upset_by_new_people",
+  "display_name": "92. Upset by new people or situations",
+  "description": "",
+  "type": "choices",
+  "domain": "cbcl_aches_or_pains_3",
+  "forms": [
+    "Ages 1.5-5: Child Behavior Checklist"
+  ]
+}

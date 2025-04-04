@@ -1,0 +1,10 @@
+{
+  "id": "refuse",
+  "display_name": "65. Refuses to talk.",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "forms": [
+    "Ages 6-18 : Child Behavior Checklist Part II"
+  ]
+}

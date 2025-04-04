@@ -2,8 +2,8 @@
   "id": "vi3_gmo_gsv",
   "display_name": "Motor- Gross GSV",
   "description": "",
-  "type": "numeric",
-  "other": {
-    "descriptions": null
-  }
+  "type": null,
+  "forms": [
+    "Vineland III Combined Forms"
+  ]
 }

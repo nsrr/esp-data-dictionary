@@ -1,0 +1,10 @@
+{
+  "id": "asd_age_3_met",
+  "display_name": "2. (IF CHILD UNDER 3) Will this child meet criteria for ASD at age 3?",
+  "description": "",
+  "type": "choices",
+  "domain": "asd_age_3_met_3",
+  "forms": [
+    "DSM-5 Clinical Judgment: Interview"
+  ]
+}

@@ -1,10 +1,10 @@
 {
   "id": "wake_by_adult_problem",
-  "display_name": "Problem?",
+  "display_name": "37. Adults or siblings wake up child (problem?)",
   "description": "",
   "type": "choices",
   "domain": "awake_fright_dream_problem_2",
-  "other": {
-    "descriptions": null
-  }
+  "forms": [
+    "Child's Sleep Habits Questionnaire"
+  ]
 }

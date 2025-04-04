@@ -1,10 +1,10 @@
 {
   "id": "sleep_restless_problem",
-  "display_name": "Problem?",
+  "display_name": "19. Child is restless and moves a lot during sleep (problem?)",
   "description": "",
   "type": "choices",
   "domain": "awake_fright_dream_problem_2",
-  "other": {
-    "descriptions": null
-  }
+  "forms": [
+    "Child's Sleep Habits Questionnaire"
+  ]
 }

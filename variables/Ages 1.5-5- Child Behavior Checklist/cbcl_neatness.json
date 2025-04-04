@@ -1,0 +1,10 @@
+{
+  "id": "cbcl_neatness",
+  "display_name": "86. Too concerned with neatness or cleanliness",
+  "description": "",
+  "type": "choices",
+  "domain": "cbcl_aches_or_pains_3",
+  "forms": [
+    "Ages 1.5-5: Child Behavior Checklist"
+  ]
+}

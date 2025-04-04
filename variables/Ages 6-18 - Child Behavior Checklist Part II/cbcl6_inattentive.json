@@ -1,0 +1,10 @@
+{
+  "id": "cbcl6_inattentive",
+  "display_name": "78. Inattentive or easily distracted.",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "forms": [
+    "Ages 6-18 : Child Behavior Checklist Part II"
+  ]
+}

@@ -3,7 +3,7 @@
   "display_name": "Overall Total Calibrated Severity (Comparison) Score",
   "description": "",
   "type": "numeric",
-  "other": {
-    "descriptions": null
-  }
+  "forms": [
+    "ADOS Combined Forms"
+  ]
 }

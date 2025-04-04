@@ -1,9 +1,9 @@
 {
   "id": "fine_age_equiv",
-  "display_name": "Motor- Fine Age Equivalent ",
+  "display_name": "Motor- Fine Age Equivalent",
   "description": "",
   "type": "numeric",
-  "other": {
-    "descriptions": null
-  }
+  "forms": [
+    "Vineland III Combined Forms"
+  ]
 }

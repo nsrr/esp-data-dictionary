@@ -1,10 +1,10 @@
 {
   "id": "wake_return_sleep_problem",
-  "display_name": "Problem?",
+  "display_name": "33. Child returns to sleep without help after waking (problem?)",
   "description": "",
   "type": "choices",
   "domain": "awake_fright_dream_problem_2",
-  "other": {
-    "descriptions": null
-  }
+  "forms": [
+    "Child's Sleep Habits Questionnaire"
+  ]
 }

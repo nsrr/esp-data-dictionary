@@ -1,0 +1,10 @@
+{
+  "id": "certain_1",
+  "display_name": "1 a. how certain are you?",
+  "description": "",
+  "type": "choices",
+  "domain": "asd_age_3_met_certain_5",
+  "forms": [
+    "DSM-5 Clinical Judgment: Interview"
+  ]
+}

@@ -1,9 +1,9 @@
 {
   "id": "plt_age_equiv",
-  "display_name": "Socialization- Play and Leisure Time Age Equivalent ",
+  "display_name": "Socialization- Play and Leisure Time Age Equivalent",
   "description": "",
   "type": "numeric",
-  "other": {
-    "descriptions": null
-  }
+  "forms": [
+    "Vineland III Combined Forms"
+  ]
 }

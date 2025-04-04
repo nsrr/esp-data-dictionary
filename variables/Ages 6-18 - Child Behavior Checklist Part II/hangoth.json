@@ -1,0 +1,10 @@
+{
+  "id": "hangoth",
+  "display_name": "39. Hangs around with others who get in trouble.",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "forms": [
+    "Ages 6-18 : Child Behavior Checklist Part II"
+  ]
+}

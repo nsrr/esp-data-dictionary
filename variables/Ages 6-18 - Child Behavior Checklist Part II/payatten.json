@@ -1,0 +1,10 @@
+{
+  "id": "payatten",
+  "display_name": "8. Can't concentrate, can't pay attention for long.",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "forms": [
+    "Ages 6-18 : Child Behavior Checklist Part II"
+  ]
+}

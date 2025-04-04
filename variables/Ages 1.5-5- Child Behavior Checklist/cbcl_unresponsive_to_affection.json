@@ -1,0 +1,10 @@
+{
+  "id": "cbcl_unresponsive_to_affection",
+  "display_name": "67. Seems unresponsive to affection",
+  "description": "",
+  "type": "choices",
+  "domain": "cbcl_aches_or_pains_3",
+  "forms": [
+    "Ages 1.5-5: Child Behavior Checklist"
+  ]
+}

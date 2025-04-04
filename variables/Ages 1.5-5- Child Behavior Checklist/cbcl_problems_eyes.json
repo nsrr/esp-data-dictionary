@@ -1,0 +1,10 @@
+{
+  "id": "cbcl_problems_eyes",
+  "display_name": "57. Problems with eyes (without medical cause)",
+  "description": "",
+  "type": "choices",
+  "domain": "cbcl_aches_or_pains_3",
+  "forms": [
+    "Ages 1.5-5: Child Behavior Checklist"
+  ]
+}

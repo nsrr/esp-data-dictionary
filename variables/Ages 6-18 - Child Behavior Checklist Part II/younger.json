@@ -1,0 +1,10 @@
+{
+  "id": "younger",
+  "display_name": "64. Prefers being with younger kids.",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "forms": [
+    "Ages 6-18 : Child Behavior Checklist Part II"
+  ]
+}

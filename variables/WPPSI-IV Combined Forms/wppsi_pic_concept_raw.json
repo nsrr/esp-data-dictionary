@@ -3,7 +3,7 @@
   "display_name": "Picture Concepts Raw Score",
   "description": "",
   "type": "numeric",
-  "other": {
-    "descriptions": null
-  }
+  "forms": [
+    "WPPSI-IV Combined Forms"
+  ]
 }

@@ -1,9 +1,9 @@
 {
   "id": "night_awake_hrs",
-  "display_name": "For how long is your child awake during the night?\n     HRS",
+  "display_name": "For how long is your child awake during the night? (hrs)",
   "description": "",
   "type": "numeric",
-  "other": {
-    "descriptions": null
-  }
+  "forms": [
+    "Pediatric Sleep Questionnaire"
+  ]
 }

@@ -4,7 +4,7 @@
   "description": "",
   "type": "choices",
   "domain": "ados_imagination_creativity_6",
-  "other": {
-    "descriptions": null
-  }
+  "forms": [
+    "ADOS Combined Forms"
+  ]
 }

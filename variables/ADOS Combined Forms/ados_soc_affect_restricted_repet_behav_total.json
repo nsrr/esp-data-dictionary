@@ -3,7 +3,7 @@
   "display_name": "Overall Total (Social Affect + Restricted and Repetitive Behavior) Score",
   "description": "",
   "type": "numeric",
-  "other": {
-    "descriptions": null
-  }
+  "forms": [
+    "ADOS Combined Forms"
+  ]
 }

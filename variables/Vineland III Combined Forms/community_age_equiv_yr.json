@@ -2,8 +2,8 @@
   "id": "community_age_equiv_yr",
   "display_name": "Daily Living Skills- Community Age Equivalent Year",
   "description": "",
-  "type": "integer",
-  "other": {
-    "descriptions": null
-  }
+  "type": "numeric",
+  "forms": [
+    "Vineland III Combined Forms"
+  ]
 }

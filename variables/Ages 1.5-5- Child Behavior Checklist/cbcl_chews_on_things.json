@@ -1,0 +1,10 @@
+{
+  "id": "cbcl_chews_on_things",
+  "display_name": "9. Chews on things that aren't edible",
+  "description": "",
+  "type": "choices",
+  "domain": "cbcl_aches_or_pains_3",
+  "forms": [
+    "Ages 1.5-5: Child Behavior Checklist"
+  ]
+}

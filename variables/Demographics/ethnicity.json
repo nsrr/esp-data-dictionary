@@ -2,8 +2,8 @@
   "id": "ethnicity",
   "display_name": "",
   "description": "",
-  "type": null,
-  "other": {
-    "descriptions": null
-  }
+  "type": "string",
+  "forms": [
+    "Demographics"
+  ]
 }

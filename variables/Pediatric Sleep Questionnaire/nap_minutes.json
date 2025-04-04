@@ -1,9 +1,9 @@
 {
   "id": "nap_minutes",
-  "display_name": "Min",
+  "display_name": "How long is a nap? (minutes)",
   "description": "",
-  "type": "integer",
-  "other": {
-    "descriptions": null
-  }
+  "type": "numeric",
+  "forms": [
+    "Pediatric Sleep Questionnaire"
+  ]
 }

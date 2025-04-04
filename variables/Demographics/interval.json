@@ -1,9 +1,9 @@
 {
   "id": "interval",
-  "display_name": "",
+  "display_name": "Study visit name",
   "description": "",
-  "type": "numeric",
-  "other": {
-    "descriptions": null
-  }
+  "type": null,
+  "forms": [
+    "Demographics"
+  ]
 }

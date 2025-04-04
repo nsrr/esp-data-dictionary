@@ -1,10 +1,10 @@
 {
   "id": "fall_sleep_need_parent_problem",
-  "display_name": "Problem",
+  "display_name": "7. Child needs parent in the room to fall asleep (problem?)",
   "description": "",
   "type": "choices",
   "domain": "awake_fright_dream_problem_2",
-  "other": {
-    "descriptions": null
-  }
+  "forms": [
+    "Child's Sleep Habits Questionnaire"
+  ]
 }

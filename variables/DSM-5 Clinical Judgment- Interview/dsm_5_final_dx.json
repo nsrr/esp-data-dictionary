@@ -1,0 +1,9 @@
+{
+  "id": "dsm_5_final_dx",
+  "display_name": "Final Clinician's Diagnosis",
+  "description": "",
+  "type": null,
+  "forms": [
+    "DSM-5 Clinical Judgment: Interview"
+  ]
+}

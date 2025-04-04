@@ -1,0 +1,10 @@
+{
+  "id": "usedrug",
+  "display_name": "105. Uses alcohol or drugs for nonmedical purposes.",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "forms": [
+    "Ages 6-18 : Child Behavior Checklist Part II"
+  ]
+}

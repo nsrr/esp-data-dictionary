@@ -1,0 +1,10 @@
+{
+  "id": "cbcl_illness",
+  "display_name": "Does the child have any illness or disability (either physical or mental)?",
+  "description": "",
+  "type": "choices",
+  "domain": "awake_fright_dream_problem_2",
+  "forms": [
+    "Ages 1.5-5: Child Behavior Checklist"
+  ]
+}

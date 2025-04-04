@@ -1,0 +1,10 @@
+{
+  "id": "cbcl_headaches",
+  "display_name": "39. Headaches (without medical cause)",
+  "description": "",
+  "type": "choices",
+  "domain": "cbcl_aches_or_pains_3",
+  "forms": [
+    "Ages 1.5-5: Child Behavior Checklist"
+  ]
+}

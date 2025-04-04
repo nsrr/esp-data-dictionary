@@ -1,9 +1,9 @@
 {
   "id": "scq_curr_score",
-  "display_name": "SCQ Total score: If SCQ_CURR_PHRASES = 'No' Then sum items 8-40 (at least 30 responses)\nIf SCQ_CURR_PHRASES = 'Yes' Then sum items 2-40 (at least 36 responses)",
+  "display_name": "SCQ Total score: If SCQ_CURR_PHRASES = 'No' Then sum items 8-40 (at least 30 responses); If SCQ_CURR_PHRASES = 'Yes' Then sum items 2-40 (at least 36 responses)",
   "description": "",
   "type": "numeric",
-  "other": {
-    "descriptions": null
-  }
+  "forms": [
+    "Social Communication Questionnaire (Current)"
+  ]
 }

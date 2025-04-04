@@ -1,9 +1,9 @@
 {
   "id": "domestic_age_equiv",
-  "display_name": "Daily Living Skills- Domestic Age Equivalent ",
+  "display_name": "Daily Living Skills- Domestic Age Equivalent",
   "description": "",
   "type": "numeric",
-  "other": {
-    "descriptions": null
-  }
+  "forms": [
+    "Vineland III Combined Forms"
+  ]
 }

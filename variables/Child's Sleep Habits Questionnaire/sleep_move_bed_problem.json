@@ -1,10 +1,10 @@
 {
   "id": "sleep_move_bed_problem",
-  "display_name": "Problem?",
+  "display_name": "24. Child moves to someone else's bed during the night (parent, brother, sister, etc.) (problem?)",
   "description": "",
   "type": "choices",
   "domain": "awake_fright_dream_problem_2",
-  "other": {
-    "descriptions": null
-  }
+  "forms": [
+    "Child's Sleep Habits Questionnaire"
+  ]
 }

@@ -2,8 +2,8 @@
   "id": "height",
   "display_name": "Height:",
   "description": "",
-  "type": "numeric",
-  "other": {
-    "descriptions": null
-  }
+  "type": null,
+  "forms": [
+    "Pediatric Sleep Questionnaire"
+  ]
 }

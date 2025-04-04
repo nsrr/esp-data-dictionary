@@ -2,8 +2,8 @@
   "id": "gross_age_equiv_yr",
   "display_name": "Motor- Gross Age Equivalent Year",
   "description": "",
-  "type": "integer",
-  "other": {
-    "descriptions": null
-  }
+  "type": "numeric",
+  "forms": [
+    "Vineland III Combined Forms"
+  ]
 }

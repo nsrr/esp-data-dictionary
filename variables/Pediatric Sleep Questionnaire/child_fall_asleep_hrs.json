@@ -1,9 +1,9 @@
 {
   "id": "child_fall_asleep_hrs",
-  "display_name": "How long does it take your child to fall asleep at night?\n      HRS:",
+  "display_name": "How long does it take your child to fall asleep at night?      HRS:",
   "description": "",
-  "type": "integer",
-  "other": {
-    "descriptions": null
-  }
+  "type": "numeric",
+  "forms": [
+    "Pediatric Sleep Questionnaire"
+  ]
 }

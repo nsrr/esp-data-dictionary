@@ -1,0 +1,10 @@
+{
+  "id": "cbcl6_drinks_alcohol",
+  "display_name": "2. Drinks alcohol without parent's aprroval.",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "forms": [
+    "Ages 6-18 : Child Behavior Checklist Part II"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "dsm_5_asd_clin_sig_impair",
+  "display_name": "D. Symptoms cause clinically significant impairment in social, occupational, or other important areas of current functioning",
+  "description": "",
+  "type": "choices",
+  "domain": "awake_fright_dream_problem_2",
+  "forms": [
+    "DSM-5 Clinical Judgment: Interview"
+  ]
+}

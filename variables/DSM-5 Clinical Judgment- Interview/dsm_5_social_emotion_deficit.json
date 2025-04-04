@@ -1,0 +1,10 @@
+{
+  "id": "dsm_5_social_emotion_deficit",
+  "display_name": "1. Deficits in social-emotional reciprocity, ranging, for example, from abnormal social approach and failure of normal back and forth conversation; to reduced sharing of interests, emotions, or affect; to failure to initiate or respond to social interactions.",
+  "description": "",
+  "type": "choices",
+  "domain": "dsm_5_development_deficit_3",
+  "forms": [
+    "DSM-5 Clinical Judgment: Interview"
+  ]
+}

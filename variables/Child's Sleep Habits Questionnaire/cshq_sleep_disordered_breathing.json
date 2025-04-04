@@ -1,9 +1,9 @@
 {
   "id": "cshq_sleep_disordered_breathing",
-  "display_name": "Sum: CSHQ_SNORE\n+ CSHQ_SLEEP_STOP_BREATH\n+ CSHQ_SLEEP_SNORT_GASP",
+  "display_name": "Sleep disordered breathing score (mean substituted for missing answers)",
   "description": "",
   "type": "numeric",
-  "other": {
-    "descriptions": null
-  }
+  "forms": [
+    "Child's Sleep Habits Questionnaire"
+  ]
 }

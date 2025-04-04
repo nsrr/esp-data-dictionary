@@ -1,0 +1,9 @@
+{
+  "id": "age_at_first_date_in_interval",
+  "display_name": "Study visits may have spanned several dates. This is the calculated age in years at the earliest date associated with the study visit",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "Demographics"
+  ]
+}

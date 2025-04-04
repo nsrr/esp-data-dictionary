@@ -1,0 +1,10 @@
+{
+  "id": "dsm_5_asd_social_severity",
+  "display_name": "Social Communication Severity Level",
+  "description": "",
+  "type": "choices",
+  "domain": "dsm_5_asd_behavior_severity_3",
+  "forms": [
+    "DSM-5 Clinical Judgment: Interview"
+  ]
+}

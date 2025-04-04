@@ -1,0 +1,10 @@
+{
+  "id": "clings",
+  "display_name": "11. Clings to adults or too dependent.",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "forms": [
+    "Ages 6-18 : Child Behavior Checklist Part II"
+  ]
+}

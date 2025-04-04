@@ -1,0 +1,10 @@
+{
+  "id": "screen_research_category",
+  "display_name": "6. Screening Research Category",
+  "description": "",
+  "type": "choices",
+  "domain": "screen_research_category_8",
+  "forms": [
+    "DSM-5 Clinical Judgment: Interview"
+  ]
+}

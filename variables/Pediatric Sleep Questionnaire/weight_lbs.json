@@ -2,8 +2,8 @@
   "id": "weight_lbs",
   "display_name": "Weight (lbs)",
   "description": "",
-  "type": "numeric",
-  "other": {
-    "descriptions": null
-  }
+  "type": null,
+  "forms": [
+    "Pediatric Sleep Questionnaire"
+  ]
 }

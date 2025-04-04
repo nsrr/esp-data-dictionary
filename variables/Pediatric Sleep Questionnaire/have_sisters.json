@@ -2,8 +2,8 @@
   "id": "have_sisters",
   "display_name": "How many sisters?",
   "description": "",
-  "type": "integer",
-  "other": {
-    "descriptions": null
-  }
+  "type": "numeric",
+  "forms": [
+    "Pediatric Sleep Questionnaire"
+  ]
 }

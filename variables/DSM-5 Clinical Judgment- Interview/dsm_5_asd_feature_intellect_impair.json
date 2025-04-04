@@ -1,0 +1,10 @@
+{
+  "id": "dsm_5_asd_feature_intellect_impair",
+  "display_name": "With accompanying intellectual impairment.",
+  "description": "",
+  "type": "choices",
+  "domain": "dsm_5_asd_feature_intellect_impair_1",
+  "forms": [
+    "DSM-5 Clinical Judgment: Interview"
+  ]
+}

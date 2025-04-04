@@ -1,0 +1,10 @@
+{
+  "id": "swearing",
+  "display_name": "90. Swearing or obscene language.",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "forms": [
+    "Ages 6-18 : Child Behavior Checklist Part II"
+  ]
+}

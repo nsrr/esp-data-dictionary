@@ -1,0 +1,10 @@
+{
+  "id": "cbcl_acts_too_young",
+  "display_name": "2. Acts too young for age",
+  "description": "",
+  "type": "choices",
+  "domain": "cbcl_aches_or_pains_3",
+  "forms": [
+    "Ages 1.5-5: Child Behavior Checklist"
+  ]
+}

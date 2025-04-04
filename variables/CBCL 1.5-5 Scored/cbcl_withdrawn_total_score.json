@@ -1,9 +1,9 @@
 {
   "id": "cbcl_withdrawn_total_score",
-  "display_name": "Withdrawn Total Score ",
+  "display_name": "Withdrawn Total Score",
   "description": "",
   "type": "numeric",
-  "other": {
-    "descriptions": null
-  }
+  "forms": [
+    "CBCL 1.5-5 Scored"
+  ]
 }

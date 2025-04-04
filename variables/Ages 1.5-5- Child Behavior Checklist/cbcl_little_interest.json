@@ -1,0 +1,10 @@
+{
+  "id": "cbcl_little_interest",
+  "display_name": "71. Shows little interest in things around him/her",
+  "description": "",
+  "type": "choices",
+  "domain": "cbcl_aches_or_pains_3",
+  "forms": [
+    "Ages 1.5-5: Child Behavior Checklist"
+  ]
+}

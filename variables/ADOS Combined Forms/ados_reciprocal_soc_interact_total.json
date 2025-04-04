@@ -3,7 +3,7 @@
   "display_name": "Reciprocal Social Interaction Total Score",
   "description": "",
   "type": "numeric",
-  "other": {
-    "descriptions": null
-  }
+  "forms": [
+    "ADOS Combined Forms"
+  ]
 }

@@ -1,0 +1,10 @@
+{
+  "id": "dsm_5_insist_same_inflexible",
+  "display_name": "2. Insistence on sameness, inflexible adherence to routines, or ritualized patterns of verbal or nonverbal behavior (e.g., extreme distress at small changes, difficulties with transitions, rigid thinking patterns, greeting rituals, need to take same route or eat same food every day).",
+  "description": "",
+  "type": "choices",
+  "domain": "dsm_5_development_deficit_3",
+  "forms": [
+    "DSM-5 Clinical Judgment: Interview"
+  ]
+}

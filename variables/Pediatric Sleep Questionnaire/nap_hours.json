@@ -1,9 +1,9 @@
 {
   "id": "nap_hours",
-  "display_name": "How long is a nap?\n     HRS",
+  "display_name": "How long is a nap? (hours)",
   "description": "",
   "type": "numeric",
-  "other": {
-    "descriptions": null
-  }
+  "forms": [
+    "Pediatric Sleep Questionnaire"
+  ]
 }

@@ -3,7 +3,7 @@
   "display_name": "Arithmetic Raw Score",
   "description": "",
   "type": "numeric",
-  "other": {
-    "descriptions": null
-  }
+  "forms": [
+    "WISC-V"
+  ]
 }

@@ -2,8 +2,8 @@
   "id": "fine_age_equiv_mnth",
   "display_name": "Motor- Fine Age Equivalent Month",
   "description": "",
-  "type": "integer",
-  "other": {
-    "descriptions": null
-  }
+  "type": "numeric",
+  "forms": [
+    "Vineland III Combined Forms"
+  ]
 }

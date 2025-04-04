@@ -1,10 +1,10 @@
 {
   "id": "sleep_away_home_problem",
-  "display_name": "Problem?",
+  "display_name": "27. Child has trouble sleeping away from home (visiting relatives, vacation, etc) (problem?)",
   "description": "",
   "type": "choices",
   "domain": "awake_fright_dream_problem_2",
-  "other": {
-    "descriptions": null
-  }
+  "forms": [
+    "Child's Sleep Habits Questionnaire"
+  ]
 }

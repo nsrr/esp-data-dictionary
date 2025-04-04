@@ -1,9 +1,9 @@
 {
   "id": "night_awake_min",
-  "display_name": "Min",
+  "display_name": "For how long is your child awake during the night? (minutes)",
   "description": "",
-  "type": "integer",
-  "other": {
-    "descriptions": null
-  }
+  "type": "numeric",
+  "forms": [
+    "Pediatric Sleep Questionnaire"
+  ]
 }

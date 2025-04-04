@@ -1,10 +1,10 @@
 {
   "id": "promis_child_health",
-  "display_name": "In general, would you say your childs\nhealth is:",
+  "display_name": "In general, would you say your child's health is:",
   "description": "",
   "type": "choices",
   "domain": "promis_child_health_10",
-  "other": {
-    "descriptions": null
-  }
+  "forms": [
+    "Early Childhood Parent Report Global Health 8a"
+  ]
 }

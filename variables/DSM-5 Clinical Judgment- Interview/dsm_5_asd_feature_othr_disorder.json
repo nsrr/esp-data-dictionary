@@ -1,0 +1,10 @@
+{
+  "id": "dsm_5_asd_feature_othr_disorder",
+  "display_name": "Associated with another neurodevelopmental, mental, or behavioral disorder.",
+  "description": "",
+  "type": "choices",
+  "domain": "dsm_5_asd_feature_othr_disorder_1",
+  "forms": [
+    "DSM-5 Clinical Judgment: Interview"
+  ]
+}

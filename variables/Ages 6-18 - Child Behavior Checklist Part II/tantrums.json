@@ -1,0 +1,10 @@
+{
+  "id": "tantrums",
+  "display_name": "95. Temper tantrums or hot temper.",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "forms": [
+    "Ages 6-18 : Child Behavior Checklist Part II"
+  ]
+}

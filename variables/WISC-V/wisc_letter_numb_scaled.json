@@ -3,7 +3,7 @@
   "display_name": "Letter-Number Sequencing Scaled Score",
   "description": "",
   "type": "numeric",
-  "other": {
-    "descriptions": null
-  }
+  "forms": [
+    "WISC-V"
+  ]
 }

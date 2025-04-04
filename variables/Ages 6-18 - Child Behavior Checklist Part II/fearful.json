@@ -1,0 +1,10 @@
+{
+  "id": "fearful",
+  "display_name": "50. Too fearful or anxious.",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "forms": [
+    "Ages 6-18 : Child Behavior Checklist Part II"
+  ]
+}

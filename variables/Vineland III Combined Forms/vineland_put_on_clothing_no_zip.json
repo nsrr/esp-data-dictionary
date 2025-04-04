@@ -1,10 +1,10 @@
 {
   "id": "vineland_put_on_clothing_no_zip",
-  "display_name": "20. Puts on clothing that opens in the front (for example, a coat or jacket); does not need to zip or button. ",
+  "display_name": "20. Puts on clothing that opens in the front (for example, a coat or jacket); does not need to zip or button.",
   "description": "",
   "type": "choices",
   "domain": "vineland_accepts_helpful_suggestions_3",
-  "other": {
-    "descriptions": null
-  }
+  "forms": [
+    "Vineland III Combined Forms"
+  ]
 }

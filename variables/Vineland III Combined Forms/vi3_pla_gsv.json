@@ -2,8 +2,8 @@
   "id": "vi3_pla_gsv",
   "display_name": "Socialization- Playtime GSV",
   "description": "",
-  "type": "numeric",
-  "other": {
-    "descriptions": null
-  }
+  "type": "time",
+  "forms": [
+    "Vineland III Combined Forms"
+  ]
 }

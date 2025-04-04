@@ -1,0 +1,10 @@
+{
+  "id": "cbcl_aches_or_pains",
+  "display_name": "1. Aches or pains (without medical cause; do not include stomach or headaches)",
+  "description": "",
+  "type": "choices",
+  "domain": "cbcl_aches_or_pains_3",
+  "forms": [
+    "Ages 1.5-5: Child Behavior Checklist"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "sulks",
+  "display_name": "88. Sulks a lot.",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "forms": [
+    "Ages 6-18 : Child Behavior Checklist Part II"
+  ]
+}

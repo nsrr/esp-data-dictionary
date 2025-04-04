@@ -1,10 +1,10 @@
 {
   "id": "talks_in_sleep_problem",
-  "display_name": "Problem?",
+  "display_name": "18. Child talks during sleep (problem?)",
   "description": "",
   "type": "choices",
   "domain": "awake_fright_dream_problem_2",
-  "other": {
-    "descriptions": null
-  }
+  "forms": [
+    "Child's Sleep Habits Questionnaire"
+  ]
 }

@@ -1,0 +1,10 @@
+{
+  "id": "cbcl_temper_tantrums",
+  "display_name": "85. Temper tantrums or hot temper",
+  "description": "",
+  "type": "choices",
+  "domain": "cbcl_aches_or_pains_3",
+  "forms": [
+    "Ages 1.5-5: Child Behavior Checklist"
+  ]
+}

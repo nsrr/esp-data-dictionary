@@ -3,7 +3,7 @@
   "display_name": "How many hours does your child sleep on average?  HRS",
   "description": "",
   "type": "numeric",
-  "other": {
-    "descriptions": null
-  }
+  "forms": [
+    "Pediatric Sleep Questionnaire"
+  ]
 }

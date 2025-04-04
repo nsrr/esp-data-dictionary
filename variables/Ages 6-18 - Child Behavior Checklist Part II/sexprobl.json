@@ -1,0 +1,10 @@
+{
+  "id": "sexprobl",
+  "display_name": "73. Sexual problems.",
+  "description": "",
+  "type": "choices",
+  "domain": "aches_3",
+  "forms": [
+    "Ages 6-18 : Child Behavior Checklist Part II"
+  ]
+}

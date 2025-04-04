@@ -1,9 +1,9 @@
 {
   "id": "cshq_sleep_disordered_breathing_final",
-  "display_name": "Sum: CSHQ_SLEEP_STOP_BREATH\n+ CSHQ_SNORE",
+  "display_name": "Sleep disordered breathing score",
   "description": "",
   "type": "numeric",
-  "other": {
-    "descriptions": null
-  }
+  "forms": [
+    "Child's Sleep Habits Questionnaire"
+  ]
 }

@@ -1,0 +1,10 @@
+{
+  "id": "screen_under_dx",
+  "display_name": "4. Child was screened under:",
+  "description": "",
+  "type": "choices",
+  "domain": "screen_under_dx_4",
+  "forms": [
+    "DSM-5 Clinical Judgment: Interview"
+  ]
+}
